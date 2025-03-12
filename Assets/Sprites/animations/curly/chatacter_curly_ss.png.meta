@@ -1,0 +1,6032 @@
+fileFormatVersion: 2
+guid: a12dfbd261c57f948ad2878db35f369a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6642627498101967506
+    second: chatacter_curly_ss_0
+  - first:
+      213: -2938353238082898838
+    second: chatacter_curly_ss_1
+  - first:
+      213: -607053555045295395
+    second: chatacter_curly_ss_2
+  - first:
+      213: 5220631570459061825
+    second: chatacter_curly_ss_3
+  - first:
+      213: -8684757514426602219
+    second: chatacter_curly_ss_4
+  - first:
+      213: -6218358887028007641
+    second: chatacter_curly_ss_5
+  - first:
+      213: 8164883198917707832
+    second: chatacter_curly_ss_6
+  - first:
+      213: -8909160308692540475
+    second: chatacter_curly_ss_7
+  - first:
+      213: 7289363962655094278
+    second: chatacter_curly_ss_8
+  - first:
+      213: -6327132190518717977
+    second: chatacter_curly_ss_9
+  - first:
+      213: 6324608249281233087
+    second: chatacter_curly_ss_10
+  - first:
+      213: 5530668999889314646
+    second: chatacter_curly_ss_11
+  - first:
+      213: -4676453417100960210
+    second: chatacter_curly_ss_12
+  - first:
+      213: -3772049070720547575
+    second: chatacter_curly_ss_13
+  - first:
+      213: -7784488302590619228
+    second: chatacter_curly_ss_14
+  - first:
+      213: 7135504437715762589
+    second: chatacter_curly_ss_15
+  - first:
+      213: 962820326929061887
+    second: chatacter_curly_ss_16
+  - first:
+      213: 3720295047463138772
+    second: chatacter_curly_ss_17
+  - first:
+      213: 4413115789979369968
+    second: chatacter_curly_ss_18
+  - first:
+      213: 6998571776755089937
+    second: chatacter_curly_ss_19
+  - first:
+      213: -5389260846217083368
+    second: chatacter_curly_ss_20
+  - first:
+      213: 3569708313965846589
+    second: chatacter_curly_ss_21
+  - first:
+      213: -2667265850343341919
+    second: chatacter_curly_ss_22
+  - first:
+      213: -4148059549274095075
+    second: chatacter_curly_ss_23
+  - first:
+      213: 901838563822184291
+    second: chatacter_curly_ss_24
+  - first:
+      213: 6934907679455848622
+    second: chatacter_curly_ss_25
+  - first:
+      213: 2095164636364167307
+    second: chatacter_curly_ss_26
+  - first:
+      213: -2788654381182170985
+    second: chatacter_curly_ss_27
+  - first:
+      213: 2945494893798962366
+    second: chatacter_curly_ss_28
+  - first:
+      213: -8423740464765847093
+    second: chatacter_curly_ss_29
+  - first:
+      213: -5392914645616183915
+    second: chatacter_curly_ss_30
+  - first:
+      213: 5369657187844057499
+    second: chatacter_curly_ss_31
+  - first:
+      213: -966780843165810931
+    second: chatacter_curly_ss_32
+  - first:
+      213: 3991310210032671941
+    second: chatacter_curly_ss_33
+  - first:
+      213: 5044079520712266539
+    second: chatacter_curly_ss_34
+  - first:
+      213: -1563304960408934165
+    second: chatacter_curly_ss_35
+  - first:
+      213: 3066877189456599042
+    second: chatacter_curly_ss_36
+  - first:
+      213: -3837053906091903750
+    second: chatacter_curly_ss_37
+  - first:
+      213: 3198504954699013528
+    second: chatacter_curly_ss_38
+  - first:
+      213: 2775333340759945382
+    second: chatacter_curly_ss_39
+  - first:
+      213: -2149641181755989329
+    second: chatacter_curly_ss_40
+  - first:
+      213: -6417713468992422097
+    second: chatacter_curly_ss_41
+  - first:
+      213: 5279502624652635638
+    second: chatacter_curly_ss_42
+  - first:
+      213: 3924965569247884071
+    second: chatacter_curly_ss_43
+  - first:
+      213: 4090514090641739215
+    second: chatacter_curly_ss_44
+  - first:
+      213: 4127944749461025718
+    second: chatacter_curly_ss_45
+  - first:
+      213: 2067989045764263958
+    second: chatacter_curly_ss_46
+  - first:
+      213: -7377464596135508570
+    second: chatacter_curly_ss_47
+  - first:
+      213: -3928264569050252703
+    second: chatacter_curly_ss_48
+  - first:
+      213: 8492756977236943148
+    second: chatacter_curly_ss_49
+  - first:
+      213: -3568063319270271853
+    second: chatacter_curly_ss_50
+  - first:
+      213: -6548026720201774788
+    second: chatacter_curly_ss_51
+  - first:
+      213: 1051066835475300565
+    second: chatacter_curly_ss_52
+  - first:
+      213: -930704071759592703
+    second: chatacter_curly_ss_53
+  - first:
+      213: 8675426035546520764
+    second: chatacter_curly_ss_54
+  - first:
+      213: 8086395515992338964
+    second: chatacter_curly_ss_55
+  - first:
+      213: 5796138441349224508
+    second: chatacter_curly_ss_56
+  - first:
+      213: -3444831922789754116
+    second: chatacter_curly_ss_57
+  - first:
+      213: 2749302236077988436
+    second: chatacter_curly_ss_58
+  - first:
+      213: 934824121996254262
+    second: chatacter_curly_ss_59
+  - first:
+      213: -8065154591264834113
+    second: chatacter_curly_ss_60
+  - first:
+      213: -9176271417911939697
+    second: chatacter_curly_ss_61
+  - first:
+      213: 5361673106863880620
+    second: chatacter_curly_ss_62
+  - first:
+      213: -5843181671539814572
+    second: chatacter_curly_ss_63
+  - first:
+      213: 1095001487408904766
+    second: chatacter_curly_ss_64
+  - first:
+      213: 5434041424707275729
+    second: chatacter_curly_ss_65
+  - first:
+      213: 4924629507818681703
+    second: chatacter_curly_ss_66
+  - first:
+      213: 6222404986896250551
+    second: chatacter_curly_ss_67
+  - first:
+      213: 8752686084490303337
+    second: chatacter_curly_ss_68
+  - first:
+      213: -1473811183407377133
+    second: chatacter_curly_ss_69
+  - first:
+      213: -4507263650122185229
+    second: chatacter_curly_ss_70
+  - first:
+      213: 4667329835700434360
+    second: chatacter_curly_ss_71
+  - first:
+      213: 1521033533975276064
+    second: chatacter_curly_ss_72
+  - first:
+      213: 4463313592578087567
+    second: chatacter_curly_ss_73
+  - first:
+      213: -1121729159811389181
+    second: chatacter_curly_ss_74
+  - first:
+      213: -1690501239504001078
+    second: chatacter_curly_ss_75
+  - first:
+      213: 7567937593735878647
+    second: chatacter_curly_ss_76
+  - first:
+      213: 7146185516867038468
+    second: chatacter_curly_ss_77
+  - first:
+      213: 7084580667597553781
+    second: chatacter_curly_ss_78
+  - first:
+      213: -4818911947226594615
+    second: chatacter_curly_ss_79
+  - first:
+      213: -6142218027496177986
+    second: chatacter_curly_ss_80
+  - first:
+      213: 6087877002551467515
+    second: chatacter_curly_ss_81
+  - first:
+      213: 4359744158130436145
+    second: chatacter_curly_ss_82
+  - first:
+      213: -2528540031732290727
+    second: chatacter_curly_ss_83
+  - first:
+      213: -4237407475297448496
+    second: chatacter_curly_ss_84
+  - first:
+      213: -5180359649876221519
+    second: chatacter_curly_ss_85
+  - first:
+      213: 4280918937026933813
+    second: chatacter_curly_ss_86
+  - first:
+      213: 5190536891257249799
+    second: chatacter_curly_ss_87
+  - first:
+      213: 1311230976937308501
+    second: chatacter_curly_ss_88
+  - first:
+      213: -927700698423936451
+    second: chatacter_curly_ss_89
+  - first:
+      213: -6418415366733778924
+    second: chatacter_curly_ss_90
+  - first:
+      213: -1433037574010248060
+    second: chatacter_curly_ss_91
+  - first:
+      213: 3332408381074442665
+    second: chatacter_curly_ss_92
+  - first:
+      213: 783213392265062532
+    second: chatacter_curly_ss_93
+  - first:
+      213: 2360911334208915776
+    second: chatacter_curly_ss_94
+  - first:
+      213: -5334037191994577601
+    second: chatacter_curly_ss_95
+  - first:
+      213: 8177239795522376086
+    second: chatacter_curly_ss_96
+  - first:
+      213: 6392897402554025030
+    second: chatacter_curly_ss_97
+  - first:
+      213: 5380632072214749886
+    second: chatacter_curly_ss_98
+  - first:
+      213: -9006342812967353224
+    second: chatacter_curly_ss_99
+  - first:
+      213: 8871515149902097290
+    second: chatacter_curly_ss_100
+  - first:
+      213: -7680595295003984504
+    second: chatacter_curly_ss_101
+  - first:
+      213: 2788383206430160267
+    second: chatacter_curly_ss_102
+  - first:
+      213: 2276048719988692225
+    second: chatacter_curly_ss_103
+  - first:
+      213: 1260146608162696546
+    second: chatacter_curly_ss_104
+  - first:
+      213: -1138759700211594406
+    second: chatacter_curly_ss_105
+  - first:
+      213: -1976337565697006508
+    second: chatacter_curly_ss_106
+  - first:
+      213: 8361760050575870082
+    second: chatacter_curly_ss_107
+  - first:
+      213: -3679065486252381478
+    second: chatacter_curly_ss_108
+  - first:
+      213: -5865524978108620992
+    second: chatacter_curly_ss_109
+  - first:
+      213: -7256633523098978333
+    second: chatacter_curly_ss_110
+  - first:
+      213: 683378556288289071
+    second: chatacter_curly_ss_111
+  - first:
+      213: -4898890388169698475
+    second: chatacter_curly_ss_112
+  - first:
+      213: -1835305736621686147
+    second: chatacter_curly_ss_113
+  - first:
+      213: -2351682284532680031
+    second: chatacter_curly_ss_114
+  - first:
+      213: -4599697477171988053
+    second: chatacter_curly_ss_115
+  - first:
+      213: -3207053116732153171
+    second: chatacter_curly_ss_116
+  - first:
+      213: 8900955481549033343
+    second: chatacter_curly_ss_117
+  - first:
+      213: -1699163771911659313
+    second: chatacter_curly_ss_118
+  - first:
+      213: 7068448777080563337
+    second: chatacter_curly_ss_119
+  - first:
+      213: -2938788954833087062
+    second: chatacter_curly_ss_120
+  - first:
+      213: -6163388418107517266
+    second: chatacter_curly_ss_121
+  - first:
+      213: 8160343166550864566
+    second: chatacter_curly_ss_122
+  - first:
+      213: -725358137279916392
+    second: chatacter_curly_ss_123
+  - first:
+      213: 8125986402741734808
+    second: chatacter_curly_ss_124
+  - first:
+      213: 1443898021723650389
+    second: chatacter_curly_ss_125
+  - first:
+      213: 3187794034313619765
+    second: chatacter_curly_ss_126
+  - first:
+      213: -1977517144190236204
+    second: chatacter_curly_ss_127
+  - first:
+      213: 8153423509176931566
+    second: chatacter_curly_ss_128
+  - first:
+      213: 5702500195388696711
+    second: chatacter_curly_ss_129
+  - first:
+      213: 910072256094688220
+    second: chatacter_curly_ss_130
+  - first:
+      213: -5553694984942358592
+    second: chatacter_curly_ss_131
+  - first:
+      213: -8579514272927707435
+    second: chatacter_curly_ss_132
+  - first:
+      213: -3628415990497598459
+    second: chatacter_curly_ss_133
+  - first:
+      213: -7861198428626975559
+    second: chatacter_curly_ss_134
+  - first:
+      213: -9060680103989873810
+    second: chatacter_curly_ss_135
+  - first:
+      213: -6461636153787906765
+    second: chatacter_curly_ss_136
+  - first:
+      213: -8204294295578142066
+    second: chatacter_curly_ss_137
+  - first:
+      213: 3798111853964497790
+    second: chatacter_curly_ss_138
+  - first:
+      213: 7377810073937506463
+    second: chatacter_curly_ss_139
+  - first:
+      213: -714270191836682680
+    second: chatacter_curly_ss_140
+  - first:
+      213: -3797093443529476790
+    second: chatacter_curly_ss_141
+  - first:
+      213: -7040648771878958951
+    second: chatacter_curly_ss_142
+  - first:
+      213: -1526370147772384139
+    second: chatacter_curly_ss_143
+  - first:
+      213: -9066957204304515808
+    second: chatacter_curly_ss_144
+  - first:
+      213: 1048505747529891601
+    second: chatacter_curly_ss_145
+  - first:
+      213: 8060178239628352224
+    second: chatacter_curly_ss_146
+  - first:
+      213: -7465403582415293166
+    second: chatacter_curly_ss_147
+  - first:
+      213: -6361848473910383682
+    second: chatacter_curly_ss_148
+  - first:
+      213: -2221245841509556271
+    second: chatacter_curly_ss_149
+  - first:
+      213: 8525159145481616297
+    second: chatacter_curly_ss_150
+  - first:
+      213: 6710017483871939487
+    second: chatacter_curly_ss_151
+  - first:
+      213: 6223012209474312995
+    second: chatacter_curly_ss_152
+  - first:
+      213: -2029032018928627067
+    second: chatacter_curly_ss_153
+  - first:
+      213: -4224104013391814872
+    second: chatacter_curly_ss_154
+  - first:
+      213: 73445820765638120
+    second: chatacter_curly_ss_155
+  - first:
+      213: -613195221990058403
+    second: chatacter_curly_ss_156
+  - first:
+      213: 8723344167716608463
+    second: chatacter_curly_ss_157
+  - first:
+      213: -554312173967969129
+    second: chatacter_curly_ss_158
+  - first:
+      213: 6033236605513384077
+    second: chatacter_curly_ss_159
+  - first:
+      213: 3398266286740781498
+    second: chatacter_curly_ss_160
+  - first:
+      213: 4196578878325010080
+    second: chatacter_curly_ss_161
+  - first:
+      213: -8715370817846166193
+    second: chatacter_curly_ss_162
+  - first:
+      213: 1193324822920069777
+    second: chatacter_curly_ss_163
+  - first:
+      213: 2127854326384078633
+    second: chatacter_curly_ss_164
+  - first:
+      213: -9086032849124461451
+    second: chatacter_curly_ss_165
+  - first:
+      213: -5228006645559077891
+    second: chatacter_curly_ss_166
+  - first:
+      213: 6800552001430610510
+    second: chatacter_curly_ss_167
+  - first:
+      213: -2486805470016738469
+    second: chatacter_curly_ss_168
+  - first:
+      213: -813101402569589190
+    second: chatacter_curly_ss_169
+  - first:
+      213: -7249908615153664547
+    second: chatacter_curly_ss_170
+  - first:
+      213: -4604488794141406620
+    second: chatacter_curly_ss_171
+  - first:
+      213: -8536321526475985719
+    second: chatacter_curly_ss_172
+  - first:
+      213: 4932177944443361981
+    second: chatacter_curly_ss_173
+  - first:
+      213: -4837152969850056272
+    second: chatacter_curly_ss_174
+  - first:
+      213: -2134707904628944869
+    second: chatacter_curly_ss_175
+  - first:
+      213: -1786574801996622730
+    second: chatacter_curly_ss_176
+  - first:
+      213: 7295315478461024917
+    second: chatacter_curly_ss_177
+  - first:
+      213: 3708017137959967375
+    second: chatacter_curly_ss_178
+  - first:
+      213: -9083682960499941302
+    second: chatacter_curly_ss_179
+  - first:
+      213: 7882371819342086315
+    second: chatacter_curly_ss_180
+  - first:
+      213: 6772442110328150765
+    second: chatacter_curly_ss_181
+  - first:
+      213: -2770314683667797259
+    second: chatacter_curly_ss_182
+  - first:
+      213: 2046087359739772840
+    second: chatacter_curly_ss_183
+  - first:
+      213: 204153404848244110
+    second: chatacter_curly_ss_184
+  - first:
+      213: 796528710505096142
+    second: chatacter_curly_ss_185
+  - first:
+      213: -8431045446863364801
+    second: chatacter_curly_ss_186
+  - first:
+      213: 2053293011643260990
+    second: chatacter_curly_ss_187
+  - first:
+      213: -4102056675660225847
+    second: chatacter_curly_ss_188
+  - first:
+      213: 4993439154499085003
+    second: chatacter_curly_ss_189
+  - first:
+      213: 7945386406589854862
+    second: chatacter_curly_ss_190
+  - first:
+      213: 104654526344426133
+    second: chatacter_curly_ss_191
+  - first:
+      213: 5369035375901448362
+    second: chatacter_curly_ss_192
+  - first:
+      213: -6416224601067453610
+    second: chatacter_curly_ss_193
+  - first:
+      213: 2774814710773764865
+    second: chatacter_curly_ss_194
+  - first:
+      213: 4817013510573164432
+    second: chatacter_curly_ss_195
+  - first:
+      213: -3200946302159888783
+    second: chatacter_curly_ss_196
+  - first:
+      213: 6184442942583467205
+    second: chatacter_curly_ss_197
+  - first:
+      213: 8421185715120016989
+    second: chatacter_curly_ss_198
+  - first:
+      213: -8232194235015515781
+    second: chatacter_curly_ss_199
+  - first:
+      213: 6576882001281089151
+    second: chatacter_curly_ss_200
+  - first:
+      213: -8065479006662939404
+    second: chatacter_curly_ss_201
+  - first:
+      213: 1902237895908449653
+    second: chatacter_curly_ss_202
+  - first:
+      213: -103896084096264037
+    second: chatacter_curly_ss_203
+  - first:
+      213: 8615645816112039000
+    second: chatacter_curly_ss_204
+  - first:
+      213: -239425255745912016
+    second: chatacter_curly_ss_205
+  - first:
+      213: -7030619885967320423
+    second: chatacter_curly_ss_206
+  - first:
+      213: -8774986585701470475
+    second: chatacter_curly_ss_207
+  - first:
+      213: 2745625583282104820
+    second: chatacter_curly_ss_208
+  - first:
+      213: 5920027310669389319
+    second: chatacter_curly_ss_209
+  - first:
+      213: 7411250233030215082
+    second: chatacter_curly_ss_210
+  - first:
+      213: 3560232182208253157
+    second: chatacter_curly_ss_211
+  - first:
+      213: -1145084627131463763
+    second: chatacter_curly_ss_212
+  - first:
+      213: 5188917033138665935
+    second: chatacter_curly_ss_213
+  - first:
+      213: -7013813901589908970
+    second: chatacter_curly_ss_214
+  - first:
+      213: -2289430452168588943
+    second: chatacter_curly_ss_215
+  - first:
+      213: -7929981366937713748
+    second: chatacter_curly_ss_216
+  - first:
+      213: 6653112434215894522
+    second: chatacter_curly_ss_217
+  - first:
+      213: 6052217686909623769
+    second: chatacter_curly_ss_218
+  - first:
+      213: -8510610997205062410
+    second: chatacter_curly_ss_219
+  - first:
+      213: 1607882694109976966
+    second: chatacter_curly_ss_220
+  - first:
+      213: 8061503399210478639
+    second: chatacter_curly_ss_221
+  - first:
+      213: 2583394341611497643
+    second: chatacter_curly_ss_222
+  - first:
+      213: 8863537528623200372
+    second: chatacter_curly_ss_223
+  - first:
+      213: -4610890068551925387
+    second: chatacter_curly_ss_224
+  - first:
+      213: 1628817444605696091
+    second: chatacter_curly_ss_225
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chatacter_curly_ss_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1048
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65f3601c75a0d3a0800000000000000
+      internalID: -6642627498101967506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1048
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64337b4c4fd837d0800000000000000
+      internalID: -2938353238082898838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1048
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda13eb02005397f0800000000000000
+      internalID: -607053555045295395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1048
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ee664d0c8637840800000000000000
+      internalID: 5220631570459061825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1048
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51da230fd0b897780800000000000000
+      internalID: -8684757514426602219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1048
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d5dccd983f3b9a0800000000000000
+      internalID: -6218358887028007641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1048
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8388b00920e7f4170800000000000000
+      internalID: 8164883198917707832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1048
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c32f59e6ed4c5480800000000000000
+      internalID: -8909160308692540475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 994
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606379047e5092560800000000000000
+      internalID: 7289363962655094278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 994
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e151399bc28138a0800000000000000
+      internalID: -6327132190518717977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 994
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c9e981b585c750800000000000000
+      internalID: 6324608249281233087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 994
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653eaa41722e0cc40800000000000000
+      internalID: 5530668999889314646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 994
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e1901e466e91fb0800000000000000
+      internalID: -4676453417100960210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 994
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9050c58fa5df6abc0800000000000000
+      internalID: -3772049070720547575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 994
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a117edf121f7f390800000000000000
+      internalID: -7784488302590619228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 994
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d75470b77660360800000000000000
+      internalID: 7135504437715762589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 940
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7d1217cff9c5d00800000000000000
+      internalID: 962820326929061887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 940
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d57fab72a421a330800000000000000
+      internalID: 3720295047463138772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 940
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f14366ed698e3d30800000000000000
+      internalID: 4413115789979369968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_19
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 940
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112cf8073fbef1160800000000000000
+      internalID: 6998571776755089937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 940
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8164f4b50df7535b0800000000000000
+      internalID: -5389260846217083368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 940
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3061b56cc62a8130800000000000000
+      internalID: 3569708313965846589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_22
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 940
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a041c447d7fbfad0800000000000000
+      internalID: -2667265850343341919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_23
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 940
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12c95a31d12f66c0800000000000000
+      internalID: -4148059549274095075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_24
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 940
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367ae594569f38c00800000000000000
+      internalID: 901838563822184291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 884
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea82810bacdbd3060800000000000000
+      internalID: 6934907679455848622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 885
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b885278d225831d10800000000000000
+      internalID: 2095164636364167307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 883
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798cc408d95bc49d0800000000000000
+      internalID: -2788654381182170985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_28
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 883
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb43d90000080e820800000000000000
+      internalID: 2945494893798962366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 884
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc93c8d9dacd81b80800000000000000
+      internalID: -8423740464765847093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 832
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595bb04e3b48825b0800000000000000
+      internalID: -5392914645616183915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 832
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99611f33cad48a40800000000000000
+      internalID: 5369657187844057499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 832
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ff27302fd4592f0800000000000000
+      internalID: -966780843165810931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 832
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc13693d7bf36730800000000000000
+      internalID: 3991310210032671941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_34
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 832
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2390e2799b200640800000000000000
+      internalID: 5044079520712266539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_35
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 832
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be82837db660e4ae0800000000000000
+      internalID: -1563304960408934165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_36
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 832
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2081f470e8cbf8a20800000000000000
+      internalID: 3066877189456599042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_37
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 832
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4fd5f4dcb00cac0800000000000000
+      internalID: -3837053906091903750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 778
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d59255f4f536c20800000000000000
+      internalID: 3198504954699013528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_39
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 778
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a07b4518f6f38620800000000000000
+      internalID: 2775333340759945382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_40
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 778
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa222e60cb0fa22e0800000000000000
+      internalID: -2149641181755989329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 778
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f777a3a93bfe6a0800000000000000
+      internalID: -6417713468992422097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 778
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fda9254aaf844940800000000000000
+      internalID: 5279502624652635638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_43
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 786
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723b8aec367487630800000000000000
+      internalID: 3924965569247884071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_44
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 787
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd4e6994ec64c830800000000000000
+      internalID: 4090514090641739215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_45
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 786
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3301cf0e7694930800000000000000
+      internalID: 4127944749461025718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_46
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 778
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6109d289419f2bc10800000000000000
+      internalID: 2067989045764263958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_47
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 778
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5825c890bfd9990800000000000000
+      internalID: -7377464596135508570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_48
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 781
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ab102ff200c79c0800000000000000
+      internalID: -3928264569050252703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_49
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 778
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21ade769755cd570800000000000000
+      internalID: 8492756977236943148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_50
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 778
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3945bc6c051bb7ec0800000000000000
+      internalID: -3568063319270271853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 723
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c396b92146cb025a0800000000000000
+      internalID: -6548026720201774788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 724
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d003b3d7b3269e00800000000000000
+      internalID: 1051066835475300565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 724
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10382cbe3997513f0800000000000000
+      internalID: -930704071759592703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_54
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 724
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcfce3d30e456870800000000000000
+      internalID: 8675426035546520764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 724
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412f804d0e5a83070800000000000000
+      internalID: 8086395515992338964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_56
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 723
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c385b910435007050800000000000000
+      internalID: 5796138441349224508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_57
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 723
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfad0332e9f7130d0800000000000000
+      internalID: -3444831922789754116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_58
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 723
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a9d9931db772620800000000000000
+      internalID: 2749302236077988436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 670
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c9d07069929fc00800000000000000
+      internalID: 934824121996254262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_60
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 670
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd7c0951a0d21090800000000000000
+      internalID: -8065154591264834113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 670
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8de9cc63c557a080800000000000000
+      internalID: -9176271417911939697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_62
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 672
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9f268884d786a40800000000000000
+      internalID: 5361673106863880620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_63
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 670
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fcbcd6a39d8eea0800000000000000
+      internalID: -5843181671539814572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_64
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 670
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a388d1d0a323f00800000000000000
+      internalID: 1095001487408904766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_65
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 670
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db4f6e82e7996b40800000000000000
+      internalID: 5434041424707275729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_66
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 672
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76570ff027cc75440800000000000000
+      internalID: 4924629507818681703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 616
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6f19c2e5c6a5650800000000000000
+      internalID: 6222404986896250551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_68
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 616
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9679c80ce99c77970800000000000000
+      internalID: 8752686084490303337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 616
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315510b8988fb8be0800000000000000
+      internalID: -1473811183407377133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_70
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 617
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5cf69379bf271c0800000000000000
+      internalID: -4507263650122185229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_71
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 619
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5b18ac1cfa5c040800000000000000
+      internalID: 4667329835700434360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_72
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 620
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aad0cb0fbcb1510800000000000000
+      internalID: 1521033533975276064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_73
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 618
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a1ac69010e0fd30800000000000000
+      internalID: 4463313592578087567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_74
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 616
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309ae37b541de60f0800000000000000
+      internalID: -1121729159811389181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_75
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 616
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7a10f44122a88e0800000000000000
+      internalID: -1690501239504001078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_76
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 562
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f793f41527b60960800000000000000
+      internalID: 7567937593735878647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_77
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 562
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40da6ef8dd95c2360800000000000000
+      internalID: 7146185516867038468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_78
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 562
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57080cad49c715260800000000000000
+      internalID: 7084580667597553781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_79
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 562
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c24cad9d19cf1db0800000000000000
+      internalID: -4818911947226594615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_80
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 562
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebef6123f3572caa0800000000000000
+      internalID: -6142218027496177986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_81
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 562
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd995df0eb7c7450800000000000000
+      internalID: 6087877002551467515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_82
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 562
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138f2f0863ce08c30800000000000000
+      internalID: 4359744158130436145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_83
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 562
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bed38ec32d8ecd0800000000000000
+      internalID: -2528540031732290727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_84
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 562
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd8f4a1a54b135c0800000000000000
+      internalID: -4237407475297448496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_85
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 562
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b16c5c585aab18b0800000000000000
+      internalID: -5180359649876221519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_86
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 508
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534bbb98711e86b30800000000000000
+      internalID: 4280918937026933813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_87
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 508
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700e2fc4dcd780840800000000000000
+      internalID: 5190536891257249799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_88
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 508
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55136d650ad623210800000000000000
+      internalID: 1311230976937308501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_89
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 508
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a3f8441252023f0800000000000000
+      internalID: -927700698423936451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 508
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410bcecea353de6a0800000000000000
+      internalID: -6418415366733778924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_91
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 508
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484e4534be3dc1ce0800000000000000
+      internalID: -1433037574010248060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_92
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 508
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a90a7844c71f3e20800000000000000
+      internalID: 3332408381074442665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_93
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 508
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488a94d3e688eda00800000000000000
+      internalID: 783213392265062532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_94
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 520
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04947bd8954a3c020800000000000000
+      internalID: 2360911334208915776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_95
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 508
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3de0705f61b9f5b0800000000000000
+      internalID: -5334037191994577601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_96
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 508
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6919c47e4446b7170800000000000000
+      internalID: 8177239795522376086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_97
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 454
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64400cc015228b850800000000000000
+      internalID: 6392897402554025030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 454
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb22f63ac58dbaa40800000000000000
+      internalID: 5380632072214749886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_99
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 454
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87440b3edea030380800000000000000
+      internalID: -9006342812967353224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_100
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 451
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b29698604fd1b70800000000000000
+      internalID: 8871515149902097290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 449
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d30c1d54b096590800000000000000
+      internalID: -7680595295003984504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_102
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 454
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b853fe4b0c352b620800000000000000
+      internalID: 2788383206430160267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_103
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 454
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10598667046269f10800000000000000
+      internalID: 2276048719988692225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_104
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 454
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d6370e9a0fc7110800000000000000
+      internalID: 1260146608162696546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_105
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 466
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b8b5806105230f0800000000000000
+      internalID: -1138759700211594406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_106
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 454
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454ae508473a294e0800000000000000
+      internalID: -1976337565697006508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_107
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 454
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28880a7a670fa0470800000000000000
+      internalID: 8361760050575870082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 402
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adae68ace6551fcc0800000000000000
+      internalID: -3679065486252381478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_109
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 402
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f97aafb18799ea0800000000000000
+      internalID: -5865524978108620992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_110
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 402
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e77e7e02424b4b90800000000000000
+      internalID: -7256633523098978333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_111
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 402
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29ceae1d29db7900800000000000000
+      internalID: 683378556288289071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_112
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 402
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553d19bb525a30cb0800000000000000
+      internalID: -4898890388169698475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_113
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 402
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d728d6a082fa786e0800000000000000
+      internalID: -1835305736621686147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_114
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 402
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aab9d50c652d5fd0800000000000000
+      internalID: -2351682284532680031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_115
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 402
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba937e6c3879a20c0800000000000000
+      internalID: -4599697477171988053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_116
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 402
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2ee599e224e73d0800000000000000
+      internalID: -3207053116732153171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_117
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 402
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fcb47e9db868b70800000000000000
+      internalID: 8900955481549033343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_118
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 402
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc02eff4d8b5b68e0800000000000000
+      internalID: -1699163771911659313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_119
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 402
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9866ee666bc281260800000000000000
+      internalID: 7068448777080563337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_120
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 346
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5155514035737d0800000000000000
+      internalID: -2938788954833087062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_121
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 346
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6d1f583ee377aa0800000000000000
+      internalID: -6163388418107517266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_122
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 346
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2fc87efdc5f3170800000000000000
+      internalID: 8160343166550864566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_123
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 346
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896dd740e920fe5f0800000000000000
+      internalID: -725358137279916392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_124
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 346
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d4319749d45c070800000000000000
+      internalID: 8125986402741734808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_125
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 346
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5593ab4c991c90410800000000000000
+      internalID: 1443898021723650389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_126
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 346
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5396f58d8c15d3c20800000000000000
+      internalID: 3187794034313619765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_127
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 346
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9cb4b72a27e84e0800000000000000
+      internalID: -1977517144190236204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_128
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 346
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee45fcf9b77c62170800000000000000
+      internalID: 8153423509176931566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_129
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 346
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7882dbde6b9532f40800000000000000
+      internalID: 5702500195388696711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_130
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 346
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3567825e931ac00800000000000000
+      internalID: 910072256094688220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_131
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 346
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf64aff5df4de2b0800000000000000
+      internalID: -5553694984942358592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_132
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 346
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de00c899317fe880800000000000000
+      internalID: -8579514272927707435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_133
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 346
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5042b0d71e645adc0800000000000000
+      internalID: -3628415990497598459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_134
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 346
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b484d8fda967e290800000000000000
+      internalID: -7861198428626975559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_135
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 346
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63fb32737ff14280800000000000000
+      internalID: -9060680103989873810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_136
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 346
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33586a14728a356a0800000000000000
+      internalID: -6461636153787906765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_137
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 365
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a1d4f6ecd742e80800000000000000
+      internalID: -8204294295578142066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_138
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 346
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7311c0ab9a95b430800000000000000
+      internalID: 3798111853964497790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_139
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 345
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90f7554c2f336660800000000000000
+      internalID: 7377810073937506463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_140
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 367
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846aced7b076616f0800000000000000
+      internalID: -714270191836682680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_141
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 346
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45f57781a30e4bc0800000000000000
+      internalID: -3797093443529476790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_142
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 345
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9984dd3be379a4e90800000000000000
+      internalID: -7040648771878958951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_143
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 346
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c344a007e31dae0800000000000000
+      internalID: -1526370147772384139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_144
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 358
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02da2c32672bb2280800000000000000
+      internalID: -9066957204304515808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_145
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 346
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f79721c6a0d8e00800000000000000
+      internalID: 1048505747529891601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_146
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 346
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea916f77618bdf60800000000000000
+      internalID: 8060178239628352224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_147
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 346
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2153535cefe856890800000000000000
+      internalID: -7465403582415293166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_148
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 357
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbe5bdf48c26b7a0800000000000000
+      internalID: -6361848473910383682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_149
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 346
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df52020dac8c21e0800000000000000
+      internalID: -2221245841509556271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_150
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 346
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abba1813137f4670800000000000000
+      internalID: 8525159145481616297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_151
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9be8d2b955ce1d50800000000000000
+      internalID: 6710017483871939487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_152
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 346
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b92a232a49c5650800000000000000
+      internalID: 6223012209474312995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 292
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5829dd9012e67d3e0800000000000000
+      internalID: -2029032018928627067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_154
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 292
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f9a73b7c7f065c0800000000000000
+      internalID: -4224104013391814872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_155
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 292
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed09f8b59ee40100800000000000000
+      internalID: 73445820765638120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_156
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 292
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56d057c13e7d77f0800000000000000
+      internalID: -613195221990058403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_157
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 292
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc959326d4b8f0970800000000000000
+      internalID: 8723344167716608463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_158
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 291
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794f6ffb300be48f0800000000000000
+      internalID: -554312173967969129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_159
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 291
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80428d2abc5ab350800000000000000
+      internalID: 6033236605513384077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_160
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 304
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9be59de21192f20800000000000000
+      internalID: 3398266286740781498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_161
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 291
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae2872614e3d3a30800000000000000
+      internalID: 4196578878325010080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_162
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 292
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d397cca68cc0780800000000000000
+      internalID: -8715370817846166193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_163
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 292
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1928ecb9a9a8f8010800000000000000
+      internalID: 1193324822920069777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_164
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 236
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fa6e96c38a78d10800000000000000
+      internalID: 2127854326384078633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_165
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 237
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574f76a734de7e180800000000000000
+      internalID: -9086032849124461451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_166
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 237
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3d110b7a36277b0800000000000000
+      internalID: -5228006645559077891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 238
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42e7d1b30a606e50800000000000000
+      internalID: 6800552001430610510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_168
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 238
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b6726c9971d7dd0800000000000000
+      internalID: -2486805470016738469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_169
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 238
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eb775159847b4f0800000000000000
+      internalID: -813101402569589190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_170
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 238
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddb8b3b686236b90800000000000000
+      internalID: -7249908615153664547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_171
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 236
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a4fec56d19910c0800000000000000
+      internalID: -4604488794141406620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_172
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 230
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cce0ed8cc4e88980800000000000000
+      internalID: -8536321526475985719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_173
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 219
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba109b65bd927440800000000000000
+      internalID: 4932177944443361981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_174
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 216
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b19cd3900bfedcb0800000000000000
+      internalID: -4837152969850056272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_175
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 216
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b109f5d887eff52e0800000000000000
+      internalID: -2134707904628944869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_176
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 215
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674d35aeeafc437e0800000000000000
+      internalID: -1786574801996622730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_177
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 215
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a041286ca2e3560800000000000000
+      internalID: 7295315478461024917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_178
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 216
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a1a29e0f5857330800000000000000
+      internalID: 3708017137959967375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_179
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 162
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40e12f897640f180800000000000000
+      internalID: -9083682960499941302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_180
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 162
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba04f67386fc36d60800000000000000
+      internalID: 7882371819342086315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_181
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 162
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea9108a73c8cfd50800000000000000
+      internalID: 6772442110328150765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_182
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 162
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faaee3197ddd89d0800000000000000
+      internalID: -2770314683667797259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_183
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 162
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afb4b0fc99256c10800000000000000
+      internalID: 2046087359739772840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_184
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 162
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e858aa7a07c45d200800000000000000
+      internalID: 204153404848244110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_185
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 162
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec36e0b54a6dd0b00800000000000000
+      internalID: 796528710505096142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_186
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 162
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dd88ee5d8eefa80800000000000000
+      internalID: -8431045446863364801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_187
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 162
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30e9c28d13ce7c10800000000000000
+      internalID: 2053293011643260990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_188
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 108
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2a0c6ef219217c0800000000000000
+      internalID: -4102056675660225847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_189
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 108
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2e17364724c4540800000000000000
+      internalID: 4993439154499085003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_190
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 108
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84710027dea34e60800000000000000
+      internalID: 7945386406589854862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_191
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 108
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59275eabcbec37100800000000000000
+      internalID: 104654526344426133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_192
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 108
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa89c1f5a35a28a40800000000000000
+      internalID: 5369035375901448362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_193
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 108
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653804e48bdf4f6a0800000000000000
+      internalID: -6416224601067453610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_194
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 108
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103d231274f128620800000000000000
+      internalID: 2774814710773764865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_195
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 108
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09788f7244879d240800000000000000
+      internalID: 4817013510573164432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_196
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 108
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ed8aa2c44f393d0800000000000000
+      internalID: -3200946302159888783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_197
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 108
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cceb56f61e83d550800000000000000
+      internalID: 6184442942583467205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_198
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 108
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e82516acf0ed470800000000000000
+      internalID: 8421185715120016989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_199
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 108
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71b1e395fe51cd80800000000000000
+      internalID: -8232194235015515781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_200
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 108
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ef4089557c54b50800000000000000
+      internalID: 6576882001281089151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_201
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 54
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc2c708399a11090800000000000000
+      internalID: -8065479006662939404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_202
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 54
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dd8efa94b166a10800000000000000
+      internalID: 1902237895908449653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_203
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 54
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9853eddf03ee8ef0800000000000000
+      internalID: -103896084096264037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_204
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 54
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85440fbd83ce09770800000000000000
+      internalID: 8615645816112039000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_205
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 72
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03302099ff36dacf0800000000000000
+      internalID: -239425255745912016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_206
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 76
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ade1aa6783e6e90800000000000000
+      internalID: -7030619885967320423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_207
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 76
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe2272313cf83680800000000000000
+      internalID: -8774986585701470475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_208
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 57
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f921c9cbeb6a1620800000000000000
+      internalID: 2745625583282104820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_209
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 76
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e5f013979282250800000000000000
+      internalID: 5920027310669389319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_210
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 75
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa50c4902dc0ad660800000000000000
+      internalID: 7411250233030215082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_211
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 55
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eccf6a8e4c786130800000000000000
+      internalID: 3560232182208253157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_212
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 21
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7811a3997db10f0800000000000000
+      internalID: -1145084627131463763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_213
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 22
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc93431bc8cb20840800000000000000
+      internalID: 5188917033138665935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_214
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 22
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6127903da6de9ae90800000000000000
+      internalID: -7013813901589908970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_215
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 22
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1718788322f4a30e0800000000000000
+      internalID: -2289430452168588943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_216
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 22
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3063c26fb03f190800000000000000
+      internalID: -7929981366937713748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_217
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 21
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd3c2c528a945c50800000000000000
+      internalID: 6653112434215894522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_218
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 21
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd95939bebcdf350800000000000000
+      internalID: 6052217686909623769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_219
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 21
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc2f02a36c34e980800000000000000
+      internalID: -8510610997205062410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_220
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 21
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6895ce69ac8505610800000000000000
+      internalID: 1607882694109976966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_221
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 22
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c6b8141a630ef60800000000000000
+      internalID: 8061503399210478639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_222
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8e18e577f0ad320800000000000000
+      internalID: 2583394341611497643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_223
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 22
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478fde6db6c910b70800000000000000
+      internalID: 8863537528623200372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_224
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 22
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571069589e3d200c0800000000000000
+      internalID: -4610890068551925387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_curly_ss_225
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 22
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b589ea506d8ba9610800000000000000
+      internalID: 1628817444605696091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chatacter_curly_ss_0: -6642627498101967506
+      chatacter_curly_ss_1: -2938353238082898838
+      chatacter_curly_ss_10: 6324608249281233087
+      chatacter_curly_ss_100: 8871515149902097290
+      chatacter_curly_ss_101: -7680595295003984504
+      chatacter_curly_ss_102: 2788383206430160267
+      chatacter_curly_ss_103: 2276048719988692225
+      chatacter_curly_ss_104: 1260146608162696546
+      chatacter_curly_ss_105: -1138759700211594406
+      chatacter_curly_ss_106: -1976337565697006508
+      chatacter_curly_ss_107: 8361760050575870082
+      chatacter_curly_ss_108: -3679065486252381478
+      chatacter_curly_ss_109: -5865524978108620992
+      chatacter_curly_ss_11: 5530668999889314646
+      chatacter_curly_ss_110: -7256633523098978333
+      chatacter_curly_ss_111: 683378556288289071
+      chatacter_curly_ss_112: -4898890388169698475
+      chatacter_curly_ss_113: -1835305736621686147
+      chatacter_curly_ss_114: -2351682284532680031
+      chatacter_curly_ss_115: -4599697477171988053
+      chatacter_curly_ss_116: -3207053116732153171
+      chatacter_curly_ss_117: 8900955481549033343
+      chatacter_curly_ss_118: -1699163771911659313
+      chatacter_curly_ss_119: 7068448777080563337
+      chatacter_curly_ss_12: -4676453417100960210
+      chatacter_curly_ss_120: -2938788954833087062
+      chatacter_curly_ss_121: -6163388418107517266
+      chatacter_curly_ss_122: 8160343166550864566
+      chatacter_curly_ss_123: -725358137279916392
+      chatacter_curly_ss_124: 8125986402741734808
+      chatacter_curly_ss_125: 1443898021723650389
+      chatacter_curly_ss_126: 3187794034313619765
+      chatacter_curly_ss_127: -1977517144190236204
+      chatacter_curly_ss_128: 8153423509176931566
+      chatacter_curly_ss_129: 5702500195388696711
+      chatacter_curly_ss_13: -3772049070720547575
+      chatacter_curly_ss_130: 910072256094688220
+      chatacter_curly_ss_131: -5553694984942358592
+      chatacter_curly_ss_132: -8579514272927707435
+      chatacter_curly_ss_133: -3628415990497598459
+      chatacter_curly_ss_134: -7861198428626975559
+      chatacter_curly_ss_135: -9060680103989873810
+      chatacter_curly_ss_136: -6461636153787906765
+      chatacter_curly_ss_137: -8204294295578142066
+      chatacter_curly_ss_138: 3798111853964497790
+      chatacter_curly_ss_139: 7377810073937506463
+      chatacter_curly_ss_14: -7784488302590619228
+      chatacter_curly_ss_140: -714270191836682680
+      chatacter_curly_ss_141: -3797093443529476790
+      chatacter_curly_ss_142: -7040648771878958951
+      chatacter_curly_ss_143: -1526370147772384139
+      chatacter_curly_ss_144: -9066957204304515808
+      chatacter_curly_ss_145: 1048505747529891601
+      chatacter_curly_ss_146: 8060178239628352224
+      chatacter_curly_ss_147: -7465403582415293166
+      chatacter_curly_ss_148: -6361848473910383682
+      chatacter_curly_ss_149: -2221245841509556271
+      chatacter_curly_ss_15: 7135504437715762589
+      chatacter_curly_ss_150: 8525159145481616297
+      chatacter_curly_ss_151: 6710017483871939487
+      chatacter_curly_ss_152: 6223012209474312995
+      chatacter_curly_ss_153: -2029032018928627067
+      chatacter_curly_ss_154: -4224104013391814872
+      chatacter_curly_ss_155: 73445820765638120
+      chatacter_curly_ss_156: -613195221990058403
+      chatacter_curly_ss_157: 8723344167716608463
+      chatacter_curly_ss_158: -554312173967969129
+      chatacter_curly_ss_159: 6033236605513384077
+      chatacter_curly_ss_16: 962820326929061887
+      chatacter_curly_ss_160: 3398266286740781498
+      chatacter_curly_ss_161: 4196578878325010080
+      chatacter_curly_ss_162: -8715370817846166193
+      chatacter_curly_ss_163: 1193324822920069777
+      chatacter_curly_ss_164: 2127854326384078633
+      chatacter_curly_ss_165: -9086032849124461451
+      chatacter_curly_ss_166: -5228006645559077891
+      chatacter_curly_ss_167: 6800552001430610510
+      chatacter_curly_ss_168: -2486805470016738469
+      chatacter_curly_ss_169: -813101402569589190
+      chatacter_curly_ss_17: 3720295047463138772
+      chatacter_curly_ss_170: -7249908615153664547
+      chatacter_curly_ss_171: -4604488794141406620
+      chatacter_curly_ss_172: -8536321526475985719
+      chatacter_curly_ss_173: 4932177944443361981
+      chatacter_curly_ss_174: -4837152969850056272
+      chatacter_curly_ss_175: -2134707904628944869
+      chatacter_curly_ss_176: -1786574801996622730
+      chatacter_curly_ss_177: 7295315478461024917
+      chatacter_curly_ss_178: 3708017137959967375
+      chatacter_curly_ss_179: -9083682960499941302
+      chatacter_curly_ss_18: 4413115789979369968
+      chatacter_curly_ss_180: 7882371819342086315
+      chatacter_curly_ss_181: 6772442110328150765
+      chatacter_curly_ss_182: -2770314683667797259
+      chatacter_curly_ss_183: 2046087359739772840
+      chatacter_curly_ss_184: 204153404848244110
+      chatacter_curly_ss_185: 796528710505096142
+      chatacter_curly_ss_186: -8431045446863364801
+      chatacter_curly_ss_187: 2053293011643260990
+      chatacter_curly_ss_188: -4102056675660225847
+      chatacter_curly_ss_189: 4993439154499085003
+      chatacter_curly_ss_19: 6998571776755089937
+      chatacter_curly_ss_190: 7945386406589854862
+      chatacter_curly_ss_191: 104654526344426133
+      chatacter_curly_ss_192: 5369035375901448362
+      chatacter_curly_ss_193: -6416224601067453610
+      chatacter_curly_ss_194: 2774814710773764865
+      chatacter_curly_ss_195: 4817013510573164432
+      chatacter_curly_ss_196: -3200946302159888783
+      chatacter_curly_ss_197: 6184442942583467205
+      chatacter_curly_ss_198: 8421185715120016989
+      chatacter_curly_ss_199: -8232194235015515781
+      chatacter_curly_ss_2: -607053555045295395
+      chatacter_curly_ss_20: -5389260846217083368
+      chatacter_curly_ss_200: 6576882001281089151
+      chatacter_curly_ss_201: -8065479006662939404
+      chatacter_curly_ss_202: 1902237895908449653
+      chatacter_curly_ss_203: -103896084096264037
+      chatacter_curly_ss_204: 8615645816112039000
+      chatacter_curly_ss_205: -239425255745912016
+      chatacter_curly_ss_206: -7030619885967320423
+      chatacter_curly_ss_207: -8774986585701470475
+      chatacter_curly_ss_208: 2745625583282104820
+      chatacter_curly_ss_209: 5920027310669389319
+      chatacter_curly_ss_21: 3569708313965846589
+      chatacter_curly_ss_210: 7411250233030215082
+      chatacter_curly_ss_211: 3560232182208253157
+      chatacter_curly_ss_212: -1145084627131463763
+      chatacter_curly_ss_213: 5188917033138665935
+      chatacter_curly_ss_214: -7013813901589908970
+      chatacter_curly_ss_215: -2289430452168588943
+      chatacter_curly_ss_216: -7929981366937713748
+      chatacter_curly_ss_217: 6653112434215894522
+      chatacter_curly_ss_218: 6052217686909623769
+      chatacter_curly_ss_219: -8510610997205062410
+      chatacter_curly_ss_22: -2667265850343341919
+      chatacter_curly_ss_220: 1607882694109976966
+      chatacter_curly_ss_221: 8061503399210478639
+      chatacter_curly_ss_222: 2583394341611497643
+      chatacter_curly_ss_223: 8863537528623200372
+      chatacter_curly_ss_224: -4610890068551925387
+      chatacter_curly_ss_225: 1628817444605696091
+      chatacter_curly_ss_23: -4148059549274095075
+      chatacter_curly_ss_24: 901838563822184291
+      chatacter_curly_ss_25: 6934907679455848622
+      chatacter_curly_ss_26: 2095164636364167307
+      chatacter_curly_ss_27: -2788654381182170985
+      chatacter_curly_ss_28: 2945494893798962366
+      chatacter_curly_ss_29: -8423740464765847093
+      chatacter_curly_ss_3: 5220631570459061825
+      chatacter_curly_ss_30: -5392914645616183915
+      chatacter_curly_ss_31: 5369657187844057499
+      chatacter_curly_ss_32: -966780843165810931
+      chatacter_curly_ss_33: 3991310210032671941
+      chatacter_curly_ss_34: 5044079520712266539
+      chatacter_curly_ss_35: -1563304960408934165
+      chatacter_curly_ss_36: 3066877189456599042
+      chatacter_curly_ss_37: -3837053906091903750
+      chatacter_curly_ss_38: 3198504954699013528
+      chatacter_curly_ss_39: 2775333340759945382
+      chatacter_curly_ss_4: -8684757514426602219
+      chatacter_curly_ss_40: -2149641181755989329
+      chatacter_curly_ss_41: -6417713468992422097
+      chatacter_curly_ss_42: 5279502624652635638
+      chatacter_curly_ss_43: 3924965569247884071
+      chatacter_curly_ss_44: 4090514090641739215
+      chatacter_curly_ss_45: 4127944749461025718
+      chatacter_curly_ss_46: 2067989045764263958
+      chatacter_curly_ss_47: -7377464596135508570
+      chatacter_curly_ss_48: -3928264569050252703
+      chatacter_curly_ss_49: 8492756977236943148
+      chatacter_curly_ss_5: -6218358887028007641
+      chatacter_curly_ss_50: -3568063319270271853
+      chatacter_curly_ss_51: -6548026720201774788
+      chatacter_curly_ss_52: 1051066835475300565
+      chatacter_curly_ss_53: -930704071759592703
+      chatacter_curly_ss_54: 8675426035546520764
+      chatacter_curly_ss_55: 8086395515992338964
+      chatacter_curly_ss_56: 5796138441349224508
+      chatacter_curly_ss_57: -3444831922789754116
+      chatacter_curly_ss_58: 2749302236077988436
+      chatacter_curly_ss_59: 934824121996254262
+      chatacter_curly_ss_6: 8164883198917707832
+      chatacter_curly_ss_60: -8065154591264834113
+      chatacter_curly_ss_61: -9176271417911939697
+      chatacter_curly_ss_62: 5361673106863880620
+      chatacter_curly_ss_63: -5843181671539814572
+      chatacter_curly_ss_64: 1095001487408904766
+      chatacter_curly_ss_65: 5434041424707275729
+      chatacter_curly_ss_66: 4924629507818681703
+      chatacter_curly_ss_67: 6222404986896250551
+      chatacter_curly_ss_68: 8752686084490303337
+      chatacter_curly_ss_69: -1473811183407377133
+      chatacter_curly_ss_7: -8909160308692540475
+      chatacter_curly_ss_70: -4507263650122185229
+      chatacter_curly_ss_71: 4667329835700434360
+      chatacter_curly_ss_72: 1521033533975276064
+      chatacter_curly_ss_73: 4463313592578087567
+      chatacter_curly_ss_74: -1121729159811389181
+      chatacter_curly_ss_75: -1690501239504001078
+      chatacter_curly_ss_76: 7567937593735878647
+      chatacter_curly_ss_77: 7146185516867038468
+      chatacter_curly_ss_78: 7084580667597553781
+      chatacter_curly_ss_79: -4818911947226594615
+      chatacter_curly_ss_8: 7289363962655094278
+      chatacter_curly_ss_80: -6142218027496177986
+      chatacter_curly_ss_81: 6087877002551467515
+      chatacter_curly_ss_82: 4359744158130436145
+      chatacter_curly_ss_83: -2528540031732290727
+      chatacter_curly_ss_84: -4237407475297448496
+      chatacter_curly_ss_85: -5180359649876221519
+      chatacter_curly_ss_86: 4280918937026933813
+      chatacter_curly_ss_87: 5190536891257249799
+      chatacter_curly_ss_88: 1311230976937308501
+      chatacter_curly_ss_89: -927700698423936451
+      chatacter_curly_ss_9: -6327132190518717977
+      chatacter_curly_ss_90: -6418415366733778924
+      chatacter_curly_ss_91: -1433037574010248060
+      chatacter_curly_ss_92: 3332408381074442665
+      chatacter_curly_ss_93: 783213392265062532
+      chatacter_curly_ss_94: 2360911334208915776
+      chatacter_curly_ss_95: -5334037191994577601
+      chatacter_curly_ss_96: 8177239795522376086
+      chatacter_curly_ss_97: 6392897402554025030
+      chatacter_curly_ss_98: 5380632072214749886
+      chatacter_curly_ss_99: -9006342812967353224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5690 @@
+fileFormatVersion: 2
+guid: a03c3a23c67fbf545a40863cfeca0442
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6535874065057060448
+    second: chatacter_bowl_ss_0
+  - first:
+      213: 8248730894744384878
+    second: chatacter_bowl_ss_1
+  - first:
+      213: 9199801320662345225
+    second: chatacter_bowl_ss_2
+  - first:
+      213: 8331902015189661949
+    second: chatacter_bowl_ss_3
+  - first:
+      213: -4759734508505748539
+    second: chatacter_bowl_ss_4
+  - first:
+      213: -4637765612529384539
+    second: chatacter_bowl_ss_5
+  - first:
+      213: 7790709701886535254
+    second: chatacter_bowl_ss_6
+  - first:
+      213: -5436780841729685912
+    second: chatacter_bowl_ss_7
+  - first:
+      213: -5885373590056138220
+    second: chatacter_bowl_ss_8
+  - first:
+      213: 6030496149993646630
+    second: chatacter_bowl_ss_9
+  - first:
+      213: 6376102576524794375
+    second: chatacter_bowl_ss_10
+  - first:
+      213: -3378183747689655888
+    second: chatacter_bowl_ss_11
+  - first:
+      213: -6467648561070589192
+    second: chatacter_bowl_ss_12
+  - first:
+      213: 8689209631776235844
+    second: chatacter_bowl_ss_13
+  - first:
+      213: -9010970278061969879
+    second: chatacter_bowl_ss_14
+  - first:
+      213: 6470403820671328866
+    second: chatacter_bowl_ss_15
+  - first:
+      213: 5659631340616584684
+    second: chatacter_bowl_ss_16
+  - first:
+      213: -8905499029734347550
+    second: chatacter_bowl_ss_17
+  - first:
+      213: 6942090104838791270
+    second: chatacter_bowl_ss_18
+  - first:
+      213: -8679369349594972799
+    second: chatacter_bowl_ss_19
+  - first:
+      213: -8158088464322059489
+    second: chatacter_bowl_ss_20
+  - first:
+      213: -3989869120143822544
+    second: chatacter_bowl_ss_21
+  - first:
+      213: 7058113790309500044
+    second: chatacter_bowl_ss_22
+  - first:
+      213: -5049087377175936269
+    second: chatacter_bowl_ss_23
+  - first:
+      213: 5537480312723378864
+    second: chatacter_bowl_ss_24
+  - first:
+      213: -6008083874647777713
+    second: chatacter_bowl_ss_25
+  - first:
+      213: -2666990705821379284
+    second: chatacter_bowl_ss_26
+  - first:
+      213: 1702484683284399765
+    second: chatacter_bowl_ss_27
+  - first:
+      213: 7701652065465940422
+    second: chatacter_bowl_ss_28
+  - first:
+      213: 3176584238602942053
+    second: chatacter_bowl_ss_29
+  - first:
+      213: 8716544915334409580
+    second: chatacter_bowl_ss_30
+  - first:
+      213: 3424613341451321456
+    second: chatacter_bowl_ss_31
+  - first:
+      213: -4626858933480047843
+    second: chatacter_bowl_ss_32
+  - first:
+      213: -2247571053466020034
+    second: chatacter_bowl_ss_33
+  - first:
+      213: -6874482933669528183
+    second: chatacter_bowl_ss_34
+  - first:
+      213: -2350697622323326742
+    second: chatacter_bowl_ss_35
+  - first:
+      213: 1663968109883041165
+    second: chatacter_bowl_ss_36
+  - first:
+      213: 7839616245187410325
+    second: chatacter_bowl_ss_37
+  - first:
+      213: 6190254982226320573
+    second: chatacter_bowl_ss_38
+  - first:
+      213: 8294851785018506704
+    second: chatacter_bowl_ss_39
+  - first:
+      213: 3901118635560600765
+    second: chatacter_bowl_ss_40
+  - first:
+      213: -5710096394258088755
+    second: chatacter_bowl_ss_41
+  - first:
+      213: -6351051135295826312
+    second: chatacter_bowl_ss_42
+  - first:
+      213: 4796310481583890521
+    second: chatacter_bowl_ss_43
+  - first:
+      213: -7267509659217087835
+    second: chatacter_bowl_ss_44
+  - first:
+      213: 420298142159077830
+    second: chatacter_bowl_ss_45
+  - first:
+      213: 5225905233712022421
+    second: chatacter_bowl_ss_46
+  - first:
+      213: -4149449119049154030
+    second: chatacter_bowl_ss_47
+  - first:
+      213: 5131123214814044433
+    second: chatacter_bowl_ss_48
+  - first:
+      213: 5656517403050088812
+    second: chatacter_bowl_ss_49
+  - first:
+      213: 8905091282801336592
+    second: chatacter_bowl_ss_50
+  - first:
+      213: 4001679303515430442
+    second: chatacter_bowl_ss_51
+  - first:
+      213: 3501590920791280475
+    second: chatacter_bowl_ss_52
+  - first:
+      213: -5858328599106997739
+    second: chatacter_bowl_ss_53
+  - first:
+      213: -8363003543743314144
+    second: chatacter_bowl_ss_54
+  - first:
+      213: 8280426033152095673
+    second: chatacter_bowl_ss_55
+  - first:
+      213: 1224977412421868438
+    second: chatacter_bowl_ss_56
+  - first:
+      213: 7157314181962785516
+    second: chatacter_bowl_ss_57
+  - first:
+      213: 7659951230363856458
+    second: chatacter_bowl_ss_58
+  - first:
+      213: 994745799467001631
+    second: chatacter_bowl_ss_59
+  - first:
+      213: 5133619694694638113
+    second: chatacter_bowl_ss_60
+  - first:
+      213: -8844448615477994344
+    second: chatacter_bowl_ss_61
+  - first:
+      213: -1536941308189695562
+    second: chatacter_bowl_ss_62
+  - first:
+      213: 6086859365501882023
+    second: chatacter_bowl_ss_63
+  - first:
+      213: -3088951857361949745
+    second: chatacter_bowl_ss_64
+  - first:
+      213: 581098230163838028
+    second: chatacter_bowl_ss_65
+  - first:
+      213: -7673144763937015063
+    second: chatacter_bowl_ss_66
+  - first:
+      213: 407114996707742389
+    second: chatacter_bowl_ss_67
+  - first:
+      213: -3744949012700018592
+    second: chatacter_bowl_ss_68
+  - first:
+      213: 1518300782778848204
+    second: chatacter_bowl_ss_69
+  - first:
+      213: -901361401185397546
+    second: chatacter_bowl_ss_70
+  - first:
+      213: 5346904634100121201
+    second: chatacter_bowl_ss_71
+  - first:
+      213: -1341547306796616096
+    second: chatacter_bowl_ss_72
+  - first:
+      213: 9176705420392553476
+    second: chatacter_bowl_ss_73
+  - first:
+      213: -3398700822854888085
+    second: chatacter_bowl_ss_74
+  - first:
+      213: -4281082568794489335
+    second: chatacter_bowl_ss_75
+  - first:
+      213: -4468868242300730286
+    second: chatacter_bowl_ss_76
+  - first:
+      213: -3471084178694794019
+    second: chatacter_bowl_ss_77
+  - first:
+      213: 6799760378184200911
+    second: chatacter_bowl_ss_78
+  - first:
+      213: -5607506935400616586
+    second: chatacter_bowl_ss_79
+  - first:
+      213: 5554617050912013177
+    second: chatacter_bowl_ss_80
+  - first:
+      213: 957175177346509699
+    second: chatacter_bowl_ss_81
+  - first:
+      213: -2707160231725112756
+    second: chatacter_bowl_ss_82
+  - first:
+      213: 6497596837782740620
+    second: chatacter_bowl_ss_83
+  - first:
+      213: -9103217245303951770
+    second: chatacter_bowl_ss_84
+  - first:
+      213: -4605864799688540891
+    second: chatacter_bowl_ss_85
+  - first:
+      213: 395027828926748768
+    second: chatacter_bowl_ss_86
+  - first:
+      213: 3070705192573059998
+    second: chatacter_bowl_ss_87
+  - first:
+      213: 4854865884443938915
+    second: chatacter_bowl_ss_88
+  - first:
+      213: -1632676925992263884
+    second: chatacter_bowl_ss_89
+  - first:
+      213: -5473993499891356308
+    second: chatacter_bowl_ss_90
+  - first:
+      213: 5279707112881652697
+    second: chatacter_bowl_ss_91
+  - first:
+      213: -2552728299923918815
+    second: chatacter_bowl_ss_92
+  - first:
+      213: 4062174883074014815
+    second: chatacter_bowl_ss_93
+  - first:
+      213: 4998200826244848899
+    second: chatacter_bowl_ss_94
+  - first:
+      213: -6315968003619561790
+    second: chatacter_bowl_ss_95
+  - first:
+      213: -759221046147208427
+    second: chatacter_bowl_ss_96
+  - first:
+      213: 6092372950403273256
+    second: chatacter_bowl_ss_97
+  - first:
+      213: -7799177330652086805
+    second: chatacter_bowl_ss_98
+  - first:
+      213: 4546984368756489
+    second: chatacter_bowl_ss_99
+  - first:
+      213: 4615653898948609723
+    second: chatacter_bowl_ss_100
+  - first:
+      213: 8120293966356693605
+    second: chatacter_bowl_ss_101
+  - first:
+      213: 6910925359495221655
+    second: chatacter_bowl_ss_102
+  - first:
+      213: 3529682770412085657
+    second: chatacter_bowl_ss_103
+  - first:
+      213: -4353088596145042689
+    second: chatacter_bowl_ss_104
+  - first:
+      213: 8276945374378830466
+    second: chatacter_bowl_ss_105
+  - first:
+      213: 8385520733036674993
+    second: chatacter_bowl_ss_106
+  - first:
+      213: -3108687064704289068
+    second: chatacter_bowl_ss_107
+  - first:
+      213: -1750124722210861235
+    second: chatacter_bowl_ss_108
+  - first:
+      213: 6124949140472630092
+    second: chatacter_bowl_ss_109
+  - first:
+      213: -5055308342174486971
+    second: chatacter_bowl_ss_110
+  - first:
+      213: -8405982696186582691
+    second: chatacter_bowl_ss_111
+  - first:
+      213: 8661964701016715055
+    second: chatacter_bowl_ss_112
+  - first:
+      213: 4895421789581678392
+    second: chatacter_bowl_ss_113
+  - first:
+      213: -1332047255841106909
+    second: chatacter_bowl_ss_114
+  - first:
+      213: -688807728798760669
+    second: chatacter_bowl_ss_115
+  - first:
+      213: -1445876322788479937
+    second: chatacter_bowl_ss_116
+  - first:
+      213: -7631368090686890395
+    second: chatacter_bowl_ss_117
+  - first:
+      213: -221658577151430361
+    second: chatacter_bowl_ss_118
+  - first:
+      213: -8989955931921588346
+    second: chatacter_bowl_ss_119
+  - first:
+      213: -5541067981948576164
+    second: chatacter_bowl_ss_120
+  - first:
+      213: -9163088661023669831
+    second: chatacter_bowl_ss_121
+  - first:
+      213: 6985679332425217968
+    second: chatacter_bowl_ss_122
+  - first:
+      213: 4418750199297963285
+    second: chatacter_bowl_ss_123
+  - first:
+      213: -3468762913962819678
+    second: chatacter_bowl_ss_124
+  - first:
+      213: -7243469852252207921
+    second: chatacter_bowl_ss_125
+  - first:
+      213: 3748572358057254378
+    second: chatacter_bowl_ss_126
+  - first:
+      213: 4072208726933884167
+    second: chatacter_bowl_ss_127
+  - first:
+      213: 2126426829944648347
+    second: chatacter_bowl_ss_128
+  - first:
+      213: 5592921471364252356
+    second: chatacter_bowl_ss_129
+  - first:
+      213: 1822468247469341942
+    second: chatacter_bowl_ss_130
+  - first:
+      213: 5613745789850903852
+    second: chatacter_bowl_ss_131
+  - first:
+      213: -4694315299179339344
+    second: chatacter_bowl_ss_132
+  - first:
+      213: -3392119689596982891
+    second: chatacter_bowl_ss_133
+  - first:
+      213: -4690289877233222849
+    second: chatacter_bowl_ss_134
+  - first:
+      213: 5683726366076756298
+    second: chatacter_bowl_ss_135
+  - first:
+      213: 3891270837703161681
+    second: chatacter_bowl_ss_136
+  - first:
+      213: -4486581594244805845
+    second: chatacter_bowl_ss_137
+  - first:
+      213: -6810351120061923929
+    second: chatacter_bowl_ss_138
+  - first:
+      213: 5479841433994667012
+    second: chatacter_bowl_ss_139
+  - first:
+      213: -7311025409414188010
+    second: chatacter_bowl_ss_140
+  - first:
+      213: -3381620921601360472
+    second: chatacter_bowl_ss_141
+  - first:
+      213: 6269117907758357531
+    second: chatacter_bowl_ss_142
+  - first:
+      213: 4336665671984787411
+    second: chatacter_bowl_ss_143
+  - first:
+      213: -3974187943848322209
+    second: chatacter_bowl_ss_144
+  - first:
+      213: -4874956269898244886
+    second: chatacter_bowl_ss_145
+  - first:
+      213: -7594326345217128802
+    second: chatacter_bowl_ss_146
+  - first:
+      213: -2527527118182566970
+    second: chatacter_bowl_ss_147
+  - first:
+      213: -348313488402779972
+    second: chatacter_bowl_ss_148
+  - first:
+      213: 4489129611470107557
+    second: chatacter_bowl_ss_149
+  - first:
+      213: -9071215804236893966
+    second: chatacter_bowl_ss_150
+  - first:
+      213: -23368800074104761
+    second: chatacter_bowl_ss_151
+  - first:
+      213: -4473070673156936458
+    second: chatacter_bowl_ss_152
+  - first:
+      213: -1653055856927130132
+    second: chatacter_bowl_ss_153
+  - first:
+      213: 1428168841185235543
+    second: chatacter_bowl_ss_154
+  - first:
+      213: 4255003909321025997
+    second: chatacter_bowl_ss_155
+  - first:
+      213: 2115485053007115289
+    second: chatacter_bowl_ss_156
+  - first:
+      213: 328981566010228177
+    second: chatacter_bowl_ss_157
+  - first:
+      213: 3809153232449815347
+    second: chatacter_bowl_ss_158
+  - first:
+      213: 7430484312536524015
+    second: chatacter_bowl_ss_159
+  - first:
+      213: 2566654079720207431
+    second: chatacter_bowl_ss_160
+  - first:
+      213: -5002128624727579290
+    second: chatacter_bowl_ss_161
+  - first:
+      213: 2140693990910236002
+    second: chatacter_bowl_ss_162
+  - first:
+      213: -2937099330628234922
+    second: chatacter_bowl_ss_163
+  - first:
+      213: -3224765023645642520
+    second: chatacter_bowl_ss_164
+  - first:
+      213: -6088085357690802142
+    second: chatacter_bowl_ss_165
+  - first:
+      213: -8864508010027251897
+    second: chatacter_bowl_ss_166
+  - first:
+      213: 857288826052481415
+    second: chatacter_bowl_ss_167
+  - first:
+      213: -3930036724684008232
+    second: chatacter_bowl_ss_168
+  - first:
+      213: 8550603866846931540
+    second: chatacter_bowl_ss_169
+  - first:
+      213: 8518374535430033879
+    second: chatacter_bowl_ss_170
+  - first:
+      213: -3501136041419573014
+    second: chatacter_bowl_ss_171
+  - first:
+      213: -5081407351568749615
+    second: chatacter_bowl_ss_172
+  - first:
+      213: 2692022621865711575
+    second: chatacter_bowl_ss_173
+  - first:
+      213: 767274450068076215
+    second: chatacter_bowl_ss_174
+  - first:
+      213: 2900031341928556813
+    second: chatacter_bowl_ss_175
+  - first:
+      213: -6043979318330181929
+    second: chatacter_bowl_ss_176
+  - first:
+      213: -6002110090680398333
+    second: chatacter_bowl_ss_177
+  - first:
+      213: -5940398910493612903
+    second: chatacter_bowl_ss_178
+  - first:
+      213: 1391917146764736693
+    second: chatacter_bowl_ss_179
+  - first:
+      213: 1536383623087756423
+    second: chatacter_bowl_ss_180
+  - first:
+      213: -7128267981621481085
+    second: chatacter_bowl_ss_181
+  - first:
+      213: 3241003566397935676
+    second: chatacter_bowl_ss_182
+  - first:
+      213: -1592254281127169364
+    second: chatacter_bowl_ss_183
+  - first:
+      213: -5996938708008650724
+    second: chatacter_bowl_ss_184
+  - first:
+      213: 3194209128894330233
+    second: chatacter_bowl_ss_185
+  - first:
+      213: -8334318249162558939
+    second: chatacter_bowl_ss_186
+  - first:
+      213: 4019950345951111528
+    second: chatacter_bowl_ss_187
+  - first:
+      213: -4057870928667170639
+    second: chatacter_bowl_ss_188
+  - first:
+      213: 538082835915326368
+    second: chatacter_bowl_ss_189
+  - first:
+      213: 4456551075097825389
+    second: chatacter_bowl_ss_190
+  - first:
+      213: 7718377200772252261
+    second: chatacter_bowl_ss_191
+  - first:
+      213: -280393518777674760
+    second: chatacter_bowl_ss_192
+  - first:
+      213: 6035079618747443870
+    second: chatacter_bowl_ss_193
+  - first:
+      213: -6011766265391507554
+    second: chatacter_bowl_ss_194
+  - first:
+      213: 7974874028584978934
+    second: chatacter_bowl_ss_195
+  - first:
+      213: -8099158500770956093
+    second: chatacter_bowl_ss_196
+  - first:
+      213: 3312593712771724265
+    second: chatacter_bowl_ss_197
+  - first:
+      213: -5657114771715903487
+    second: chatacter_bowl_ss_198
+  - first:
+      213: 812822972520162349
+    second: chatacter_bowl_ss_199
+  - first:
+      213: -6211568782262518262
+    second: chatacter_bowl_ss_200
+  - first:
+      213: -632455926609789191
+    second: chatacter_bowl_ss_201
+  - first:
+      213: 8660847769709609158
+    second: chatacter_bowl_ss_202
+  - first:
+      213: -118712883229328854
+    second: chatacter_bowl_ss_203
+  - first:
+      213: 7062714750443033635
+    second: chatacter_bowl_ss_204
+  - first:
+      213: 4411916035097270073
+    second: chatacter_bowl_ss_205
+  - first:
+      213: -1625993753282694844
+    second: chatacter_bowl_ss_206
+  - first:
+      213: 980264356373540865
+    second: chatacter_bowl_ss_207
+  - first:
+      213: -1550294418564025931
+    second: chatacter_bowl_ss_208
+  - first:
+      213: 3294525615742437150
+    second: chatacter_bowl_ss_209
+  - first:
+      213: 6549482154994538022
+    second: chatacter_bowl_ss_210
+  - first:
+      213: 7592182736505530918
+    second: chatacter_bowl_ss_211
+  - first:
+      213: 166363780609340017
+    second: chatacter_bowl_ss_212
+  - first:
+      213: -7369362512801865827
+    second: chatacter_bowl_ss_213
+  - first:
+      213: 5457071331332595388
+    second: chatacter_bowl_ss_214
+  - first:
+      213: -5361092858934067770
+    second: chatacter_bowl_ss_215
+  - first:
+      213: 8079745687478372477
+    second: chatacter_bowl_ss_216
+  - first:
+      213: 4460931127922306872
+    second: chatacter_bowl_ss_217
+  - first:
+      213: -3732863961550501510
+    second: chatacter_bowl_ss_218
+  - first:
+      213: 8544849612330369384
+    second: chatacter_bowl_ss_219
+  - first:
+      213: 5229506962935448913
+    second: chatacter_bowl_ss_220
+  - first:
+      213: -7674503745759999931
+    second: chatacter_bowl_ss_221
+  - first:
+      213: -8924847691146943013
+    second: chatacter_bowl_ss_222
+  - first:
+      213: 885982521132580672
+    second: chatacter_bowl_ss_223
+  - first:
+      213: 3229017932385238941
+    second: chatacter_bowl_ss_224
+  - first:
+      213: -1162153825845526208
+    second: chatacter_bowl_ss_225
+  - first:
+      213: 7111999913275858992
+    second: chatacter_bowl_ss_226
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0661a6865d614ba50800000000000000
+      internalID: 6535874065057060448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1216
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65770d8b01697270800000000000000
+      internalID: 8248730894744384878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906af3afe824caf70800000000000000
+      internalID: 9199801320662345225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1216
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8bdbe0dbcd0a370800000000000000
+      internalID: 8331902015189661949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cba853cea602fdb0800000000000000
+      internalID: -4759734508505748539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1216
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a30aa15fb853afb0800000000000000
+      internalID: -4637765612529384539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1216
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656e22962392e1c60800000000000000
+      internalID: 7790709701886535254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1216
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8668d0731acac84b0800000000000000
+      internalID: -5436780841729685912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a0d32e6e3f25ea0800000000000000
+      internalID: -5885373590056138220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1152
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a6bb72c40a0b350800000000000000
+      internalID: 6030496149993646630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a9635e2877c7850800000000000000
+      internalID: 6376102576524794375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1152
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1d5f4a7c74e11d0800000000000000
+      internalID: -3378183747689655888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa325996eb4e36a0800000000000000
+      internalID: -6467648561070589192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1152
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441ece86f16469870800000000000000
+      internalID: 8689209631776235844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e6386364a92f280800000000000000
+      internalID: -9010970278061969879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1152
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262e1744efd7bc950800000000000000
+      internalID: 6470403820671328866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced8e11e7bc0b8e40800000000000000
+      internalID: 5659631340616584684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1088
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec2919d0df496480800000000000000
+      internalID: -8905499029734347550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660aba96b22475060800000000000000
+      internalID: 6942090104838791270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1088
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d7af2df8fac8780800000000000000
+      internalID: -8679369349594972799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f132fddd3c5a8ce80800000000000000
+      internalID: -8158088464322059489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1088
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f689ac2321a8c0800000000000000
+      internalID: -3989869120143822544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1088
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c840fa7c81573f160800000000000000
+      internalID: 7058113790309500044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1088
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2058b18c90ee9b0800000000000000
+      internalID: -5049087377175936269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1088
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2989e610519dc40800000000000000
+      internalID: 5537480312723378864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eddd65c8ffe9ca0800000000000000
+      internalID: -6008083874647777713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1024
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c259f385512fcfad0800000000000000
+      internalID: -2666990705821379284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596c5be9cc070a710800000000000000
+      internalID: 1702484683284399765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1024
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c930c99fb3c1ea60800000000000000
+      internalID: 7701652065465940422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5667805e88e751c20800000000000000
+      internalID: 3176584238602942053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dae331b6367f870800000000000000
+      internalID: 8716544915334409580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070054e80bba68f20800000000000000
+      internalID: 3424613341451321456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b341c60581acfb0800000000000000
+      internalID: -4626858933480047843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 960
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3715b6f8060fc0e0800000000000000
+      internalID: -2247571053466020034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d7424c13ee890a0800000000000000
+      internalID: -6874482933669528183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0101f87f4a06fd0800000000000000
+      internalID: -2350697622323326742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85282b0e2a971710800000000000000
+      internalID: 1663968109883041165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 960
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599f6cd5079ebcc60800000000000000
+      internalID: 7839616245187410325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc11b4eb1438e550800000000000000
+      internalID: 6190254982226320573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddfa8e10cb3d1370800000000000000
+      internalID: 8294851785018506704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db40f33eabe832630800000000000000
+      internalID: 3901118635560600765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccf1033599a1c0b0800000000000000
+      internalID: -5710096394258088755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876d95a44a88cd7a0800000000000000
+      internalID: -6351051135295826312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9506a4798faef8240800000000000000
+      internalID: 4796310481583890521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a235a8487e942b90800000000000000
+      internalID: -7267509659217087835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c10627fee235d500800000000000000
+      internalID: 420298142159077830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593824d3f15268840800000000000000
+      internalID: 5225905233712022421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_47
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212848dc2023a66c0800000000000000
+      internalID: -4149449119049154030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11160c5c069653740800000000000000
+      internalID: 5131123214814044433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_49
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c699d9acb9cff7e40800000000000000
+      internalID: 5656517403050088812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_50
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0112dcb275d359b70800000000000000
+      internalID: 8905091282801336592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ed11fef12d88730800000000000000
+      internalID: 4001679303515430442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b4f76e366289030800000000000000
+      internalID: 3501590920791280475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51237b88d2903bea0800000000000000
+      internalID: -5858328599106997739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 832
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027c8d70694a0fb80800000000000000
+      internalID: -8363003543743314144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b57de60b9bf9e270800000000000000
+      internalID: 8280426033152095673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 832
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b5845677efff010800000000000000
+      internalID: 1224977412421868438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2e1c1d353e35360800000000000000
+      internalID: 7157314181962785516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_58
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 832
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e67a25f0d9d4a60800000000000000
+      internalID: 7659951230363856458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17ea03c80c0ecd00800000000000000
+      internalID: 994745799467001631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122293ac9e74e3740800000000000000
+      internalID: 5133619694694638113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1d3818d4324580800000000000000
+      internalID: -8844448615477994344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1aab4f500bbaae0800000000000000
+      internalID: -1536941308189695562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aecf76e75ed87450800000000000000
+      internalID: 6086859365501882023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 768
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb68a5d6a6d125d0800000000000000
+      internalID: -3088951857361949745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c441684f2c9701800800000000000000
+      internalID: 581098230163838028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_66
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 768
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eab263cd73838590800000000000000
+      internalID: -7673144763937015063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2df79beec56a500800000000000000
+      internalID: 407114996707742389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068c01ce6b4470cc0800000000000000
+      internalID: -3744949012700018592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc31bb38486121510800000000000000
+      internalID: 1518300782778848204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 704
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4981cc498bd73f0800000000000000
+      internalID: -901361401185397546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e7d638f65043a40800000000000000
+      internalID: 5346904634100121201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 704
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066710115ddd16de0800000000000000
+      internalID: -1341547306796616096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c56e6a5f43a5f70800000000000000
+      internalID: 9176705420392553476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_74
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 704
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6518e3db9365d0d0800000000000000
+      internalID: -3398700822854888085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_75
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e33e8f51a8694c0800000000000000
+      internalID: -4281082568794489335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25404adb2046bf1c0800000000000000
+      internalID: -4468868242300730286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd41b6f745b34dfc0800000000000000
+      internalID: -3471084178694794019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f17b890a9d5e50800000000000000
+      internalID: 6799760378184200911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 640
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d28efe6222e22b0800000000000000
+      internalID: -5607506935400616586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b30f637c6f51d40800000000000000
+      internalID: 5554617050912013177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_81
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b6f81a0c1984d00800000000000000
+      internalID: 957175177346509699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_82
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42e5f5cc1c3e6ad0800000000000000
+      internalID: -2707160231725112756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_83
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 640
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eddb1f5e91c2a50800000000000000
+      internalID: 6497596837782740620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_84
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ea2747520eaa180800000000000000
+      internalID: -9103217245303951770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_85
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 640
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52db61b1e5ea410c0800000000000000
+      internalID: -4605864799688540891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068929ba7bb6b7500800000000000000
+      internalID: 395027828926748768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93c3457a165d9a20800000000000000
+      internalID: 3070705192573059998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360917abcc2ff5340800000000000000
+      internalID: 4854865884443938915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f11417cf09759e0800000000000000
+      internalID: -1632676925992263884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dad201ae77804b0800000000000000
+      internalID: -5473993499891356308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_91
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d30a6565a9454940800000000000000
+      internalID: 5279707112881652697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120b2fad223e29cd0800000000000000
+      internalID: -2552728299923918815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ef329a88ebf5830800000000000000
+      internalID: 4062174883074014815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d536c7b2d2d5540800000000000000
+      internalID: 4998200826244848899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_95
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 576
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ced58b609c2958a0800000000000000
+      internalID: -6315968003619561790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b25662b74b675f0800000000000000
+      internalID: -759221046147208427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8225cfb6be47c8450800000000000000
+      internalID: 6092372950403273256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedf3322a81c3c390800000000000000
+      internalID: -7799177330652086805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907591c4577201000800000000000000
+      internalID: 4546984368756489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb68afc24c81e0040800000000000000
+      internalID: 4615653898948609723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 512
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5624078d65411b070800000000000000
+      internalID: 8120293966356693605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_102
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79193f1bff988ef50800000000000000
+      internalID: 6910925359495221655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_103
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 512
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991aa3457c3fbf030800000000000000
+      internalID: 3529682770412085657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_104
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa88f64cf8b693c0800000000000000
+      internalID: -4353088596145042689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_105
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 512
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aa92107fd9dd270800000000000000
+      internalID: 8276945374378830466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bff255adaa5f5470800000000000000
+      internalID: 8385520733036674993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6f27ec599bbd4d0800000000000000
+      internalID: -3108687064704289068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f0ef376de46b7e0800000000000000
+      internalID: -1750124722210861235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b8439bac0300550800000000000000
+      internalID: 6124949140472630092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eee92d8dfe7d9b0800000000000000
+      internalID: -5055308342174486971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59e7bd4643f75b80800000000000000
+      internalID: -8405982696186582691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_112
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fe215a00b753870800000000000000
+      internalID: 8661964701016715055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_113
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83719b93e2800f340800000000000000
+      internalID: 4895421789581678392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3249e8b041e938de0800000000000000
+      internalID: -1332047255841106909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_115
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3210866250dd076f0800000000000000
+      internalID: -688807728798760669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_116
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c6b0f15273febe0800000000000000
+      internalID: -1445876322788479937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_117
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 448
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e5b5c772fe71690800000000000000
+      internalID: -7631368090686890395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721787fc2b28cecf0800000000000000
+      internalID: -221658577151430361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fd563f5b24d3380800000000000000
+      internalID: -8989955931921588346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e1aab370c2a13b0800000000000000
+      internalID: -5541067981948576164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b14642396b26d080800000000000000
+      internalID: -9163088661023669831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b73ef3575e12f060800000000000000
+      internalID: 6985679332425217968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_123
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515775c05ed825d30800000000000000
+      internalID: 4418750199297963285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af723f028a7cdfc0800000000000000
+      internalID: -3468762913962819678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_125
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc481430c860a7b90800000000000000
+      internalID: -7243469852252207921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_126
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedd9d8e2ba950430800000000000000
+      internalID: 3748572358057254378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_127
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dc32cf244638830800000000000000
+      internalID: 4072208726933884167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_128
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92f5bf7fe5928d10800000000000000
+      internalID: 2126426829944648347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_129
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c24255127c0e9d40800000000000000
+      internalID: 5592921471364252356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_130
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcb6d81735ba4910800000000000000
+      internalID: 1822468247469341942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_131
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25686f8d0808ed40800000000000000
+      internalID: 5613745789850903852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_132
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1ebb06b117adeb0800000000000000
+      internalID: -4694315299179339344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_133
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599a6f15d15cce0d0800000000000000
+      internalID: -3392119689596982891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_134
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b37e5f43eb8eeb0800000000000000
+      internalID: -4690289877233222849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_135
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41e68a2407a0ee40800000000000000
+      internalID: 5683726366076756298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_136
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1573226c532900630800000000000000
+      internalID: 3891270837703161681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_137
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b8b3b9fc57cb1c0800000000000000
+      internalID: -4486581594244805845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_138
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad76053db5cc71a0800000000000000
+      internalID: -6810351120061923929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_139
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40428b230ce4c0c40800000000000000
+      internalID: 5479841433994667012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_140
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 384
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614330820250a8a90800000000000000
+      internalID: -7311025409414188010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adfbea30b11211d0800000000000000
+      internalID: -3381620921601360472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c1afa9581600750800000000000000
+      internalID: 6269117907758357531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_143
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfa848b37eee2c30800000000000000
+      internalID: 4336665671984787411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bd7480f19d8d8c0800000000000000
+      internalID: -3974187943848322209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_145
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecd625e91da85cb0800000000000000
+      internalID: -4874956269898244886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_146
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9641fcec688b9690800000000000000
+      internalID: -7594326345217128802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_147
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3bf883a7b6cecd0800000000000000
+      internalID: -2527527118182566970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_148
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 320
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0764d4aba8a2bf0800000000000000
+      internalID: -348313488402779972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_149
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 320
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3fc52e8979c4e30800000000000000
+      internalID: 4489129611470107557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_150
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 320
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0fc8399419c1280800000000000000
+      internalID: -9071215804236893966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74081cc333afcaff0800000000000000
+      internalID: -23368800074104761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_152
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc634f0ce57ce1c0800000000000000
+      internalID: -4473070673156936458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedbaf5d47a2f09e0800000000000000
+      internalID: -1653055856927130132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752902a8effd1d310800000000000000
+      internalID: 1428168841185235543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_155
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc96af4f28fcc0b30800000000000000
+      internalID: 4255003909321025997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_156
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91433288276bb5d10800000000000000
+      internalID: 2115485053007115289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_157
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddf0b3cdf6c09400800000000000000
+      internalID: 328981566010228177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_158
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333c333eea4dcd430800000000000000
+      internalID: 3809153232449815347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_159
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe42ad52d126e1760800000000000000
+      internalID: 7430484312536524015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_160
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744b70b69469e9320800000000000000
+      internalID: 2566654079720207431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_161
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665ac4aa48ed49ab0800000000000000
+      internalID: -5002128624727579290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_162
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2659405c7d545bd10800000000000000
+      internalID: 2140693990910236002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_163
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651dddf58b35d37d0800000000000000
+      internalID: -2937099330628234922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_164
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e05f79eb455f33d0800000000000000
+      internalID: -3224765023645642520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_165
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 256
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220359c8f96c28ba0800000000000000
+      internalID: -6088085357690802142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74788b95ee0faf480800000000000000
+      internalID: -8864508010027251897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_167
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78115ca25a3b5eb00800000000000000
+      internalID: 857288826052481415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d458fecb64b579c0800000000000000
+      internalID: -3930036724684008232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a2e72f9e8d9a670800000000000000
+      internalID: 8550603866846931540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_170
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d15a08f188573670800000000000000
+      internalID: 8518374535430033879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_171
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae87ed4f157796fc0800000000000000
+      internalID: -3501136041419573014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_172
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbafaaafe63b79b0800000000000000
+      internalID: -5081407351568749615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_173
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d71f97cf4cfb5520800000000000000
+      internalID: 2692022621865711575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_174
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b67a811c08e5aa00800000000000000
+      internalID: 767274450068076215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09a625f32bfe3820800000000000000
+      internalID: 2900031341928556813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_176
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d63f1515d87f1ca0800000000000000
+      internalID: -6043979318330181929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_177
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e053e4ca834bca0800000000000000
+      internalID: -6002110090680398333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_178
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99429eb1aa67f8da0800000000000000
+      internalID: -5940398910493612903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_179
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8ffa13545115310800000000000000
+      internalID: 1391917146764736693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_180
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7849fdcd3c4525510800000000000000
+      internalID: 1536383623087756423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_181
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38139a3b90e431d90800000000000000
+      internalID: -7128267981621481085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_182
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c305ce2729b5afc20800000000000000
+      internalID: 3241003566397935676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_183
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2f15dda2d27e9e0800000000000000
+      internalID: -1592254281127169364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_184
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18ba59a40896cca0800000000000000
+      internalID: -5996938708008650724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_185
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9757e02774c145c20800000000000000
+      internalID: 3194209128894330233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_186
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5223c91a5bd865c80800000000000000
+      internalID: -8334318249162558939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_187
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869ef118a8bb9c730800000000000000
+      internalID: 4019950345951111528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8a860d3eb8fa7c0800000000000000
+      internalID: -4057870928667170639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_189
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3c7760d77a77700800000000000000
+      internalID: 538082835915326368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60579a4799d8dd30800000000000000
+      internalID: 4456551075097825389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562018e9b2f2d1b60800000000000000
+      internalID: 7718377200772252261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_192
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f35feb8497db1cf0800000000000000
+      internalID: -280393518777674760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_193
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a24a220f8e0c350800000000000000
+      internalID: 6035079618747443870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_194
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9799aeee6ae19ca0800000000000000
+      internalID: -6011766265391507554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_195
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9cb422da17cae60800000000000000
+      internalID: 7974874028584978934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_196
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc36f531420a9f80800000000000000
+      internalID: -8099158500770956093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_197
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 64
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e373fe4e62b8fd20800000000000000
+      internalID: 3312593712771724265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100324a7614ed71b0800000000000000
+      internalID: -5657114771715903487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_199
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24675edf2ab74b00800000000000000
+      internalID: 812822972520162349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_200
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e36535a131cc9a0800000000000000
+      internalID: -6211568782262518262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe35568fa01937f0800000000000000
+      internalID: -632455926609789191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_202
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0864fc823813870800000000000000
+      internalID: 8660847769709609158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_203
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a7adcf24f3a5ef0800000000000000
+      internalID: -118712883229328854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_204
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324911a45adc30260800000000000000
+      internalID: 7062714750443033635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_205
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93792d232464a3d30800000000000000
+      internalID: 4411916035097270073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_206
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441b498db4f4f69e0800000000000000
+      internalID: -1625993753282694844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_207
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1003f9b0d399a9d00800000000000000
+      internalID: 980264356373540865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_208
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1783ca07f3c7ae0800000000000000
+      internalID: -1550294418564025931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_209
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17c0c5a79188bd20800000000000000
+      internalID: 3294525615742437150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_ss_210
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626953fb15f64ea50800000000000000
+      internalID: 6549482154994538022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8d4619729104f7544bfa570807d6d2e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chatacter_bowl_ss_0: 6535874065057060448
+      chatacter_bowl_ss_1: 8248730894744384878
+      chatacter_bowl_ss_10: 6376102576524794375
+      chatacter_bowl_ss_100: 4615653898948609723
+      chatacter_bowl_ss_101: 8120293966356693605
+      chatacter_bowl_ss_102: 6910925359495221655
+      chatacter_bowl_ss_103: 3529682770412085657
+      chatacter_bowl_ss_104: -4353088596145042689
+      chatacter_bowl_ss_105: 8276945374378830466
+      chatacter_bowl_ss_106: 8385520733036674993
+      chatacter_bowl_ss_107: -3108687064704289068
+      chatacter_bowl_ss_108: -1750124722210861235
+      chatacter_bowl_ss_109: 6124949140472630092
+      chatacter_bowl_ss_11: -3378183747689655888
+      chatacter_bowl_ss_110: -5055308342174486971
+      chatacter_bowl_ss_111: -8405982696186582691
+      chatacter_bowl_ss_112: 8661964701016715055
+      chatacter_bowl_ss_113: 4895421789581678392
+      chatacter_bowl_ss_114: -1332047255841106909
+      chatacter_bowl_ss_115: -688807728798760669
+      chatacter_bowl_ss_116: -1445876322788479937
+      chatacter_bowl_ss_117: -7631368090686890395
+      chatacter_bowl_ss_118: -221658577151430361
+      chatacter_bowl_ss_119: -8989955931921588346
+      chatacter_bowl_ss_12: -6467648561070589192
+      chatacter_bowl_ss_120: -5541067981948576164
+      chatacter_bowl_ss_121: -9163088661023669831
+      chatacter_bowl_ss_122: 6985679332425217968
+      chatacter_bowl_ss_123: 4418750199297963285
+      chatacter_bowl_ss_124: -3468762913962819678
+      chatacter_bowl_ss_125: -7243469852252207921
+      chatacter_bowl_ss_126: 3748572358057254378
+      chatacter_bowl_ss_127: 4072208726933884167
+      chatacter_bowl_ss_128: 2126426829944648347
+      chatacter_bowl_ss_129: 5592921471364252356
+      chatacter_bowl_ss_13: 8689209631776235844
+      chatacter_bowl_ss_130: 1822468247469341942
+      chatacter_bowl_ss_131: 5613745789850903852
+      chatacter_bowl_ss_132: -4694315299179339344
+      chatacter_bowl_ss_133: -3392119689596982891
+      chatacter_bowl_ss_134: -4690289877233222849
+      chatacter_bowl_ss_135: 5683726366076756298
+      chatacter_bowl_ss_136: 3891270837703161681
+      chatacter_bowl_ss_137: -4486581594244805845
+      chatacter_bowl_ss_138: -6810351120061923929
+      chatacter_bowl_ss_139: 5479841433994667012
+      chatacter_bowl_ss_14: -9010970278061969879
+      chatacter_bowl_ss_140: -7311025409414188010
+      chatacter_bowl_ss_141: -3381620921601360472
+      chatacter_bowl_ss_142: 6269117907758357531
+      chatacter_bowl_ss_143: 4336665671984787411
+      chatacter_bowl_ss_144: -3974187943848322209
+      chatacter_bowl_ss_145: -4874956269898244886
+      chatacter_bowl_ss_146: -7594326345217128802
+      chatacter_bowl_ss_147: -2527527118182566970
+      chatacter_bowl_ss_148: -348313488402779972
+      chatacter_bowl_ss_149: 4489129611470107557
+      chatacter_bowl_ss_15: 6470403820671328866
+      chatacter_bowl_ss_150: -9071215804236893966
+      chatacter_bowl_ss_151: -23368800074104761
+      chatacter_bowl_ss_152: -4473070673156936458
+      chatacter_bowl_ss_153: -1653055856927130132
+      chatacter_bowl_ss_154: 1428168841185235543
+      chatacter_bowl_ss_155: 4255003909321025997
+      chatacter_bowl_ss_156: 2115485053007115289
+      chatacter_bowl_ss_157: 328981566010228177
+      chatacter_bowl_ss_158: 3809153232449815347
+      chatacter_bowl_ss_159: 7430484312536524015
+      chatacter_bowl_ss_16: 5659631340616584684
+      chatacter_bowl_ss_160: 2566654079720207431
+      chatacter_bowl_ss_161: -5002128624727579290
+      chatacter_bowl_ss_162: 2140693990910236002
+      chatacter_bowl_ss_163: -2937099330628234922
+      chatacter_bowl_ss_164: -3224765023645642520
+      chatacter_bowl_ss_165: -6088085357690802142
+      chatacter_bowl_ss_166: -8864508010027251897
+      chatacter_bowl_ss_167: 857288826052481415
+      chatacter_bowl_ss_168: -3930036724684008232
+      chatacter_bowl_ss_169: 8550603866846931540
+      chatacter_bowl_ss_17: -8905499029734347550
+      chatacter_bowl_ss_170: 8518374535430033879
+      chatacter_bowl_ss_171: -3501136041419573014
+      chatacter_bowl_ss_172: -5081407351568749615
+      chatacter_bowl_ss_173: 2692022621865711575
+      chatacter_bowl_ss_174: 767274450068076215
+      chatacter_bowl_ss_175: 2900031341928556813
+      chatacter_bowl_ss_176: -6043979318330181929
+      chatacter_bowl_ss_177: -6002110090680398333
+      chatacter_bowl_ss_178: -5940398910493612903
+      chatacter_bowl_ss_179: 1391917146764736693
+      chatacter_bowl_ss_18: 6942090104838791270
+      chatacter_bowl_ss_180: 1536383623087756423
+      chatacter_bowl_ss_181: -7128267981621481085
+      chatacter_bowl_ss_182: 3241003566397935676
+      chatacter_bowl_ss_183: -1592254281127169364
+      chatacter_bowl_ss_184: -5996938708008650724
+      chatacter_bowl_ss_185: 3194209128894330233
+      chatacter_bowl_ss_186: -8334318249162558939
+      chatacter_bowl_ss_187: 4019950345951111528
+      chatacter_bowl_ss_188: -4057870928667170639
+      chatacter_bowl_ss_189: 538082835915326368
+      chatacter_bowl_ss_19: -8679369349594972799
+      chatacter_bowl_ss_190: 4456551075097825389
+      chatacter_bowl_ss_191: 7718377200772252261
+      chatacter_bowl_ss_192: -280393518777674760
+      chatacter_bowl_ss_193: 6035079618747443870
+      chatacter_bowl_ss_194: -6011766265391507554
+      chatacter_bowl_ss_195: 7974874028584978934
+      chatacter_bowl_ss_196: -8099158500770956093
+      chatacter_bowl_ss_197: 3312593712771724265
+      chatacter_bowl_ss_198: -5657114771715903487
+      chatacter_bowl_ss_199: 812822972520162349
+      chatacter_bowl_ss_2: 9199801320662345225
+      chatacter_bowl_ss_20: -8158088464322059489
+      chatacter_bowl_ss_200: -6211568782262518262
+      chatacter_bowl_ss_201: -632455926609789191
+      chatacter_bowl_ss_202: 8660847769709609158
+      chatacter_bowl_ss_203: -118712883229328854
+      chatacter_bowl_ss_204: 7062714750443033635
+      chatacter_bowl_ss_205: 4411916035097270073
+      chatacter_bowl_ss_206: -1625993753282694844
+      chatacter_bowl_ss_207: 980264356373540865
+      chatacter_bowl_ss_208: -1550294418564025931
+      chatacter_bowl_ss_209: 3294525615742437150
+      chatacter_bowl_ss_21: -3989869120143822544
+      chatacter_bowl_ss_210: 6549482154994538022
+      chatacter_bowl_ss_22: 7058113790309500044
+      chatacter_bowl_ss_23: -5049087377175936269
+      chatacter_bowl_ss_24: 5537480312723378864
+      chatacter_bowl_ss_25: -6008083874647777713
+      chatacter_bowl_ss_26: -2666990705821379284
+      chatacter_bowl_ss_27: 1702484683284399765
+      chatacter_bowl_ss_28: 7701652065465940422
+      chatacter_bowl_ss_29: 3176584238602942053
+      chatacter_bowl_ss_3: 8331902015189661949
+      chatacter_bowl_ss_30: 8716544915334409580
+      chatacter_bowl_ss_31: 3424613341451321456
+      chatacter_bowl_ss_32: -4626858933480047843
+      chatacter_bowl_ss_33: -2247571053466020034
+      chatacter_bowl_ss_34: -6874482933669528183
+      chatacter_bowl_ss_35: -2350697622323326742
+      chatacter_bowl_ss_36: 1663968109883041165
+      chatacter_bowl_ss_37: 7839616245187410325
+      chatacter_bowl_ss_38: 6190254982226320573
+      chatacter_bowl_ss_39: 8294851785018506704
+      chatacter_bowl_ss_4: -4759734508505748539
+      chatacter_bowl_ss_40: 3901118635560600765
+      chatacter_bowl_ss_41: -5710096394258088755
+      chatacter_bowl_ss_42: -6351051135295826312
+      chatacter_bowl_ss_43: 4796310481583890521
+      chatacter_bowl_ss_44: -7267509659217087835
+      chatacter_bowl_ss_45: 420298142159077830
+      chatacter_bowl_ss_46: 5225905233712022421
+      chatacter_bowl_ss_47: -4149449119049154030
+      chatacter_bowl_ss_48: 5131123214814044433
+      chatacter_bowl_ss_49: 5656517403050088812
+      chatacter_bowl_ss_5: -4637765612529384539
+      chatacter_bowl_ss_50: 8905091282801336592
+      chatacter_bowl_ss_51: 4001679303515430442
+      chatacter_bowl_ss_52: 3501590920791280475
+      chatacter_bowl_ss_53: -5858328599106997739
+      chatacter_bowl_ss_54: -8363003543743314144
+      chatacter_bowl_ss_55: 8280426033152095673
+      chatacter_bowl_ss_56: 1224977412421868438
+      chatacter_bowl_ss_57: 7157314181962785516
+      chatacter_bowl_ss_58: 7659951230363856458
+      chatacter_bowl_ss_59: 994745799467001631
+      chatacter_bowl_ss_6: 7790709701886535254
+      chatacter_bowl_ss_60: 5133619694694638113
+      chatacter_bowl_ss_61: -8844448615477994344
+      chatacter_bowl_ss_62: -1536941308189695562
+      chatacter_bowl_ss_63: 6086859365501882023
+      chatacter_bowl_ss_64: -3088951857361949745
+      chatacter_bowl_ss_65: 581098230163838028
+      chatacter_bowl_ss_66: -7673144763937015063
+      chatacter_bowl_ss_67: 407114996707742389
+      chatacter_bowl_ss_68: -3744949012700018592
+      chatacter_bowl_ss_69: 1518300782778848204
+      chatacter_bowl_ss_7: -5436780841729685912
+      chatacter_bowl_ss_70: -901361401185397546
+      chatacter_bowl_ss_71: 5346904634100121201
+      chatacter_bowl_ss_72: -1341547306796616096
+      chatacter_bowl_ss_73: 9176705420392553476
+      chatacter_bowl_ss_74: -3398700822854888085
+      chatacter_bowl_ss_75: -4281082568794489335
+      chatacter_bowl_ss_76: -4468868242300730286
+      chatacter_bowl_ss_77: -3471084178694794019
+      chatacter_bowl_ss_78: 6799760378184200911
+      chatacter_bowl_ss_79: -5607506935400616586
+      chatacter_bowl_ss_8: -5885373590056138220
+      chatacter_bowl_ss_80: 5554617050912013177
+      chatacter_bowl_ss_81: 957175177346509699
+      chatacter_bowl_ss_82: -2707160231725112756
+      chatacter_bowl_ss_83: 6497596837782740620
+      chatacter_bowl_ss_84: -9103217245303951770
+      chatacter_bowl_ss_85: -4605864799688540891
+      chatacter_bowl_ss_86: 395027828926748768
+      chatacter_bowl_ss_87: 3070705192573059998
+      chatacter_bowl_ss_88: 4854865884443938915
+      chatacter_bowl_ss_89: -1632676925992263884
+      chatacter_bowl_ss_9: 6030496149993646630
+      chatacter_bowl_ss_90: -5473993499891356308
+      chatacter_bowl_ss_91: 5279707112881652697
+      chatacter_bowl_ss_92: -2552728299923918815
+      chatacter_bowl_ss_93: 4062174883074014815
+      chatacter_bowl_ss_94: 4998200826244848899
+      chatacter_bowl_ss_95: -6315968003619561790
+      chatacter_bowl_ss_96: -759221046147208427
+      chatacter_bowl_ss_97: 6092372950403273256
+      chatacter_bowl_ss_98: -7799177330652086805
+      chatacter_bowl_ss_99: 4546984368756489
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

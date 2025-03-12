@@ -1,0 +1,6058 @@
+fileFormatVersion: 2
+guid: 25393982c1c62b5429abf6824ffb125c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3617888241403763010
+    second: chatacter_spikey_ss_0
+  - first:
+      213: -398706923250162201
+    second: chatacter_spikey_ss_1
+  - first:
+      213: -3704389581787579520
+    second: chatacter_spikey_ss_2
+  - first:
+      213: -5382865950691457250
+    second: chatacter_spikey_ss_3
+  - first:
+      213: 4727335053040618969
+    second: chatacter_spikey_ss_4
+  - first:
+      213: 914251935757373492
+    second: chatacter_spikey_ss_5
+  - first:
+      213: -3347464295358707311
+    second: chatacter_spikey_ss_6
+  - first:
+      213: -7992807193589819839
+    second: chatacter_spikey_ss_7
+  - first:
+      213: 1599650074099377354
+    second: chatacter_spikey_ss_8
+  - first:
+      213: -251519552725936529
+    second: chatacter_spikey_ss_9
+  - first:
+      213: 5615484764849037874
+    second: chatacter_spikey_ss_10
+  - first:
+      213: -9060777021932678283
+    second: chatacter_spikey_ss_11
+  - first:
+      213: -1019532025938231288
+    second: chatacter_spikey_ss_12
+  - first:
+      213: 5081548616227360879
+    second: chatacter_spikey_ss_13
+  - first:
+      213: -840157519239092036
+    second: chatacter_spikey_ss_14
+  - first:
+      213: -5339155458697533261
+    second: chatacter_spikey_ss_15
+  - first:
+      213: 5483228269650057226
+    second: chatacter_spikey_ss_16
+  - first:
+      213: -4159019986634348589
+    second: chatacter_spikey_ss_17
+  - first:
+      213: 67149018363913365
+    second: chatacter_spikey_ss_18
+  - first:
+      213: -4063564104811351572
+    second: chatacter_spikey_ss_19
+  - first:
+      213: -4910881891036636342
+    second: chatacter_spikey_ss_20
+  - first:
+      213: -5043680382199633959
+    second: chatacter_spikey_ss_21
+  - first:
+      213: 9067783647214105993
+    second: chatacter_spikey_ss_22
+  - first:
+      213: -7738107110971610220
+    second: chatacter_spikey_ss_23
+  - first:
+      213: 7158647441346657721
+    second: chatacter_spikey_ss_24
+  - first:
+      213: -6120485883184668497
+    second: chatacter_spikey_ss_25
+  - first:
+      213: 7318321438659704248
+    second: chatacter_spikey_ss_26
+  - first:
+      213: -7884945886513866551
+    second: chatacter_spikey_ss_27
+  - first:
+      213: 7099755677459380668
+    second: chatacter_spikey_ss_28
+  - first:
+      213: 7339287897236347532
+    second: chatacter_spikey_ss_29
+  - first:
+      213: -7702178418116686483
+    second: chatacter_spikey_ss_30
+  - first:
+      213: 8785864784781474683
+    second: chatacter_spikey_ss_31
+  - first:
+      213: 8449110995157671914
+    second: chatacter_spikey_ss_32
+  - first:
+      213: 247952357416324089
+    second: chatacter_spikey_ss_33
+  - first:
+      213: 2984353929509990582
+    second: chatacter_spikey_ss_34
+  - first:
+      213: 1094902173181001778
+    second: chatacter_spikey_ss_35
+  - first:
+      213: -1033167923280691350
+    second: chatacter_spikey_ss_36
+  - first:
+      213: 4433408420455528314
+    second: chatacter_spikey_ss_37
+  - first:
+      213: -7751308642519636448
+    second: chatacter_spikey_ss_38
+  - first:
+      213: 4082253613980719728
+    second: chatacter_spikey_ss_39
+  - first:
+      213: 2213169144619646482
+    second: chatacter_spikey_ss_40
+  - first:
+      213: 6733045013322297109
+    second: chatacter_spikey_ss_41
+  - first:
+      213: 3946889810273078853
+    second: chatacter_spikey_ss_42
+  - first:
+      213: 3591488443819493118
+    second: chatacter_spikey_ss_43
+  - first:
+      213: -7287015241756672961
+    second: chatacter_spikey_ss_44
+  - first:
+      213: -3621703125836499754
+    second: chatacter_spikey_ss_45
+  - first:
+      213: -1368183125206241751
+    second: chatacter_spikey_ss_46
+  - first:
+      213: -7830616423526268059
+    second: chatacter_spikey_ss_47
+  - first:
+      213: -3833692577793022743
+    second: chatacter_spikey_ss_48
+  - first:
+      213: 5246937029218592071
+    second: chatacter_spikey_ss_49
+  - first:
+      213: -6657476641356175436
+    second: chatacter_spikey_ss_50
+  - first:
+      213: 6443514178195612921
+    second: chatacter_spikey_ss_51
+  - first:
+      213: -1439723550099662747
+    second: chatacter_spikey_ss_52
+  - first:
+      213: -1056164234880287038
+    second: chatacter_spikey_ss_53
+  - first:
+      213: -4788444786135344693
+    second: chatacter_spikey_ss_54
+  - first:
+      213: -7854864358431592619
+    second: chatacter_spikey_ss_55
+  - first:
+      213: -6971804467866155577
+    second: chatacter_spikey_ss_56
+  - first:
+      213: -6259140440273797271
+    second: chatacter_spikey_ss_57
+  - first:
+      213: -7590567577540776412
+    second: chatacter_spikey_ss_58
+  - first:
+      213: 8024216859008149153
+    second: chatacter_spikey_ss_59
+  - first:
+      213: -750746814055759299
+    second: chatacter_spikey_ss_60
+  - first:
+      213: 3203616300852247462
+    second: chatacter_spikey_ss_61
+  - first:
+      213: -1314985456089840305
+    second: chatacter_spikey_ss_62
+  - first:
+      213: -3317049026594905
+    second: chatacter_spikey_ss_63
+  - first:
+      213: 3154869637606333703
+    second: chatacter_spikey_ss_64
+  - first:
+      213: -7967952694164959176
+    second: chatacter_spikey_ss_65
+  - first:
+      213: 4722795499298495844
+    second: chatacter_spikey_ss_66
+  - first:
+      213: -7044332956549270563
+    second: chatacter_spikey_ss_67
+  - first:
+      213: 5246641981280806855
+    second: chatacter_spikey_ss_68
+  - first:
+      213: 7409118062773121131
+    second: chatacter_spikey_ss_69
+  - first:
+      213: 7101071611604841167
+    second: chatacter_spikey_ss_70
+  - first:
+      213: 7475004212482741596
+    second: chatacter_spikey_ss_71
+  - first:
+      213: 5683123462799051185
+    second: chatacter_spikey_ss_72
+  - first:
+      213: -5862609256986858142
+    second: chatacter_spikey_ss_73
+  - first:
+      213: 3467022788476827917
+    second: chatacter_spikey_ss_74
+  - first:
+      213: -1189391508202368426
+    second: chatacter_spikey_ss_75
+  - first:
+      213: 4405391160264511067
+    second: chatacter_spikey_ss_76
+  - first:
+      213: 3288646602562400373
+    second: chatacter_spikey_ss_77
+  - first:
+      213: -7291850241310369404
+    second: chatacter_spikey_ss_78
+  - first:
+      213: -3100384305639153606
+    second: chatacter_spikey_ss_79
+  - first:
+      213: 2098189388592841786
+    second: chatacter_spikey_ss_80
+  - first:
+      213: 8587826023186541410
+    second: chatacter_spikey_ss_81
+  - first:
+      213: -2352433932227280587
+    second: chatacter_spikey_ss_82
+  - first:
+      213: -1764104856472701262
+    second: chatacter_spikey_ss_83
+  - first:
+      213: 9098301642173998710
+    second: chatacter_spikey_ss_84
+  - first:
+      213: -7481560040770208349
+    second: chatacter_spikey_ss_85
+  - first:
+      213: -644165603029125946
+    second: chatacter_spikey_ss_86
+  - first:
+      213: 469532880213135658
+    second: chatacter_spikey_ss_87
+  - first:
+      213: -8386970607395820728
+    second: chatacter_spikey_ss_88
+  - first:
+      213: -7410031383145175468
+    second: chatacter_spikey_ss_89
+  - first:
+      213: 2974221851408657900
+    second: chatacter_spikey_ss_90
+  - first:
+      213: 5683581464357882905
+    second: chatacter_spikey_ss_91
+  - first:
+      213: 4678158074469566148
+    second: chatacter_spikey_ss_92
+  - first:
+      213: -3933363163322796747
+    second: chatacter_spikey_ss_93
+  - first:
+      213: 5216143133145868658
+    second: chatacter_spikey_ss_94
+  - first:
+      213: 7602833035654826739
+    second: chatacter_spikey_ss_95
+  - first:
+      213: 4751848201790110436
+    second: chatacter_spikey_ss_96
+  - first:
+      213: -3961243100217357591
+    second: chatacter_spikey_ss_97
+  - first:
+      213: -2392708700977753911
+    second: chatacter_spikey_ss_98
+  - first:
+      213: -4248607488827500620
+    second: chatacter_spikey_ss_99
+  - first:
+      213: 7623573554902895019
+    second: chatacter_spikey_ss_100
+  - first:
+      213: -8596992938841771047
+    second: chatacter_spikey_ss_101
+  - first:
+      213: 370542829050606140
+    second: chatacter_spikey_ss_102
+  - first:
+      213: -788963228980723414
+    second: chatacter_spikey_ss_103
+  - first:
+      213: -6957080960894283333
+    second: chatacter_spikey_ss_104
+  - first:
+      213: 4299864124669730770
+    second: chatacter_spikey_ss_105
+  - first:
+      213: -4873308884900339571
+    second: chatacter_spikey_ss_106
+  - first:
+      213: -2635768368930525828
+    second: chatacter_spikey_ss_107
+  - first:
+      213: 5492187244059434163
+    second: chatacter_spikey_ss_108
+  - first:
+      213: -7113995953399453149
+    second: chatacter_spikey_ss_109
+  - first:
+      213: -222529662992558856
+    second: chatacter_spikey_ss_110
+  - first:
+      213: 582051445079196535
+    second: chatacter_spikey_ss_111
+  - first:
+      213: -4151986677443642927
+    second: chatacter_spikey_ss_112
+  - first:
+      213: 8107670075421258258
+    second: chatacter_spikey_ss_113
+  - first:
+      213: 7627914947674826535
+    second: chatacter_spikey_ss_114
+  - first:
+      213: 4983242542312046458
+    second: chatacter_spikey_ss_115
+  - first:
+      213: 5722209303490264269
+    second: chatacter_spikey_ss_116
+  - first:
+      213: -3544720549250734280
+    second: chatacter_spikey_ss_117
+  - first:
+      213: -6343312601293166391
+    second: chatacter_spikey_ss_118
+  - first:
+      213: 1927347458619931270
+    second: chatacter_spikey_ss_119
+  - first:
+      213: -2310165971327884672
+    second: chatacter_spikey_ss_120
+  - first:
+      213: -1452701855555886024
+    second: chatacter_spikey_ss_121
+  - first:
+      213: 5503824623202079494
+    second: chatacter_spikey_ss_122
+  - first:
+      213: 5460333202998852405
+    second: chatacter_spikey_ss_123
+  - first:
+      213: 8238988039244718698
+    second: chatacter_spikey_ss_124
+  - first:
+      213: -5947460965301226451
+    second: chatacter_spikey_ss_125
+  - first:
+      213: 6926798355238261312
+    second: chatacter_spikey_ss_126
+  - first:
+      213: 6348297136347365793
+    second: chatacter_spikey_ss_127
+  - first:
+      213: -85202267329612604
+    second: chatacter_spikey_ss_128
+  - first:
+      213: 5261743392773992423
+    second: chatacter_spikey_ss_129
+  - first:
+      213: -3358355651261329021
+    second: chatacter_spikey_ss_130
+  - first:
+      213: 8838604641664965132
+    second: chatacter_spikey_ss_131
+  - first:
+      213: -3310039697834451509
+    second: chatacter_spikey_ss_132
+  - first:
+      213: 1786658298229166669
+    second: chatacter_spikey_ss_133
+  - first:
+      213: 2730144325290576248
+    second: chatacter_spikey_ss_134
+  - first:
+      213: 4677994413344482593
+    second: chatacter_spikey_ss_135
+  - first:
+      213: 4001431066061070872
+    second: chatacter_spikey_ss_136
+  - first:
+      213: 1397905647205138019
+    second: chatacter_spikey_ss_137
+  - first:
+      213: -3191166911993896203
+    second: chatacter_spikey_ss_138
+  - first:
+      213: 77896886313212464
+    second: chatacter_spikey_ss_139
+  - first:
+      213: 351288639748622321
+    second: chatacter_spikey_ss_140
+  - first:
+      213: 4826363657852988211
+    second: chatacter_spikey_ss_141
+  - first:
+      213: -1165192847805896295
+    second: chatacter_spikey_ss_142
+  - first:
+      213: 7128838120569348688
+    second: chatacter_spikey_ss_143
+  - first:
+      213: -4349220615609448667
+    second: chatacter_spikey_ss_144
+  - first:
+      213: 1185384050327223026
+    second: chatacter_spikey_ss_145
+  - first:
+      213: 7150177389003093163
+    second: chatacter_spikey_ss_146
+  - first:
+      213: -8905024099442135454
+    second: chatacter_spikey_ss_147
+  - first:
+      213: -408963149998851884
+    second: chatacter_spikey_ss_148
+  - first:
+      213: -338787447084670113
+    second: chatacter_spikey_ss_149
+  - first:
+      213: 4234579795823734422
+    second: chatacter_spikey_ss_150
+  - first:
+      213: 6039499919834544007
+    second: chatacter_spikey_ss_151
+  - first:
+      213: 607369679388385558
+    second: chatacter_spikey_ss_152
+  - first:
+      213: -9175528089445735687
+    second: chatacter_spikey_ss_153
+  - first:
+      213: 8315539075453013744
+    second: chatacter_spikey_ss_154
+  - first:
+      213: -8121264200613626936
+    second: chatacter_spikey_ss_155
+  - first:
+      213: -7505874407491849853
+    second: chatacter_spikey_ss_156
+  - first:
+      213: 7470675757486008627
+    second: chatacter_spikey_ss_157
+  - first:
+      213: 2310685690658858757
+    second: chatacter_spikey_ss_158
+  - first:
+      213: 3054489700180355873
+    second: chatacter_spikey_ss_159
+  - first:
+      213: 1984414485175260121
+    second: chatacter_spikey_ss_160
+  - first:
+      213: -7590187044711153826
+    second: chatacter_spikey_ss_161
+  - first:
+      213: -5492966807517138161
+    second: chatacter_spikey_ss_162
+  - first:
+      213: -2518757337632753217
+    second: chatacter_spikey_ss_163
+  - first:
+      213: -584085486987621916
+    second: chatacter_spikey_ss_164
+  - first:
+      213: 1573096802343590323
+    second: chatacter_spikey_ss_165
+  - first:
+      213: 3417191164470291067
+    second: chatacter_spikey_ss_166
+  - first:
+      213: 1642988126625501336
+    second: chatacter_spikey_ss_167
+  - first:
+      213: 2667498683079224240
+    second: chatacter_spikey_ss_168
+  - first:
+      213: -8171660547358161689
+    second: chatacter_spikey_ss_169
+  - first:
+      213: 3109941652861644274
+    second: chatacter_spikey_ss_170
+  - first:
+      213: 1104657747455164362
+    second: chatacter_spikey_ss_171
+  - first:
+      213: -6424313417119732224
+    second: chatacter_spikey_ss_172
+  - first:
+      213: 3616655048565946245
+    second: chatacter_spikey_ss_173
+  - first:
+      213: 1840630188574501490
+    second: chatacter_spikey_ss_174
+  - first:
+      213: 4811783165258322200
+    second: chatacter_spikey_ss_175
+  - first:
+      213: 4228337073527432417
+    second: chatacter_spikey_ss_176
+  - first:
+      213: 1317390897837372707
+    second: chatacter_spikey_ss_177
+  - first:
+      213: -9189740244400518697
+    second: chatacter_spikey_ss_178
+  - first:
+      213: 220677493685470730
+    second: chatacter_spikey_ss_179
+  - first:
+      213: 6601092332679065387
+    second: chatacter_spikey_ss_180
+  - first:
+      213: -4296863435804449443
+    second: chatacter_spikey_ss_181
+  - first:
+      213: -2430012419184912793
+    second: chatacter_spikey_ss_182
+  - first:
+      213: -1909001285242947621
+    second: chatacter_spikey_ss_183
+  - first:
+      213: -3978915214399074386
+    second: chatacter_spikey_ss_184
+  - first:
+      213: 6986820402401933258
+    second: chatacter_spikey_ss_185
+  - first:
+      213: 8103684913495749392
+    second: chatacter_spikey_ss_186
+  - first:
+      213: -233291471299522718
+    second: chatacter_spikey_ss_187
+  - first:
+      213: -1454812341816395166
+    second: chatacter_spikey_ss_188
+  - first:
+      213: 8299251342441661175
+    second: chatacter_spikey_ss_189
+  - first:
+      213: 3618258232319483063
+    second: chatacter_spikey_ss_190
+  - first:
+      213: -2294457813825450247
+    second: chatacter_spikey_ss_191
+  - first:
+      213: 782164689518544004
+    second: chatacter_spikey_ss_192
+  - first:
+      213: -338110860447192208
+    second: chatacter_spikey_ss_193
+  - first:
+      213: 6823174202543276857
+    second: chatacter_spikey_ss_194
+  - first:
+      213: 6536414919885989547
+    second: chatacter_spikey_ss_195
+  - first:
+      213: 691371712950561256
+    second: chatacter_spikey_ss_196
+  - first:
+      213: -5998200512617437355
+    second: chatacter_spikey_ss_197
+  - first:
+      213: -3795766851087052785
+    second: chatacter_spikey_ss_198
+  - first:
+      213: -6331825416669949759
+    second: chatacter_spikey_ss_199
+  - first:
+      213: 746923205019187259
+    second: chatacter_spikey_ss_200
+  - first:
+      213: 3777777712554086354
+    second: chatacter_spikey_ss_201
+  - first:
+      213: -3909441172767572482
+    second: chatacter_spikey_ss_202
+  - first:
+      213: -4067772036006709480
+    second: chatacter_spikey_ss_203
+  - first:
+      213: 3872866782063983493
+    second: chatacter_spikey_ss_204
+  - first:
+      213: -6774123804015917822
+    second: chatacter_spikey_ss_205
+  - first:
+      213: 7471783862176056646
+    second: chatacter_spikey_ss_206
+  - first:
+      213: 8982591012545060393
+    second: chatacter_spikey_ss_207
+  - first:
+      213: 7523106854239592602
+    second: chatacter_spikey_ss_208
+  - first:
+      213: 5327733116388028761
+    second: chatacter_spikey_ss_209
+  - first:
+      213: -7666537990354386324
+    second: chatacter_spikey_ss_210
+  - first:
+      213: -1731569422991613508
+    second: chatacter_spikey_ss_211
+  - first:
+      213: -6274032038657103088
+    second: chatacter_spikey_ss_212
+  - first:
+      213: 5458561360071440984
+    second: chatacter_spikey_ss_213
+  - first:
+      213: -1195449719493619306
+    second: chatacter_spikey_ss_214
+  - first:
+      213: -7292950668258048125
+    second: chatacter_spikey_ss_215
+  - first:
+      213: 5867024862181296311
+    second: chatacter_spikey_ss_216
+  - first:
+      213: 6443468455960722272
+    second: chatacter_spikey_ss_217
+  - first:
+      213: 4474184709904905028
+    second: chatacter_spikey_ss_218
+  - first:
+      213: 1337409476368072917
+    second: chatacter_spikey_ss_219
+  - first:
+      213: 4133687787231316300
+    second: chatacter_spikey_ss_220
+  - first:
+      213: 2837940499214657690
+    second: chatacter_spikey_ss_221
+  - first:
+      213: -6589912225591661429
+    second: chatacter_spikey_ss_222
+  - first:
+      213: 8342375876538489143
+    second: chatacter_spikey_ss_223
+  - first:
+      213: -3532371508047752887
+    second: chatacter_spikey_ss_224
+  - first:
+      213: -2216302291413867731
+    second: chatacter_spikey_ss_225
+  - first:
+      213: -4235464862872236299
+    second: chatacter_spikey_ss_226
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1048
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6e01610ddaacdc0800000000000000
+      internalID: -3617888241403763010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1048
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e56f2e6a22877af0800000000000000
+      internalID: -398706923250162201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1048
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bb4e35d4d579cc0800000000000000
+      internalID: -3704389581787579520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1048
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e178d7fffe73c45b0800000000000000
+      internalID: -5382865950691457250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1048
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd0dba2f2eda9140800000000000000
+      internalID: 4727335053040618969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1048
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430180aaa4310bc00800000000000000
+      internalID: 914251935757373492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1048
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19947d085fa6b81d0800000000000000
+      internalID: -3347464295358707311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1048
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14654e38438d31190800000000000000
+      internalID: -7992807193589819839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 994
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4ee9f5449133610800000000000000
+      internalID: 1599650074099377354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 994
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6694b5ac4c628cf0800000000000000
+      internalID: -251519552725936529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 994
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232e17a34a53eed40800000000000000
+      internalID: 5615484764849037874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 994
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5735eaafd47a14280800000000000000
+      internalID: -9060777021932678283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_12
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 994
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80041dc2605e9d1f0800000000000000
+      internalID: -1019532025938231288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 994
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f601c131b89458640800000000000000
+      internalID: 5081548616227360879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 994
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8616600392754f0800000000000000
+      internalID: -840157519239092036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 994
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8eebbf56287e5b0800000000000000
+      internalID: -5339155458697533261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 940
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a081fd25f07581c40800000000000000
+      internalID: 5483228269650057226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 940
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7e8ea8b513846c0800000000000000
+      internalID: -4159019986634348589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 940
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594e89a2daf8ee000800000000000000
+      internalID: 67149018363913365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 940
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1f0b2f9f15b97c0800000000000000
+      internalID: -4063564104811351572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 940
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bdcd660fa09dbb0800000000000000
+      internalID: -4910881891036636342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 940
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7626a3a6f310ab0800000000000000
+      internalID: -5043680382199633959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_22
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 940
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985fa481f2d37dd70800000000000000
+      internalID: 9067783647214105993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_23
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 940
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bec90b498bc9490800000000000000
+      internalID: -7738107110971610220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 940
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdf9b57bef985360800000000000000
+      internalID: 7158647441346657721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 884
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa02cf7548aaf0ba0800000000000000
+      internalID: -6120485883184668497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 885
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5ff670396ef8560800000000000000
+      internalID: 7318321438659704248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 883
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8d9211e7b039290800000000000000
+      internalID: -7884945886513866551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 883
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9770b2c26678260800000000000000
+      internalID: 7099755677459380668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 884
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a981315736ad560800000000000000
+      internalID: 7339287897236347532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 832
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d897f598d5c1590800000000000000
+      internalID: -7702178418116686483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 832
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b7385e879ade970800000000000000
+      internalID: 8785864784781474683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 832
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef583e4fa5414570800000000000000
+      internalID: 8449110995157671914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_33
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 832
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb4509fa57e07300800000000000000
+      internalID: 247952357416324089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 832
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0fb7c461e8a6920800000000000000
+      internalID: 2984353929509990582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 832
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230c148b9bfd13f00800000000000000
+      internalID: 1094902173181001778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_36
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 832
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fb68b6f3379a1f0800000000000000
+      internalID: -1033167923280691350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_37
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 832
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a773a7d1871a68d30800000000000000
+      internalID: 4433408420455528314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 778
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026a33a9bd1dd6490800000000000000
+      internalID: -7751308642519636448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_39
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 778
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a1060880417a830800000000000000
+      internalID: 4082253613980719728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_40
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 778
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eb8e47c91c6be10800000000000000
+      internalID: 2213169144619646482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_41
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 778
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f6ac334c4907d50800000000000000
+      internalID: 6733045013322297109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 778
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e8fe4fe5b26c630800000000000000
+      internalID: 3946889810273078853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_43
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 786
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef608cc06b787d130800000000000000
+      internalID: 3591488443819493118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_44
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 787
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c7c32fe325fda90800000000000000
+      internalID: -7287015241756672961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_45
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 786
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4f79612302dbdc0800000000000000
+      internalID: -3621703125836499754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_46
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 778
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ee56252bc330de0800000000000000
+      internalID: -1368183125206241751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_47
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 778
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5638067e9df045390800000000000000
+      internalID: -7830616423526268059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_48
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 781
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4689a89ecfbcac0800000000000000
+      internalID: -3833692577793022743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_49
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 778
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745ea69bd6dd0d840800000000000000
+      internalID: 5246937029218592071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_50
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 778
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7218b7444eb93a0800000000000000
+      internalID: -6657476641356175436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 723
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4ea808106fb6950800000000000000
+      internalID: 6443514178195612921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 724
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5689b852f03150ce0800000000000000
+      internalID: -1439723550099662747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 724
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cefc736930c751f0800000000000000
+      internalID: -1056164234880287038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_54
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 724
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9d4d756d60c8db0800000000000000
+      internalID: -4788444786135344693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_55
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 724
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55feecc9b7aedf290800000000000000
+      internalID: -7854864358431592619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_56
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 723
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c54b5156cc2f3f90800000000000000
+      internalID: -6971804467866155577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_57
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 723
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fb2329ee01329a0800000000000000
+      internalID: -6259140440273797271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_58
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 723
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ea5193103e8a690800000000000000
+      internalID: -7590567577540776412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 670
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6a1e918bebb5f60800000000000000
+      internalID: 8024216859008149153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_60
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 670
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3243ff00cfc495f0800000000000000
+      internalID: -750746814055759299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_61
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 670
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abf2f85d08857c20800000000000000
+      internalID: 3203616300852247462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_62
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 672
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45c5fcd1bb30cde0800000000000000
+      internalID: -1314985456089840305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_63
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 670
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a73117592734fff0800000000000000
+      internalID: -3317049026594905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_64
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 670
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dd03e583958cb20800000000000000
+      internalID: 3154869637606333703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_65
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 670
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8305e2d9d352c6190800000000000000
+      internalID: -7967952694164959176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_66
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 672
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d1082fb7dba8140800000000000000
+      internalID: 4722795499298495844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 616
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3bd4d9f708d3e90800000000000000
+      internalID: -7044332956549270563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_68
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 616
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7e4e58511dfc840800000000000000
+      internalID: 5246641981280806855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_69
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 616
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60b5867f9972d660800000000000000
+      internalID: 7409118062773121131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_70
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 617
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc23156f1031c8260800000000000000
+      internalID: 7101071611604841167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_71
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 619
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55159b1abc8cb760800000000000000
+      internalID: 7475004212482741596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_72
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 620
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b943decda28ede40800000000000000
+      internalID: 5683123462799051185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_73
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 618
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26da16431f3d3aea0800000000000000
+      internalID: -5862609256986858142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_74
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 616
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0978576bd65d1030800000000000000
+      internalID: 3467022788476827917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_75
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 616
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6525bb699be6e7fe0800000000000000
+      internalID: -1189391508202368426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 562
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e46346be7132d30800000000000000
+      internalID: 4405391160264511067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_77
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 562
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570f68939ae93ad20800000000000000
+      internalID: 3288646602562400373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_78
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 562
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4895953e6d42eca90800000000000000
+      internalID: -7291850241310369404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_79
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 562
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30ae2b86e839f4d0800000000000000
+      internalID: -3100384305639153606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_80
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 562
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34029ad1244e1d10800000000000000
+      internalID: 2098189388592841786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_81
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 562
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ba3e094461e2770800000000000000
+      internalID: 8587826023186541410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_82
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 562
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53184086dc97a5fd0800000000000000
+      internalID: -2352433932227280587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_83
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 562
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6376bcaf3a487e0800000000000000
+      internalID: -1764104856472701262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_84
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 562
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67662218329a34e70800000000000000
+      internalID: 9098301642173998710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_85
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 562
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad722c28c82c2890800000000000000
+      internalID: -7481560040770208349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_86
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 508
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c47ce60cc67f07f0800000000000000
+      internalID: -644165603029125946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_87
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 508
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a215877baad148600800000000000000
+      internalID: 469532880213135658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_88
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 508
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ba78c2bae7b9b80800000000000000
+      internalID: -8386970607395820728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_89
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 508
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456a22197b74a2990800000000000000
+      internalID: -7410031383145175468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 508
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedea68040f864920800000000000000
+      internalID: 2974221851408657900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_91
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 508
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ccb0b9a3320ee40800000000000000
+      internalID: 5683581464357882905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_92
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 508
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c642e79bf72ce040800000000000000
+      internalID: 4678158074469566148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_93
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 508
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535b985fa03e969c0800000000000000
+      internalID: -3933363163322796747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_94
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 520
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279a0c41b86736840800000000000000
+      internalID: 5216143133145868658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_95
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 508
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa8fc84d50b28960800000000000000
+      internalID: 7602833035654826739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_96
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 508
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea374e53c4f1f140800000000000000
+      internalID: 4751848201790110436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_97
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 454
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eac39e4366d609c0800000000000000
+      internalID: -3961243100217357591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 454
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c01c331d146bced0800000000000000
+      internalID: -2392708700977753911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_99
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 454
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b75f5ebff9e905c0800000000000000
+      internalID: -4248607488827500620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_100
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 451
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba98c0bb1cf5cc960800000000000000
+      internalID: 7623573554902895019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 449
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d37bcf887851b880800000000000000
+      internalID: -8596992938841771047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_102
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 454
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3231a36dbe642500800000000000000
+      internalID: 370542829050606140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_103
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 454
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2142c39f1a0d05f0800000000000000
+      internalID: -788963228980723414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_104
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 454
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1534ce9bb737f90800000000000000
+      internalID: -6957080960894283333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_105
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 466
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df9265c3af2cab30800000000000000
+      internalID: 4299864124669730770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_106
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 454
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80a2ca93678e5cb0800000000000000
+      internalID: -4873308884900339571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_107
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 454
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d6fa322aedb6bd0800000000000000
+      internalID: -2635768368930525828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_108
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 402
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc181a133b283c40800000000000000
+      internalID: 5492187244059434163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_109
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 402
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a2f083f52064d90800000000000000
+      internalID: -7113995953399453149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_110
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 402
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f45755537a69ecf0800000000000000
+      internalID: -222529662992558856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_111
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 402
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773c2f894bcd31800800000000000000
+      internalID: 582051445079196535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_112
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d931d27d1e2166c0800000000000000
+      internalID: -4151986677443642927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_113
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2127c813afa348070800000000000000
+      internalID: 8107670075421258258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_114
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 402
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727ec010b3ccbd960800000000000000
+      internalID: 7627914947674826535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_115
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 402
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fbf1c90b8082540800000000000000
+      internalID: 4983242542312046458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_116
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccf8f04b0f596f40800000000000000
+      internalID: 5722209303490264269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_117
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837e1e1f07f9ecec0800000000000000
+      internalID: -3544720549250734280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_118
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 402
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c869a42cc608f7a0800000000000000
+      internalID: -6343312601293166391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_119
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 402
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68afac55d405fba10800000000000000
+      internalID: 1927347458619931270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_120
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 346
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0826ec2f944a0ffd0800000000000000
+      internalID: -2310165971327884672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_121
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 346
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8346a0feb57f6dbe0800000000000000
+      internalID: -1452701855555886024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_122
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 365
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60312049553816c40800000000000000
+      internalID: 5503824623202079494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_123
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 346
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b74083e1007cb40800000000000000
+      internalID: 5460333202998852405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_124
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 367
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62afdb38f3c65270800000000000000
+      internalID: 8238988039244718698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_125
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 345
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24f7b753cf567da0800000000000000
+      internalID: -5947460965301226451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_126
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 345
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0429cb2876ee02060800000000000000
+      internalID: 6926798355238261312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_127
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 358
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a14d9c5c9ea91850800000000000000
+      internalID: 6348297136347365793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_128
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 346
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4b2c14dfc41def0800000000000000
+      internalID: -85202267329612604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_129
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 346
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef6d81ecb7750940800000000000000
+      internalID: 5261743392773992423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_130
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 346
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38194291459b461d0800000000000000
+      internalID: -3358355651261329021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_131
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 346
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a1f88b71809aa70800000000000000
+      internalID: 8838604641664965132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_132
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 346
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdd222ae606012d0800000000000000
+      internalID: -3310039697834451509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_133
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 346
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4214f0914c7bc810800000000000000
+      internalID: 1786658298229166669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_134
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 346
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8794e768ccb63e520800000000000000
+      internalID: 2730144325290576248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_135
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 346
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125e8a442239be040800000000000000
+      internalID: 4677994413344482593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_136
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 346
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81268c5aa50f78730800000000000000
+      internalID: 4001431066061070872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_137
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 346
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ebc2b97cb566310800000000000000
+      internalID: 1397905647205138019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_138
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 346
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2af9fd992b6b3d0800000000000000
+      internalID: -3191166911993896203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_139
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 346
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03adecd2eceb41100800000000000000
+      internalID: 77896886313212464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_140
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 346
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7c8d9182700e400800000000000000
+      internalID: 351288639748622321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_141
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 346
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bae27fc20baf240800000000000000
+      internalID: 4826363657852988211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_142
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 346
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99924b3474764dfe0800000000000000
+      internalID: -1165192847805896295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_143
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 346
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052accd1088bee260800000000000000
+      internalID: 7128838120569348688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_144
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 357
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5270bcca4e674a3c0800000000000000
+      internalID: -4349220615609448667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_145
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 346
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fafa2a6384537010800000000000000
+      internalID: 1185384050327223026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_146
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 346
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba43f88b3788a3360800000000000000
+      internalID: 7150177389003093163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_147
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 346
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e657c23cffa6480800000000000000
+      internalID: -8905024099442135454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_148
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 346
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8f71e8e22135af0800000000000000
+      internalID: -408963149998851884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_149
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 346
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f532822ac926c4bf0800000000000000
+      internalID: -338787447084670113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_150
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 346
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eae1773ef34ca30800000000000000
+      internalID: 4234579795823734422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_151
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 346
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787fcbead2d90d350800000000000000
+      internalID: 6039499919834544007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_152
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611a943618fcd6800800000000000000
+      internalID: 607369679388385558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_153
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 346
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2e7f111d9f9a080800000000000000
+      internalID: -9175528089445735687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_154
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 292
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fec1444bbab66370800000000000000
+      internalID: 8315539075453013744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 292
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbf353ec397b4f80800000000000000
+      internalID: -8121264200613626936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_156
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 292
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381b0c48ef6c5d790800000000000000
+      internalID: -7505874407491849853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_157
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 292
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3396315250c2da760800000000000000
+      internalID: 7470675757486008627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_158
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 292
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507ac43a464311020800000000000000
+      internalID: 2310685690658858757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_159
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 291
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12be65de23ab36a20800000000000000
+      internalID: 3054489700180355873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_160
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 291
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3d20cd57e0a8b10800000000000000
+      internalID: 1984414485175260121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_161
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 304
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f383de81d3aa690800000000000000
+      internalID: -7590187044711153826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_162
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 291
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03fde2aacf05c3b0800000000000000
+      internalID: -5492966807517138161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_163
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 292
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9bdfedb839b0dd0800000000000000
+      internalID: -2518757337632753217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_164
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 292
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e944ad1859e4e7f0800000000000000
+      internalID: -584085486987621916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_165
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 236
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b91ef40533c4d510800000000000000
+      internalID: 1573096802343590323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_166
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 237
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aeadf424d4c6f20800000000000000
+      internalID: 3417191164470291067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_167
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 237
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89092b90ff01dc610800000000000000
+      internalID: 1642988126625501336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_168
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 238
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb62c35bebd40520800000000000000
+      internalID: 2667498683079224240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_169
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 238
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e484a9070e689e80800000000000000
+      internalID: -8171660547358161689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_170
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 238
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd6203c47bb82b20800000000000000
+      internalID: 3109941652861644274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_171
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 238
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfb27b5e58845f00800000000000000
+      internalID: 1104657747455164362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_172
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 236
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e6dce0cf048d6a0800000000000000
+      internalID: -6424313417119732224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_173
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 230
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58775e4da90f03230800000000000000
+      internalID: 3616655048565946245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_174
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 219
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ae7d8876b3b8910800000000000000
+      internalID: 1840630188574501490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_175
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 216
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8115d6d7b43e6c240800000000000000
+      internalID: 4811783165258322200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_176
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 216
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4a73a6a221eaa30800000000000000
+      internalID: 4228337073527432417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_177
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 215
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325fdefaa00584210800000000000000
+      internalID: 1317390897837372707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_178
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 215
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d94562efeb777080800000000000000
+      internalID: -9189740244400518697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_179
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 216
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06cb05e201001300800000000000000
+      internalID: 220677493685470730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_180
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 162
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fe3e2a08acb9b50800000000000000
+      internalID: 6601092332679065387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_181
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 162
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55e28c88797e54c0800000000000000
+      internalID: -4296863435804449443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_182
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76612ba549cd64ed0800000000000000
+      internalID: -2430012419184912793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_183
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 162
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd77455027dd185e0800000000000000
+      internalID: -1909001285242947621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_184
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 162
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf885691bd08c8c0800000000000000
+      internalID: -3978915214399074386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_185
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 162
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac77e92632c26f060800000000000000
+      internalID: 6986820402401933258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_186
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 162
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0133b906e72167070800000000000000
+      internalID: 8103684913495749392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_187
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 162
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f401494ae23ccf0800000000000000
+      internalID: -233291471299522718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_188
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 162
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26afd2f02e77fcbe0800000000000000
+      internalID: -1454812341816395166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_189
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 108
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f24be7ef1ddc2370800000000000000
+      internalID: 8299251342441661175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_190
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 108
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc190321b2a63230800000000000000
+      internalID: 3618258232319483063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_191
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe80de56c27820e0800000000000000
+      internalID: -2294457813825450247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_192
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 108
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4844b9a14aecada00800000000000000
+      internalID: 782164689518544004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_193
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 108
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07be75cb6f9ce4bf0800000000000000
+      internalID: -338110860447192208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_194
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 108
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933833759c8c0be50800000000000000
+      internalID: 6823174202543276857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_195
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 108
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba62e5cfcb206ba50800000000000000
+      internalID: 6536414919885989547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_196
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 108
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9eb2ee8ee389900800000000000000
+      internalID: 691371712950561256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_197
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 108
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5572fd1e96c12cca0800000000000000
+      internalID: -5998200512617437355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_198
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 108
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00d0c6e82ab25bc0800000000000000
+      internalID: -3795766851087052785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_199
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 108
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0199bb456d028a0800000000000000
+      internalID: -6331825416669949759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_200
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 108
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b383aa592ba9d5a00800000000000000
+      internalID: 746923205019187259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_201
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 108
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df8c2560dc5d6430800000000000000
+      internalID: 3777777712554086354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_202
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 54
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdf6ea67ffdeb9c0800000000000000
+      internalID: -3909441172767572482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_203
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8177d8e92ee5c87c0800000000000000
+      internalID: -4067772036006709480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_204
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b7557a1df2fb530800000000000000
+      internalID: 3872866782063983493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_205
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 54
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2050d158a4a7df1a0800000000000000
+      internalID: -6774123804015917822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_206
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 72
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645008fd5db11b760800000000000000
+      internalID: 7471783862176056646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_207
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 55
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e5d512fe298ac70800000000000000
+      internalID: 8982591012545060393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_208
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 76
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90e14623d1776860800000000000000
+      internalID: 7523106854239592602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_209
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 58
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951b464ba09efe940800000000000000
+      internalID: 5327733116388028761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_210
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 57
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62c3eb115cfa9590800000000000000
+      internalID: -7666537990354386324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_211
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 56
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb128a6b8ca38f7e0800000000000000
+      internalID: -1731569422991613508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_212
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 22
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b6c622a192ee8a0800000000000000
+      internalID: -6274032038657103088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_213
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 75
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a3bb3e2a4b0cb40800000000000000
+      internalID: 5458561360071440984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_214
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 22
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6911eba50d8e86fe0800000000000000
+      internalID: -1195449719493619306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_215
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 22
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870806c10c3aca90800000000000000
+      internalID: -7292950668258048125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_216
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 21
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b883bef60cdb6150800000000000000
+      internalID: 5867024862181296311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_217
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 21
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b39f6fb6ccb6950800000000000000
+      internalID: 6443468455960722272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_218
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 21
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443bd55d94f771e30800000000000000
+      internalID: 4474184709904905028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_219
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 21
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0092635de6f8210800000000000000
+      internalID: 1337409476368072917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_220
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 21
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c490b4a242fcd5930800000000000000
+      internalID: 4133687787231316300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_221
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 22
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98626519d3626720800000000000000
+      internalID: 2837940499214657690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_222
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 22
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cea94eebdeb84a0800000000000000
+      internalID: -6589912225591661429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_223
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7395ddfe8a216c370800000000000000
+      internalID: 8342375876538489143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_224
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 22
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9415a1824de7afec0800000000000000
+      internalID: -3532371508047752887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_225
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 22
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d236465fecc1e31e0800000000000000
+      internalID: -2216302291413867731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_spikey_ss_226
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 22
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe0addc52b9835c0800000000000000
+      internalID: -4235464862872236299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chatacter_spikey_ss_0: -3617888241403763010
+      chatacter_spikey_ss_1: -398706923250162201
+      chatacter_spikey_ss_10: 5615484764849037874
+      chatacter_spikey_ss_100: 7623573554902895019
+      chatacter_spikey_ss_101: -8596992938841771047
+      chatacter_spikey_ss_102: 370542829050606140
+      chatacter_spikey_ss_103: -788963228980723414
+      chatacter_spikey_ss_104: -6957080960894283333
+      chatacter_spikey_ss_105: 4299864124669730770
+      chatacter_spikey_ss_106: -4873308884900339571
+      chatacter_spikey_ss_107: -2635768368930525828
+      chatacter_spikey_ss_108: 5492187244059434163
+      chatacter_spikey_ss_109: -7113995953399453149
+      chatacter_spikey_ss_11: -9060777021932678283
+      chatacter_spikey_ss_110: -222529662992558856
+      chatacter_spikey_ss_111: 582051445079196535
+      chatacter_spikey_ss_112: -4151986677443642927
+      chatacter_spikey_ss_113: 8107670075421258258
+      chatacter_spikey_ss_114: 7627914947674826535
+      chatacter_spikey_ss_115: 4983242542312046458
+      chatacter_spikey_ss_116: 5722209303490264269
+      chatacter_spikey_ss_117: -3544720549250734280
+      chatacter_spikey_ss_118: -6343312601293166391
+      chatacter_spikey_ss_119: 1927347458619931270
+      chatacter_spikey_ss_12: -1019532025938231288
+      chatacter_spikey_ss_120: -2310165971327884672
+      chatacter_spikey_ss_121: -1452701855555886024
+      chatacter_spikey_ss_122: 5503824623202079494
+      chatacter_spikey_ss_123: 5460333202998852405
+      chatacter_spikey_ss_124: 8238988039244718698
+      chatacter_spikey_ss_125: -5947460965301226451
+      chatacter_spikey_ss_126: 6926798355238261312
+      chatacter_spikey_ss_127: 6348297136347365793
+      chatacter_spikey_ss_128: -85202267329612604
+      chatacter_spikey_ss_129: 5261743392773992423
+      chatacter_spikey_ss_13: 5081548616227360879
+      chatacter_spikey_ss_130: -3358355651261329021
+      chatacter_spikey_ss_131: 8838604641664965132
+      chatacter_spikey_ss_132: -3310039697834451509
+      chatacter_spikey_ss_133: 1786658298229166669
+      chatacter_spikey_ss_134: 2730144325290576248
+      chatacter_spikey_ss_135: 4677994413344482593
+      chatacter_spikey_ss_136: 4001431066061070872
+      chatacter_spikey_ss_137: 1397905647205138019
+      chatacter_spikey_ss_138: -3191166911993896203
+      chatacter_spikey_ss_139: 77896886313212464
+      chatacter_spikey_ss_14: -840157519239092036
+      chatacter_spikey_ss_140: 351288639748622321
+      chatacter_spikey_ss_141: 4826363657852988211
+      chatacter_spikey_ss_142: -1165192847805896295
+      chatacter_spikey_ss_143: 7128838120569348688
+      chatacter_spikey_ss_144: -4349220615609448667
+      chatacter_spikey_ss_145: 1185384050327223026
+      chatacter_spikey_ss_146: 7150177389003093163
+      chatacter_spikey_ss_147: -8905024099442135454
+      chatacter_spikey_ss_148: -408963149998851884
+      chatacter_spikey_ss_149: -338787447084670113
+      chatacter_spikey_ss_15: -5339155458697533261
+      chatacter_spikey_ss_150: 4234579795823734422
+      chatacter_spikey_ss_151: 6039499919834544007
+      chatacter_spikey_ss_152: 607369679388385558
+      chatacter_spikey_ss_153: -9175528089445735687
+      chatacter_spikey_ss_154: 8315539075453013744
+      chatacter_spikey_ss_155: -8121264200613626936
+      chatacter_spikey_ss_156: -7505874407491849853
+      chatacter_spikey_ss_157: 7470675757486008627
+      chatacter_spikey_ss_158: 2310685690658858757
+      chatacter_spikey_ss_159: 3054489700180355873
+      chatacter_spikey_ss_16: 5483228269650057226
+      chatacter_spikey_ss_160: 1984414485175260121
+      chatacter_spikey_ss_161: -7590187044711153826
+      chatacter_spikey_ss_162: -5492966807517138161
+      chatacter_spikey_ss_163: -2518757337632753217
+      chatacter_spikey_ss_164: -584085486987621916
+      chatacter_spikey_ss_165: 1573096802343590323
+      chatacter_spikey_ss_166: 3417191164470291067
+      chatacter_spikey_ss_167: 1642988126625501336
+      chatacter_spikey_ss_168: 2667498683079224240
+      chatacter_spikey_ss_169: -8171660547358161689
+      chatacter_spikey_ss_17: -4159019986634348589
+      chatacter_spikey_ss_170: 3109941652861644274
+      chatacter_spikey_ss_171: 1104657747455164362
+      chatacter_spikey_ss_172: -6424313417119732224
+      chatacter_spikey_ss_173: 3616655048565946245
+      chatacter_spikey_ss_174: 1840630188574501490
+      chatacter_spikey_ss_175: 4811783165258322200
+      chatacter_spikey_ss_176: 4228337073527432417
+      chatacter_spikey_ss_177: 1317390897837372707
+      chatacter_spikey_ss_178: -9189740244400518697
+      chatacter_spikey_ss_179: 220677493685470730
+      chatacter_spikey_ss_18: 67149018363913365
+      chatacter_spikey_ss_180: 6601092332679065387
+      chatacter_spikey_ss_181: -4296863435804449443
+      chatacter_spikey_ss_182: -2430012419184912793
+      chatacter_spikey_ss_183: -1909001285242947621
+      chatacter_spikey_ss_184: -3978915214399074386
+      chatacter_spikey_ss_185: 6986820402401933258
+      chatacter_spikey_ss_186: 8103684913495749392
+      chatacter_spikey_ss_187: -233291471299522718
+      chatacter_spikey_ss_188: -1454812341816395166
+      chatacter_spikey_ss_189: 8299251342441661175
+      chatacter_spikey_ss_19: -4063564104811351572
+      chatacter_spikey_ss_190: 3618258232319483063
+      chatacter_spikey_ss_191: -2294457813825450247
+      chatacter_spikey_ss_192: 782164689518544004
+      chatacter_spikey_ss_193: -338110860447192208
+      chatacter_spikey_ss_194: 6823174202543276857
+      chatacter_spikey_ss_195: 6536414919885989547
+      chatacter_spikey_ss_196: 691371712950561256
+      chatacter_spikey_ss_197: -5998200512617437355
+      chatacter_spikey_ss_198: -3795766851087052785
+      chatacter_spikey_ss_199: -6331825416669949759
+      chatacter_spikey_ss_2: -3704389581787579520
+      chatacter_spikey_ss_20: -4910881891036636342
+      chatacter_spikey_ss_200: 746923205019187259
+      chatacter_spikey_ss_201: 3777777712554086354
+      chatacter_spikey_ss_202: -3909441172767572482
+      chatacter_spikey_ss_203: -4067772036006709480
+      chatacter_spikey_ss_204: 3872866782063983493
+      chatacter_spikey_ss_205: -6774123804015917822
+      chatacter_spikey_ss_206: 7471783862176056646
+      chatacter_spikey_ss_207: 8982591012545060393
+      chatacter_spikey_ss_208: 7523106854239592602
+      chatacter_spikey_ss_209: 5327733116388028761
+      chatacter_spikey_ss_21: -5043680382199633959
+      chatacter_spikey_ss_210: -7666537990354386324
+      chatacter_spikey_ss_211: -1731569422991613508
+      chatacter_spikey_ss_212: -6274032038657103088
+      chatacter_spikey_ss_213: 5458561360071440984
+      chatacter_spikey_ss_214: -1195449719493619306
+      chatacter_spikey_ss_215: -7292950668258048125
+      chatacter_spikey_ss_216: 5867024862181296311
+      chatacter_spikey_ss_217: 6443468455960722272
+      chatacter_spikey_ss_218: 4474184709904905028
+      chatacter_spikey_ss_219: 1337409476368072917
+      chatacter_spikey_ss_22: 9067783647214105993
+      chatacter_spikey_ss_220: 4133687787231316300
+      chatacter_spikey_ss_221: 2837940499214657690
+      chatacter_spikey_ss_222: -6589912225591661429
+      chatacter_spikey_ss_223: 8342375876538489143
+      chatacter_spikey_ss_224: -3532371508047752887
+      chatacter_spikey_ss_225: -2216302291413867731
+      chatacter_spikey_ss_226: -4235464862872236299
+      chatacter_spikey_ss_23: -7738107110971610220
+      chatacter_spikey_ss_24: 7158647441346657721
+      chatacter_spikey_ss_25: -6120485883184668497
+      chatacter_spikey_ss_26: 7318321438659704248
+      chatacter_spikey_ss_27: -7884945886513866551
+      chatacter_spikey_ss_28: 7099755677459380668
+      chatacter_spikey_ss_29: 7339287897236347532
+      chatacter_spikey_ss_3: -5382865950691457250
+      chatacter_spikey_ss_30: -7702178418116686483
+      chatacter_spikey_ss_31: 8785864784781474683
+      chatacter_spikey_ss_32: 8449110995157671914
+      chatacter_spikey_ss_33: 247952357416324089
+      chatacter_spikey_ss_34: 2984353929509990582
+      chatacter_spikey_ss_35: 1094902173181001778
+      chatacter_spikey_ss_36: -1033167923280691350
+      chatacter_spikey_ss_37: 4433408420455528314
+      chatacter_spikey_ss_38: -7751308642519636448
+      chatacter_spikey_ss_39: 4082253613980719728
+      chatacter_spikey_ss_4: 4727335053040618969
+      chatacter_spikey_ss_40: 2213169144619646482
+      chatacter_spikey_ss_41: 6733045013322297109
+      chatacter_spikey_ss_42: 3946889810273078853
+      chatacter_spikey_ss_43: 3591488443819493118
+      chatacter_spikey_ss_44: -7287015241756672961
+      chatacter_spikey_ss_45: -3621703125836499754
+      chatacter_spikey_ss_46: -1368183125206241751
+      chatacter_spikey_ss_47: -7830616423526268059
+      chatacter_spikey_ss_48: -3833692577793022743
+      chatacter_spikey_ss_49: 5246937029218592071
+      chatacter_spikey_ss_5: 914251935757373492
+      chatacter_spikey_ss_50: -6657476641356175436
+      chatacter_spikey_ss_51: 6443514178195612921
+      chatacter_spikey_ss_52: -1439723550099662747
+      chatacter_spikey_ss_53: -1056164234880287038
+      chatacter_spikey_ss_54: -4788444786135344693
+      chatacter_spikey_ss_55: -7854864358431592619
+      chatacter_spikey_ss_56: -6971804467866155577
+      chatacter_spikey_ss_57: -6259140440273797271
+      chatacter_spikey_ss_58: -7590567577540776412
+      chatacter_spikey_ss_59: 8024216859008149153
+      chatacter_spikey_ss_6: -3347464295358707311
+      chatacter_spikey_ss_60: -750746814055759299
+      chatacter_spikey_ss_61: 3203616300852247462
+      chatacter_spikey_ss_62: -1314985456089840305
+      chatacter_spikey_ss_63: -3317049026594905
+      chatacter_spikey_ss_64: 3154869637606333703
+      chatacter_spikey_ss_65: -7967952694164959176
+      chatacter_spikey_ss_66: 4722795499298495844
+      chatacter_spikey_ss_67: -7044332956549270563
+      chatacter_spikey_ss_68: 5246641981280806855
+      chatacter_spikey_ss_69: 7409118062773121131
+      chatacter_spikey_ss_7: -7992807193589819839
+      chatacter_spikey_ss_70: 7101071611604841167
+      chatacter_spikey_ss_71: 7475004212482741596
+      chatacter_spikey_ss_72: 5683123462799051185
+      chatacter_spikey_ss_73: -5862609256986858142
+      chatacter_spikey_ss_74: 3467022788476827917
+      chatacter_spikey_ss_75: -1189391508202368426
+      chatacter_spikey_ss_76: 4405391160264511067
+      chatacter_spikey_ss_77: 3288646602562400373
+      chatacter_spikey_ss_78: -7291850241310369404
+      chatacter_spikey_ss_79: -3100384305639153606
+      chatacter_spikey_ss_8: 1599650074099377354
+      chatacter_spikey_ss_80: 2098189388592841786
+      chatacter_spikey_ss_81: 8587826023186541410
+      chatacter_spikey_ss_82: -2352433932227280587
+      chatacter_spikey_ss_83: -1764104856472701262
+      chatacter_spikey_ss_84: 9098301642173998710
+      chatacter_spikey_ss_85: -7481560040770208349
+      chatacter_spikey_ss_86: -644165603029125946
+      chatacter_spikey_ss_87: 469532880213135658
+      chatacter_spikey_ss_88: -8386970607395820728
+      chatacter_spikey_ss_89: -7410031383145175468
+      chatacter_spikey_ss_9: -251519552725936529
+      chatacter_spikey_ss_90: 2974221851408657900
+      chatacter_spikey_ss_91: 5683581464357882905
+      chatacter_spikey_ss_92: 4678158074469566148
+      chatacter_spikey_ss_93: -3933363163322796747
+      chatacter_spikey_ss_94: 5216143133145868658
+      chatacter_spikey_ss_95: 7602833035654826739
+      chatacter_spikey_ss_96: 4751848201790110436
+      chatacter_spikey_ss_97: -3961243100217357591
+      chatacter_spikey_ss_98: -2392708700977753911
+      chatacter_spikey_ss_99: -4248607488827500620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

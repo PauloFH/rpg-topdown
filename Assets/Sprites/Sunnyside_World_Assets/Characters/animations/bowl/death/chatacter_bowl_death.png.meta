@@ -1,0 +1,5831 @@
+fileFormatVersion: 2
+guid: 3fe20188aaacf3044b3df68382ec7eb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4217538255795992579
+    second: chatacter_bowl_death_0
+  - first:
+      213: 3380157542915238131
+    second: chatacter_bowl_death_1
+  - first:
+      213: -2321072405495610870
+    second: chatacter_bowl_death_2
+  - first:
+      213: -3543061734999048613
+    second: chatacter_bowl_death_3
+  - first:
+      213: -5473662086131596973
+    second: chatacter_bowl_death_4
+  - first:
+      213: 8347382586205379771
+    second: chatacter_bowl_death_5
+  - first:
+      213: -8687483456252839039
+    second: chatacter_bowl_death_6
+  - first:
+      213: -5847027221553589199
+    second: chatacter_bowl_death_7
+  - first:
+      213: -9155688604098125337
+    second: chatacter_bowl_death_8
+  - first:
+      213: 5101657819138115715
+    second: chatacter_bowl_death_9
+  - first:
+      213: -7879062931199614119
+    second: chatacter_bowl_death_10
+  - first:
+      213: 257381959699005204
+    second: chatacter_bowl_death_11
+  - first:
+      213: 6841807639333754266
+    second: chatacter_bowl_death_12
+  - first:
+      213: -8460786889929553885
+    second: chatacter_bowl_death_13
+  - first:
+      213: 8597556335442924567
+    second: chatacter_bowl_death_14
+  - first:
+      213: -4397281907866616326
+    second: chatacter_bowl_death_15
+  - first:
+      213: 8203240025610963559
+    second: chatacter_bowl_death_16
+  - first:
+      213: -8360916604455263696
+    second: chatacter_bowl_death_17
+  - first:
+      213: -845368167423685720
+    second: chatacter_bowl_death_18
+  - first:
+      213: 2090152940184626509
+    second: chatacter_bowl_death_19
+  - first:
+      213: -5712624550560121440
+    second: chatacter_bowl_death_20
+  - first:
+      213: 6763082410857930974
+    second: chatacter_bowl_death_21
+  - first:
+      213: 2934602063919609102
+    second: chatacter_bowl_death_22
+  - first:
+      213: -3914645944206378500
+    second: chatacter_bowl_death_23
+  - first:
+      213: 1730029424869820446
+    second: chatacter_bowl_death_24
+  - first:
+      213: 8902063771551541271
+    second: chatacter_bowl_death_25
+  - first:
+      213: 363114916666055625
+    second: chatacter_bowl_death_26
+  - first:
+      213: 968902919349822483
+    second: chatacter_bowl_death_27
+  - first:
+      213: -1407159754939125117
+    second: chatacter_bowl_death_28
+  - first:
+      213: -5649310113876174271
+    second: chatacter_bowl_death_29
+  - first:
+      213: 3747792662982757507
+    second: chatacter_bowl_death_30
+  - first:
+      213: 1345283976619366176
+    second: chatacter_bowl_death_31
+  - first:
+      213: 9102252938201609876
+    second: chatacter_bowl_death_32
+  - first:
+      213: 1702216399609198075
+    second: chatacter_bowl_death_33
+  - first:
+      213: 885668212101300178
+    second: chatacter_bowl_death_34
+  - first:
+      213: -5736648538429823875
+    second: chatacter_bowl_death_35
+  - first:
+      213: -1913571655800141900
+    second: chatacter_bowl_death_36
+  - first:
+      213: -5817070050624389861
+    second: chatacter_bowl_death_37
+  - first:
+      213: -4886637145533631806
+    second: chatacter_bowl_death_38
+  - first:
+      213: -8425005330446613263
+    second: chatacter_bowl_death_39
+  - first:
+      213: -5096670713204684247
+    second: chatacter_bowl_death_40
+  - first:
+      213: 4832766250418469239
+    second: chatacter_bowl_death_41
+  - first:
+      213: 1094905112670639047
+    second: chatacter_bowl_death_42
+  - first:
+      213: -1378467311632515897
+    second: chatacter_bowl_death_43
+  - first:
+      213: -8375514796286574861
+    second: chatacter_bowl_death_44
+  - first:
+      213: 5219486546860986291
+    second: chatacter_bowl_death_45
+  - first:
+      213: -7095863641327128935
+    second: chatacter_bowl_death_46
+  - first:
+      213: -1082897308551266615
+    second: chatacter_bowl_death_47
+  - first:
+      213: 1171908826345847545
+    second: chatacter_bowl_death_48
+  - first:
+      213: 7022387972682214892
+    second: chatacter_bowl_death_49
+  - first:
+      213: -3848343057137242257
+    second: chatacter_bowl_death_50
+  - first:
+      213: -5504176255101816149
+    second: chatacter_bowl_death_51
+  - first:
+      213: -6026908940242884802
+    second: chatacter_bowl_death_52
+  - first:
+      213: -8524782792352231892
+    second: chatacter_bowl_death_53
+  - first:
+      213: 8184334183938149292
+    second: chatacter_bowl_death_54
+  - first:
+      213: 7018175718220578255
+    second: chatacter_bowl_death_55
+  - first:
+      213: 3753868884868641655
+    second: chatacter_bowl_death_56
+  - first:
+      213: 2111807845729114488
+    second: chatacter_bowl_death_57
+  - first:
+      213: 4214955940468783829
+    second: chatacter_bowl_death_58
+  - first:
+      213: -2052259427518675876
+    second: chatacter_bowl_death_59
+  - first:
+      213: 3995491732490719463
+    second: chatacter_bowl_death_60
+  - first:
+      213: 598330850801824331
+    second: chatacter_bowl_death_61
+  - first:
+      213: -2645196708216828916
+    second: chatacter_bowl_death_62
+  - first:
+      213: 1769296992084140834
+    second: chatacter_bowl_death_63
+  - first:
+      213: -8540271379038705043
+    second: chatacter_bowl_death_64
+  - first:
+      213: -5184609618973426543
+    second: chatacter_bowl_death_65
+  - first:
+      213: 345048056098646006
+    second: chatacter_bowl_death_66
+  - first:
+      213: 7669305950047195715
+    second: chatacter_bowl_death_67
+  - first:
+      213: 4649808474324026687
+    second: chatacter_bowl_death_68
+  - first:
+      213: 1661838976782580108
+    second: chatacter_bowl_death_69
+  - first:
+      213: 4796833185881989917
+    second: chatacter_bowl_death_70
+  - first:
+      213: -5938784189659211623
+    second: chatacter_bowl_death_71
+  - first:
+      213: -5496813400457455164
+    second: chatacter_bowl_death_72
+  - first:
+      213: -3211222976036155880
+    second: chatacter_bowl_death_73
+  - first:
+      213: 2008986447786329478
+    second: chatacter_bowl_death_74
+  - first:
+      213: 5420066330590900226
+    second: chatacter_bowl_death_75
+  - first:
+      213: -5113777217424068351
+    second: chatacter_bowl_death_76
+  - first:
+      213: -1068774556244570880
+    second: chatacter_bowl_death_77
+  - first:
+      213: -2935800967000483377
+    second: chatacter_bowl_death_78
+  - first:
+      213: -1921065149210632694
+    second: chatacter_bowl_death_79
+  - first:
+      213: 8793040713424132376
+    second: chatacter_bowl_death_80
+  - first:
+      213: -6941985985298284572
+    second: chatacter_bowl_death_81
+  - first:
+      213: -8674071259225326673
+    second: chatacter_bowl_death_82
+  - first:
+      213: -958689809461816218
+    second: chatacter_bowl_death_83
+  - first:
+      213: -2449490405815675850
+    second: chatacter_bowl_death_84
+  - first:
+      213: -7855374962753690400
+    second: chatacter_bowl_death_85
+  - first:
+      213: -2818225919436404940
+    second: chatacter_bowl_death_86
+  - first:
+      213: 5089398797450787698
+    second: chatacter_bowl_death_87
+  - first:
+      213: -4597724576369399698
+    second: chatacter_bowl_death_88
+  - first:
+      213: 4146303542159750937
+    second: chatacter_bowl_death_89
+  - first:
+      213: 3466818660452058343
+    second: chatacter_bowl_death_90
+  - first:
+      213: -969262080431003208
+    second: chatacter_bowl_death_91
+  - first:
+      213: 4966065728775758113
+    second: chatacter_bowl_death_92
+  - first:
+      213: 5832553680947923971
+    second: chatacter_bowl_death_93
+  - first:
+      213: -6356204824726967937
+    second: chatacter_bowl_death_94
+  - first:
+      213: -7491515414841270794
+    second: chatacter_bowl_death_95
+  - first:
+      213: 8782938889371965943
+    second: chatacter_bowl_death_96
+  - first:
+      213: 5592358725062576738
+    second: chatacter_bowl_death_97
+  - first:
+      213: -6734060524158695682
+    second: chatacter_bowl_death_98
+  - first:
+      213: -8616974032014299625
+    second: chatacter_bowl_death_99
+  - first:
+      213: 791597175841894853
+    second: chatacter_bowl_death_100
+  - first:
+      213: -5511185068712703205
+    second: chatacter_bowl_death_101
+  - first:
+      213: 4524901415791476707
+    second: chatacter_bowl_death_102
+  - first:
+      213: -8125585637360608335
+    second: chatacter_bowl_death_103
+  - first:
+      213: 3991097624454566568
+    second: chatacter_bowl_death_104
+  - first:
+      213: -1264025505991145704
+    second: chatacter_bowl_death_105
+  - first:
+      213: 3209498266487253888
+    second: chatacter_bowl_death_106
+  - first:
+      213: 2922555508714518271
+    second: chatacter_bowl_death_107
+  - first:
+      213: -5839799926074128652
+    second: chatacter_bowl_death_108
+  - first:
+      213: 2961839598587661666
+    second: chatacter_bowl_death_109
+  - first:
+      213: 1873172206482288373
+    second: chatacter_bowl_death_110
+  - first:
+      213: 985514517116477544
+    second: chatacter_bowl_death_111
+  - first:
+      213: -8523822624025241796
+    second: chatacter_bowl_death_112
+  - first:
+      213: 8386387505669893419
+    second: chatacter_bowl_death_113
+  - first:
+      213: 2059912094470585045
+    second: chatacter_bowl_death_114
+  - first:
+      213: 7907466544889357792
+    second: chatacter_bowl_death_115
+  - first:
+      213: -71976419980000984
+    second: chatacter_bowl_death_116
+  - first:
+      213: -865846789630415569
+    second: chatacter_bowl_death_117
+  - first:
+      213: -3853332679629950023
+    second: chatacter_bowl_death_118
+  - first:
+      213: -4681918498340614592
+    second: chatacter_bowl_death_119
+  - first:
+      213: 503939637544158826
+    second: chatacter_bowl_death_120
+  - first:
+      213: -9032214006194078751
+    second: chatacter_bowl_death_121
+  - first:
+      213: 7788682694895086744
+    second: chatacter_bowl_death_122
+  - first:
+      213: 2839359392384893897
+    second: chatacter_bowl_death_123
+  - first:
+      213: 5297526283475040782
+    second: chatacter_bowl_death_124
+  - first:
+      213: -6538521133031171012
+    second: chatacter_bowl_death_125
+  - first:
+      213: -1926714739788960320
+    second: chatacter_bowl_death_126
+  - first:
+      213: -6059623620749750724
+    second: chatacter_bowl_death_127
+  - first:
+      213: 4039600807727626813
+    second: chatacter_bowl_death_128
+  - first:
+      213: -4395692165421358330
+    second: chatacter_bowl_death_129
+  - first:
+      213: 4671320227534584175
+    second: chatacter_bowl_death_130
+  - first:
+      213: -5935746154171939317
+    second: chatacter_bowl_death_131
+  - first:
+      213: 2209277249089037570
+    second: chatacter_bowl_death_132
+  - first:
+      213: 6698728081706798919
+    second: chatacter_bowl_death_133
+  - first:
+      213: -1451649354310295649
+    second: chatacter_bowl_death_134
+  - first:
+      213: 4614595277472597385
+    second: chatacter_bowl_death_135
+  - first:
+      213: -5770392275944936012
+    second: chatacter_bowl_death_136
+  - first:
+      213: 5123177329118183985
+    second: chatacter_bowl_death_137
+  - first:
+      213: 6563508515019425124
+    second: chatacter_bowl_death_138
+  - first:
+      213: -3307561366148778324
+    second: chatacter_bowl_death_139
+  - first:
+      213: -369798822109461908
+    second: chatacter_bowl_death_140
+  - first:
+      213: -4032981089068526618
+    second: chatacter_bowl_death_141
+  - first:
+      213: -3917088719418164437
+    second: chatacter_bowl_death_142
+  - first:
+      213: -7857351122312412073
+    second: chatacter_bowl_death_143
+  - first:
+      213: -158760968276958526
+    second: chatacter_bowl_death_144
+  - first:
+      213: -7722257300595323296
+    second: chatacter_bowl_death_145
+  - first:
+      213: 5458720275803105494
+    second: chatacter_bowl_death_146
+  - first:
+      213: 3504223921614423921
+    second: chatacter_bowl_death_147
+  - first:
+      213: 7366168282262611854
+    second: chatacter_bowl_death_148
+  - first:
+      213: 3492378553823420154
+    second: chatacter_bowl_death_149
+  - first:
+      213: -6937328110239548438
+    second: chatacter_bowl_death_150
+  - first:
+      213: -7474884451532612612
+    second: chatacter_bowl_death_151
+  - first:
+      213: -5260881085578654100
+    second: chatacter_bowl_death_152
+  - first:
+      213: 4787245290873766522
+    second: chatacter_bowl_death_153
+  - first:
+      213: -976262887149434410
+    second: chatacter_bowl_death_154
+  - first:
+      213: 5234966181158169758
+    second: chatacter_bowl_death_155
+  - first:
+      213: -760594864325096648
+    second: chatacter_bowl_death_156
+  - first:
+      213: -2743334141777492127
+    second: chatacter_bowl_death_157
+  - first:
+      213: 5942094748339548184
+    second: chatacter_bowl_death_158
+  - first:
+      213: -3921605418713893261
+    second: chatacter_bowl_death_159
+  - first:
+      213: -6117495204393746405
+    second: chatacter_bowl_death_160
+  - first:
+      213: 4509112001433759077
+    second: chatacter_bowl_death_161
+  - first:
+      213: -943702996071200023
+    second: chatacter_bowl_death_162
+  - first:
+      213: 5362398520532797428
+    second: chatacter_bowl_death_163
+  - first:
+      213: -5123331307461894168
+    second: chatacter_bowl_death_164
+  - first:
+      213: -3475814923962885216
+    second: chatacter_bowl_death_165
+  - first:
+      213: -117867220080890550
+    second: chatacter_bowl_death_166
+  - first:
+      213: -5536517989601181516
+    second: chatacter_bowl_death_167
+  - first:
+      213: -4838065498357006712
+    second: chatacter_bowl_death_168
+  - first:
+      213: -668705902824428201
+    second: chatacter_bowl_death_169
+  - first:
+      213: 1417507414434706716
+    second: chatacter_bowl_death_170
+  - first:
+      213: 737490519366177977
+    second: chatacter_bowl_death_171
+  - first:
+      213: 5290465006298452749
+    second: chatacter_bowl_death_172
+  - first:
+      213: -831481464705227493
+    second: chatacter_bowl_death_173
+  - first:
+      213: 8394014238309247486
+    second: chatacter_bowl_death_174
+  - first:
+      213: 7510511631350767387
+    second: chatacter_bowl_death_175
+  - first:
+      213: -372497627721118830
+    second: chatacter_bowl_death_176
+  - first:
+      213: -1007755303704714108
+    second: chatacter_bowl_death_177
+  - first:
+      213: -3343717054355612084
+    second: chatacter_bowl_death_178
+  - first:
+      213: -3567543349745555740
+    second: chatacter_bowl_death_179
+  - first:
+      213: 7305857183425586298
+    second: chatacter_bowl_death_180
+  - first:
+      213: -499852855687124325
+    second: chatacter_bowl_death_181
+  - first:
+      213: 1590950868200294539
+    second: chatacter_bowl_death_182
+  - first:
+      213: 2171901534914052919
+    second: chatacter_bowl_death_183
+  - first:
+      213: -5667912665834663901
+    second: chatacter_bowl_death_184
+  - first:
+      213: 6677164784585636681
+    second: chatacter_bowl_death_185
+  - first:
+      213: 3432164240403751862
+    second: chatacter_bowl_death_186
+  - first:
+      213: 8166055341904985885
+    second: chatacter_bowl_death_187
+  - first:
+      213: 4481629985449291379
+    second: chatacter_bowl_death_188
+  - first:
+      213: 9081374628278479894
+    second: chatacter_bowl_death_189
+  - first:
+      213: 2681634696536725548
+    second: chatacter_bowl_death_190
+  - first:
+      213: 9208783391704731063
+    second: chatacter_bowl_death_191
+  - first:
+      213: -705287444690000316
+    second: chatacter_bowl_death_192
+  - first:
+      213: -8938682248776556741
+    second: chatacter_bowl_death_193
+  - first:
+      213: 6893111728631581919
+    second: chatacter_bowl_death_194
+  - first:
+      213: -1781238136743122846
+    second: chatacter_bowl_death_195
+  - first:
+      213: -2301161880367425248
+    second: chatacter_bowl_death_196
+  - first:
+      213: -6859961722237661714
+    second: chatacter_bowl_death_197
+  - first:
+      213: -6704236310302067069
+    second: chatacter_bowl_death_198
+  - first:
+      213: 3234240121402520763
+    second: chatacter_bowl_death_199
+  - first:
+      213: 2024066326107034594
+    second: chatacter_bowl_death_200
+  - first:
+      213: -9079348482501736472
+    second: chatacter_bowl_death_201
+  - first:
+      213: 3060244924091943707
+    second: chatacter_bowl_death_202
+  - first:
+      213: 5151843043099751014
+    second: chatacter_bowl_death_203
+  - first:
+      213: -6719452981696519877
+    second: chatacter_bowl_death_204
+  - first:
+      213: -4910468288820979908
+    second: chatacter_bowl_death_205
+  - first:
+      213: 3350718885871553610
+    second: chatacter_bowl_death_206
+  - first:
+      213: 2036640005089131389
+    second: chatacter_bowl_death_207
+  - first:
+      213: 4135043506390321730
+    second: chatacter_bowl_death_208
+  - first:
+      213: 4339184408375529979
+    second: chatacter_bowl_death_209
+  - first:
+      213: 3951068838470489814
+    second: chatacter_bowl_death_210
+  - first:
+      213: 1264125803346535755
+    second: chatacter_bowl_death_211
+  - first:
+      213: -4324544486949173288
+    second: chatacter_bowl_death_212
+  - first:
+      213: -9085037855779273254
+    second: chatacter_bowl_death_213
+  - first:
+      213: -1148460531752835574
+    second: chatacter_bowl_death_214
+  - first:
+      213: -4038437293639130014
+    second: chatacter_bowl_death_215
+  - first:
+      213: -1097325367598644190
+    second: chatacter_bowl_death_216
+  - first:
+      213: -7591640219516017772
+    second: chatacter_bowl_death_217
+  - first:
+      213: -1915564989318988258
+    second: chatacter_bowl_death_218
+  - first:
+      213: 1982358471742336296
+    second: chatacter_bowl_death_219
+  - first:
+      213: 6637816961647623642
+    second: chatacter_bowl_death_220
+  - first:
+      213: -7666981875051139636
+    second: chatacter_bowl_death_221
+  - first:
+      213: -2244528905696059573
+    second: chatacter_bowl_death_222
+  - first:
+      213: 7508788310808698741
+    second: chatacter_bowl_death_223
+  - first:
+      213: 1640341205546646980
+    second: chatacter_bowl_death_224
+  - first:
+      213: 1513501617914637013
+    second: chatacter_bowl_death_225
+  - first:
+      213: -5229834129378487484
+    second: chatacter_bowl_death_226
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chatacter_bowl_death_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1240
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7c8a44d4b4875c0800000000000000
+      internalID: -4217538255795992579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1240
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8e15e506bb8ee20800000000000000
+      internalID: 3380157542915238131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1240
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02097cd1f4e9cfd0800000000000000
+      internalID: -2321072405495610870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1240
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e3a1cbf1484dec0800000000000000
+      internalID: -3543061734999048613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1240
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3514a975555a904b0800000000000000
+      internalID: -5473662086131596973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1240
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc9d0f5c3cd7d370800000000000000
+      internalID: 8347382586205379771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1240
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b77f523dbdf6780800000000000000
+      internalID: -8687483456252839039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_7
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1240
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134524b88bf2bdea0800000000000000
+      internalID: -5847027221553589199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1176
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1a3a639b570f080800000000000000
+      internalID: -9155688604098125337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1176
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388425bb1cabcc640800000000000000
+      internalID: 5101657819138115715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1176
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95326e65202f7a290800000000000000
+      internalID: -7879062931199614119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1176
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ff3775787629300800000000000000
+      internalID: 257381959699005204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1176
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95da0c6ccbf2fe50800000000000000
+      internalID: 6841807639333754266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1176
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3288779962f359a80800000000000000
+      internalID: -8460786889929553885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_14
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1176
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7141c7e6fe7a05770800000000000000
+      internalID: 8597556335442924567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_15
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1176
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdbb501767b9f2c0800000000000000
+      internalID: -4397281907866616326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1112
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76acec53753c7d170800000000000000
+      internalID: 8203240025610963559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1112
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03267c275ae08fb80800000000000000
+      internalID: -8360916604455263696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_18
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1112
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abc9447126a444f0800000000000000
+      internalID: -845368167423685720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1112
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4561f56607b10d10800000000000000
+      internalID: 2090152940184626509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1112
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad30b0fc3ea8b0b0800000000000000
+      internalID: -5712624550560121440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_21
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1112
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed021edce9b4bdd50800000000000000
+      internalID: 6763082410857930974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_22
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1112
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e057e09670dc9b820800000000000000
+      internalID: 2934602063919609102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_23
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1112
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9b72221426ca9c0800000000000000
+      internalID: -3914645944206378500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_24
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1112
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18c658889c420810800000000000000
+      internalID: 1730029424869820446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1046
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7182437c5db7a8b70800000000000000
+      internalID: 8902063771551541271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1047
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb9684c71b0a0500800000000000000
+      internalID: 363114916666055625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1045
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3146fa9521c327d00800000000000000
+      internalID: 968902919349822483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_28
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1045
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382b0a888a3c87ce0800000000000000
+      internalID: -1407159754939125117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1046
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a936cf16e9991b0800000000000000
+      internalID: -5649310113876174271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 984
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c07e00295d20430800000000000000
+      internalID: 3747792662982757507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 984
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0271c6c26a86ba210800000000000000
+      internalID: 1345283976619366176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_32
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 984
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496334d42d2b15e70800000000000000
+      internalID: 9102252938201609876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_33
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 984
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5fc85fbcc7f9710800000000000000
+      internalID: 1702216399609198075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_34
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 984
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df3723eb868a4c00800000000000000
+      internalID: 885668212101300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_35
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 984
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7460a16c845360b0800000000000000
+      internalID: -5736648538429823875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_36
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 984
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7c6c3b7b0a175e0800000000000000
+      internalID: -1913571655800141900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_37
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 984
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d38feeb9d954fa0800000000000000
+      internalID: -5817070050624389861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 920
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c23d3a186d2f2cb0800000000000000
+      internalID: -4886637145533631806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_39
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 920
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f405ff1a4e541b80800000000000000
+      internalID: -8425005330446613263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_40
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 920
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a4c4a5dfcf449b0800000000000000
+      internalID: -5096670713204684247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_41
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 920
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77970b6bc4f611340800000000000000
+      internalID: 4832766250418469239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_42
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 920
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c31e7f1662e13f00800000000000000
+      internalID: 1094905112670639047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_43
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 928
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccf7a39843bedce0800000000000000
+      internalID: -1378467311632515897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_44
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 929
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe7f4c0ba134cb80800000000000000
+      internalID: -8375514796286574861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_45
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 928
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf449f3c575f6840800000000000000
+      internalID: 5219486546860986291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_46
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 920
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e261c1d9d668d90800000000000000
+      internalID: -7095863641327128935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_47
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 920
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce3393a2a6c8f0f0800000000000000
+      internalID: -1082897308551266615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_48
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 923
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa3d775ed4734010800000000000000
+      internalID: 1171908826345847545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_49
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 920
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cede2baa7a8847160800000000000000
+      internalID: 7022387972682214892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_50
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 920
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f6e710160f79ac0800000000000000
+      internalID: -3848343057137242257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 855
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2348dbbdc3d93b0800000000000000
+      internalID: -5504176255101816149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 856
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e376233304e1c5ca0800000000000000
+      internalID: -6026908940242884802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_53
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 856
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e8b727733e1b980800000000000000
+      internalID: -8524782792352231892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_54
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 856
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab48bce398949170800000000000000
+      internalID: 8184334183938149292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_55
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 856
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd3fcfb1a1956160800000000000000
+      internalID: 7018175718220578255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_56
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 855
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773bcf7acdb681430800000000000000
+      internalID: 3753868884868641655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_57
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 855
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879119efb06ae4d10800000000000000
+      internalID: 2111807845729114488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_58
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 855
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da709798188e7a30800000000000000
+      internalID: 4214955940468783829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 792
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c548dcb8ce8e483e0800000000000000
+      internalID: -2052259427518675876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 792
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e09e1acf86d27730800000000000000
+      internalID: 3995491732490719463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_61
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 792
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42333c1db2bd4800800000000000000
+      internalID: 598330850801824331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_62
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 794
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c04b5db9f5a4bd0800000000000000
+      internalID: -2645196708216828916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_63
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 792
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223a75b7d3ecd8810800000000000000
+      internalID: 1769296992084140834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_64
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 792
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a66f6dd6cda7980800000000000000
+      internalID: -8540271379038705043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_65
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 792
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cf30255019c08b0800000000000000
+      internalID: -5184609618973426543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_66
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 794
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7e23ef06bd9c400800000000000000
+      internalID: 345048056098646006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 728
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3425a5ab029de6a60800000000000000
+      internalID: 7669305950047195715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_68
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 728
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f354fa1fb20778040800000000000000
+      internalID: 4649808474324026687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_69
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 728
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89360d9eb9001710800000000000000
+      internalID: 1661838976782580108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_70
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 729
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d132d4b2e56c19240800000000000000
+      internalID: 4796833185881989917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_71
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 731
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99818a99e33359da0800000000000000
+      internalID: -5938784189659211623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_72
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 732
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9502de55567b3b0800000000000000
+      internalID: -5496813400457455164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_73
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 730
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ecac297b17f63d0800000000000000
+      internalID: -3211222976036155880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_74
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 728
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685c0eab78a51eb10800000000000000
+      internalID: 2008986447786329478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_75
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 728
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200fce56c91f73b40800000000000000
+      internalID: 5420066330590900226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_76
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 664
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101f3f6f6b63809b0800000000000000
+      internalID: -5113777217424068351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 664
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d01162433fa21f0800000000000000
+      internalID: -1068774556244570880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_78
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 664
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc910b63390f147d0800000000000000
+      internalID: -2935800967000483377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_79
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 664
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0edaeecc610755e0800000000000000
+      internalID: -1921065149210632694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_80
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 664
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819513bf0f7270a70800000000000000
+      internalID: 8793040713424132376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_81
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 664
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef3e8ec68c19af90800000000000000
+      internalID: -6941985985298284572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_82
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 664
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabf27d95228f9780800000000000000
+      internalID: -8674071259225326673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_83
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 664
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664dd3992bc02b2f0800000000000000
+      internalID: -958689809461816218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_84
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 664
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63411a03479a10ed0800000000000000
+      internalID: -2449490405815675850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_85
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 664
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4a197471a1cf290800000000000000
+      internalID: -7855374962753690400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_86
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 600
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437c1373576a3e8d0800000000000000
+      internalID: -2818225919436404940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_87
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 600
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bba52dd3d21a640800000000000000
+      internalID: 5089398797450787698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_88
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 600
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e682b6a8bd99130c0800000000000000
+      internalID: -4597724576369399698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_89
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 600
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91730618a11aa8930800000000000000
+      internalID: 4146303542159750937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_90
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 600
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4c0f4243d9c1030800000000000000
+      internalID: 3466818660452058343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_91
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 600
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b967a1f54d7c82f0800000000000000
+      internalID: -969262080431003208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_92
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 600
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121abee08720be440800000000000000
+      internalID: 4966065728775758113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_93
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 600
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c4c4eaba461f050800000000000000
+      internalID: 5832553680947923971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_94
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 612
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79668673693ac7a0800000000000000
+      internalID: -6356204824726967937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_95
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 600
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdd5050c6ac80890800000000000000
+      internalID: -7491515414841270794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_96
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 600
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9daf8c26443e970800000000000000
+      internalID: 8782938889371965943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_97
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 536
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a49ef71ac0c9d40800000000000000
+      internalID: 5592358725062576738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_98
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 536
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef64a81c1afcb82a0800000000000000
+      internalID: -6734060524158695682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_99
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 536
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ea507c5cb5a6880800000000000000
+      internalID: -8616974032014299625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_100
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 533
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c13247ff615cfa00800000000000000
+      internalID: 791597175841894853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_101
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 531
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b41f721665483b0800000000000000
+      internalID: -5511185068712703205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_102
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 536
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efb9eb1dddabce30800000000000000
+      internalID: 4524901415791476707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_103
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 536
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbda1df9ee1c3f80800000000000000
+      internalID: -8125585637360608335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_104
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 536
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a21589c42a336730800000000000000
+      internalID: 3991097624454566568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_105
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 548
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8174d58df77457ee0800000000000000
+      internalID: -1264025505991145704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_106
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 536
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b64313bad6a8c20800000000000000
+      internalID: 3209498266487253888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_107
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 536
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff63a4530c00f8820800000000000000
+      internalID: 2922555508714518271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_108
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 474
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6cff668ecd4fea0800000000000000
+      internalID: -5839799926074128652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_109
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 474
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dc0832c619a1920800000000000000
+      internalID: 2961839598587661666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_110
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 474
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fee2828238def910800000000000000
+      internalID: 1873172206482288373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_111
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 474
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860e7b95b304dad00800000000000000
+      internalID: 985514517116477544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_112
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 474
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37998e0c7c45b980800000000000000
+      internalID: -8523822624025241796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_113
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 474
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d6a30e00f626470800000000000000
+      internalID: 8386387505669893419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_114
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 474
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da3373d227469c10800000000000000
+      internalID: 2059912094470585045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_115
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 474
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e56a615de6fcbd60800000000000000
+      internalID: 7907466544889357792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_116
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 474
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82143eec3d9400ff0800000000000000
+      internalID: -71976419980000984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_117
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 474
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2daa2aaee4ebf3f0800000000000000
+      internalID: -865846789630415569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_118
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 474
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3b04df756368ac0800000000000000
+      internalID: -3853332679629950023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_119
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 474
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ec31f7eeb760fb0800000000000000
+      internalID: -4681918498340614592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_120
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 408
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a660f0c2e6a5ef600800000000000000
+      internalID: 503939637544158826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_121
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 408
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb7e71573127a280800000000000000
+      internalID: -9032214006194078751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_122
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 427
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c247115a5f61c60800000000000000
+      internalID: 7788682694895086744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_123
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 408
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c345c4e25e676720800000000000000
+      internalID: 2839359392384893897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_124
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 429
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a33da5618948940800000000000000
+      internalID: 5297526283475040782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_125
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 407
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cda4d0ca18245a0800000000000000
+      internalID: -6538521133031171012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_126
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 407
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdae5ff62fe245e0800000000000000
+      internalID: -1926714739788960320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_127
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 420
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e05a41c64e7eba0800000000000000
+      internalID: -6059623620749750724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_128
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 408
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a7cfa288b8f0830800000000000000
+      internalID: 4039600807727626813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_129
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 408
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603a712d34d5ff2c0800000000000000
+      internalID: -4395692165421358330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_130
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 408
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69bb4a4ffcd3d040800000000000000
+      internalID: 4671320227534584175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_131
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 408
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06c0bb525eff9da0800000000000000
+      internalID: -5935746154171939317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_132
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 408
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205ed4ae3fde8ae10800000000000000
+      internalID: 2209277249089037570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_133
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 408
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f411de2b9a6fc50800000000000000
+      internalID: 6698728081706798919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_134
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 408
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fd8e97a94badbe0800000000000000
+      internalID: -1451649354310295649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_135
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 408
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98503f7a4f55a0040800000000000000
+      internalID: 4614595277472597385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_136
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 408
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bde4a14cc27befa0800000000000000
+      internalID: -5770392275944936012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_137
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 408
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1328c6713ae291740800000000000000
+      internalID: 5123177329118183985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_138
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 408
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4650cfd2834461b50800000000000000
+      internalID: 6563508515019425124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_139
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 408
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca675e1367e2912d0800000000000000
+      internalID: -3307561366148778324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_140
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 408
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62cec93ee53edaf0800000000000000
+      internalID: -369798822109461908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_141
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 408
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3d3303119f708c0800000000000000
+      internalID: -4032981089068526618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_142
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 408
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bf3653094b3a9c0800000000000000
+      internalID: -3917088719418164437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_143
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 408
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7544d07c8c415f290800000000000000
+      internalID: -7857351122312412073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_144
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 419
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2a7a19db7fbcdf0800000000000000
+      internalID: -158760968276958526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_145
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 408
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e49dd36e705d490800000000000000
+      internalID: -7722257300595323296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_146
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 408
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d867775b2541cb40800000000000000
+      internalID: 5458720275803105494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_147
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 408
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177014d271181a030800000000000000
+      internalID: 3504223921614423921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_148
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 408
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87230c6603e93660800000000000000
+      internalID: 7366168282262611854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_149
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 408
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe56d19acb677030800000000000000
+      internalID: 3492378553823420154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_150
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 408
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf6dad6d8a9bf90800000000000000
+      internalID: -6937328110239548438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_151
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 408
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbde49e130e34890800000000000000
+      internalID: -7474884451532612612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_152
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 408
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e4388a6889df6b0800000000000000
+      internalID: -5260881085578654100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_153
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 408
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7241376a36bf6240800000000000000
+      internalID: 4787245290873766522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_154
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 344
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d98f0c931e9372f0800000000000000
+      internalID: -976262887149434410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_155
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 344
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cad17710656a840800000000000000
+      internalID: 5234966181158169758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_156
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 344
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b8aed2003d175f0800000000000000
+      internalID: -760594864325096648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_157
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 344
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167c6230228bde9d0800000000000000
+      internalID: -2743334141777492127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_158
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 344
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8103e78e0bf867250800000000000000
+      internalID: 5942094748339548184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_159
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 343
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376bf4436a8a399c0800000000000000
+      internalID: -3921605418713893261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_160
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 343
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1084f2068a4a1ba0800000000000000
+      internalID: -6117495204393746405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_161
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 356
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56de8e99975939e30800000000000000
+      internalID: 4509112001433759077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_162
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 343
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea44b1002b47e2f0800000000000000
+      internalID: -943702996071200023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_163
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 344
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f700701b011b6a40800000000000000
+      internalID: 5362398520532797428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_164
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 344
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef9818025546e8b0800000000000000
+      internalID: -5123331307461894168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_165
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 278
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abd0380ebc63cfc0800000000000000
+      internalID: -3475814923962885216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_166
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 279
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d6a6843604d5ef0800000000000000
+      internalID: -117867220080890550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_167
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 279
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b00341e8365a23b0800000000000000
+      internalID: -5536517989601181516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_168
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 280
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e7b5aff0dbbdcb0800000000000000
+      internalID: -4838065498357006712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_169
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 280
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d61fa368748b6f0800000000000000
+      internalID: -668705902824428201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_170
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 280
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15fcdfab7ffba310800000000000000
+      internalID: 1417507414434706716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_171
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 280
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b41a0058b71c3a00800000000000000
+      internalID: 737490519366177977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_172
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 278
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03dd05a4e18b6940800000000000000
+      internalID: 5290465006298452749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_173
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 272
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b156ce2630cf574f0800000000000000
+      internalID: -831481464705227493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_174
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 261
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef96ef1f9778d7470800000000000000
+      internalID: 8394014238309247486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_175
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 258
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f1a1c4982ba3860800000000000000
+      internalID: 7510511631350767387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_176
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 258
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bc104916f94daf0800000000000000
+      internalID: -372497627721118830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_177
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 257
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4842a2ef3ebb302f0800000000000000
+      internalID: -1007755303704714108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_178
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 257
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ed7b90e0bb891d0800000000000000
+      internalID: -3343717054355612084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_179
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 258
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6eb9d993a8d7ec0800000000000000
+      internalID: -3567543349745555740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_180
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 194
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7461d5766e936560800000000000000
+      internalID: 7305857183425586298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_181
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 194
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aedc0e97a2019f0800000000000000
+      internalID: -499852855687124325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_182
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 194
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b888d2aa261341610800000000000000
+      internalID: 1590950868200294539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_183
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 194
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7338da350f4242e10800000000000000
+      internalID: 2171901534914052919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_184
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 194
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320dcf6d5778751b0800000000000000
+      internalID: -5667912665834663901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_185
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 194
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b79f39efd0aac50800000000000000
+      internalID: 6677164784585636681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_186
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 194
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b36018313f71af20800000000000000
+      internalID: 3432164240403751862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_187
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 194
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f7d6e5118a35170800000000000000
+      internalID: 8166055341904985885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_188
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 194
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ea1712ab2f13e30800000000000000
+      internalID: 4481629985449291379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_189
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 130
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ca8c6fb16870e70800000000000000
+      internalID: 9081374628278479894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_190
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 130
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c281f607c84173520800000000000000
+      internalID: 2681634696536725548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_191
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 130
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdc31c54bb2ccf70800000000000000
+      internalID: 9208783391704731063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_192
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 130
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446a5ba4ec05636f0800000000000000
+      internalID: -705287444690000316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_193
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 130
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f55999adb63f380800000000000000
+      internalID: -8938682248776556741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_194
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 130
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc0a2e889049af50800000000000000
+      internalID: 6893111728631581919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_195
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 130
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2682c0f1a55c747e0800000000000000
+      internalID: -1781238136743122846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_196
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 130
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029970e3671a010e0800000000000000
+      internalID: -2301161880367425248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_197
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 130
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed4f35c8258cc0a0800000000000000
+      internalID: -6859961722237661714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_198
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 130
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3867b2aa894c5f2a0800000000000000
+      internalID: -6704236310302067069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_199
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 130
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb47382314452ec20800000000000000
+      internalID: 3234240121402520763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_200
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 130
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e39071899de61c10800000000000000
+      internalID: 2024066326107034594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_201
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 130
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7808cd8acaff180800000000000000
+      internalID: -9079348482501736472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_202
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 66
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b413a6b8c287a20800000000000000
+      internalID: 3060244924091943707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_203
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662378ab3f50f7740800000000000000
+      internalID: 5151843043099751014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_204
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 66
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b312a054d15bfb2a0800000000000000
+      internalID: -6719452981696519877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_205
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 66
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37510cab138adbb0800000000000000
+      internalID: -4910468288820979908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_206
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 84
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c0196e215208e20800000000000000
+      internalID: 3350718885871553610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_207
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 70
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bffa64b49934c10800000000000000
+      internalID: 2036640005089131389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_208
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 71
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a4e212920a26930800000000000000
+      internalID: 4135043506390321730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_209
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 69
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1132cba31e73c30800000000000000
+      internalID: 4339184408375529979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_210
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 88
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d61628cc2405d630800000000000000
+      internalID: 3951068838470489814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_211
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 87
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4520e378b31b8110800000000000000
+      internalID: 1264125803346535755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_212
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 67
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7450893b12cf3c0800000000000000
+      internalID: -4324544486949173288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_213
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 24
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5cc4b64367be180800000000000000
+      internalID: -9085037855779273254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_214
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 24
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06e05e2b39df00f0800000000000000
+      internalID: -1148460531752835574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_215
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26423f09da694f7c0800000000000000
+      internalID: -4038437293639130014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_216
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 23
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224024d546485c0f0800000000000000
+      internalID: -1097325367598644190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_217
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 23
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493ed2d417315a690800000000000000
+      internalID: -7591640219516017772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_218
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 23
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e77739acb8a65e0800000000000000
+      internalID: -1915564989318988258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_219
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 23
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d20bde680c28b10800000000000000
+      internalID: 1982358471742336296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_220
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 23
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addb113ab534e1c50800000000000000
+      internalID: 6637816961647623642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_221
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 24
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccde7362b98699590800000000000000
+      internalID: -7666981875051139636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_222
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 24
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fd3ef2ad4d9d0e0800000000000000
+      internalID: -2244528905696059573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_223
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f9b577f23943860800000000000000
+      internalID: 7508788310808698741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_224
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 24
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd3b03b2a9a3c610800000000000000
+      internalID: 1640341205546646980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_225
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 24
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dae7ced3b9010510800000000000000
+      internalID: 1513501617914637013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_bowl_death_226
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 24
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4435e247195eb67b0800000000000000
+      internalID: -5229834129378487484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6058 @@
+fileFormatVersion: 2
+guid: aabb953a50d7f3547bbddb53d2f09733
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4533539555941983908
+    second: chatacter_mop_ss_0
+  - first:
+      213: -3010580641507646641
+    second: chatacter_mop_ss_1
+  - first:
+      213: -3309376352000388950
+    second: chatacter_mop_ss_2
+  - first:
+      213: -5558677814386900040
+    second: chatacter_mop_ss_3
+  - first:
+      213: 4312708286535469313
+    second: chatacter_mop_ss_4
+  - first:
+      213: -2703702971014200236
+    second: chatacter_mop_ss_5
+  - first:
+      213: -2155714470633070904
+    second: chatacter_mop_ss_6
+  - first:
+      213: -3332169461408303153
+    second: chatacter_mop_ss_7
+  - first:
+      213: -8780402173386205982
+    second: chatacter_mop_ss_8
+  - first:
+      213: -2604155754964377559
+    second: chatacter_mop_ss_9
+  - first:
+      213: 7712896484464618098
+    second: chatacter_mop_ss_10
+  - first:
+      213: 4686653999958372186
+    second: chatacter_mop_ss_11
+  - first:
+      213: -3157422073917330259
+    second: chatacter_mop_ss_12
+  - first:
+      213: -5094336168105790313
+    second: chatacter_mop_ss_13
+  - first:
+      213: 5393610994090474574
+    second: chatacter_mop_ss_14
+  - first:
+      213: -1846320598180122030
+    second: chatacter_mop_ss_15
+  - first:
+      213: 6579904938837969883
+    second: chatacter_mop_ss_16
+  - first:
+      213: -4708762290239339429
+    second: chatacter_mop_ss_17
+  - first:
+      213: 2619400302482684640
+    second: chatacter_mop_ss_18
+  - first:
+      213: -6760050792569610009
+    second: chatacter_mop_ss_19
+  - first:
+      213: -1881247482247197345
+    second: chatacter_mop_ss_20
+  - first:
+      213: 726785189787546535
+    second: chatacter_mop_ss_21
+  - first:
+      213: 4800655719641823983
+    second: chatacter_mop_ss_22
+  - first:
+      213: -6077397707195961554
+    second: chatacter_mop_ss_23
+  - first:
+      213: -5967036619922448619
+    second: chatacter_mop_ss_24
+  - first:
+      213: 4446728159540500462
+    second: chatacter_mop_ss_25
+  - first:
+      213: -3407758887376358479
+    second: chatacter_mop_ss_26
+  - first:
+      213: 7611005255952818391
+    second: chatacter_mop_ss_27
+  - first:
+      213: -7866544179595138071
+    second: chatacter_mop_ss_28
+  - first:
+      213: 6354971746680970129
+    second: chatacter_mop_ss_29
+  - first:
+      213: -1795185331611278782
+    second: chatacter_mop_ss_30
+  - first:
+      213: -7340885862212908552
+    second: chatacter_mop_ss_31
+  - first:
+      213: 7947494643886180040
+    second: chatacter_mop_ss_32
+  - first:
+      213: 4819895222065285365
+    second: chatacter_mop_ss_33
+  - first:
+      213: 7070981027318329248
+    second: chatacter_mop_ss_34
+  - first:
+      213: -4720335001306237343
+    second: chatacter_mop_ss_35
+  - first:
+      213: -859159832936789227
+    second: chatacter_mop_ss_36
+  - first:
+      213: -3039443471156141025
+    second: chatacter_mop_ss_37
+  - first:
+      213: 6409383622365230897
+    second: chatacter_mop_ss_38
+  - first:
+      213: -8999453063859820521
+    second: chatacter_mop_ss_39
+  - first:
+      213: -7492852484919835356
+    second: chatacter_mop_ss_40
+  - first:
+      213: -7486504450626526813
+    second: chatacter_mop_ss_41
+  - first:
+      213: -9202246238122636636
+    second: chatacter_mop_ss_42
+  - first:
+      213: 478002681938241019
+    second: chatacter_mop_ss_43
+  - first:
+      213: -5496007633801540115
+    second: chatacter_mop_ss_44
+  - first:
+      213: -4173337118682000640
+    second: chatacter_mop_ss_45
+  - first:
+      213: 4890008712534080207
+    second: chatacter_mop_ss_46
+  - first:
+      213: 2246856364984666447
+    second: chatacter_mop_ss_47
+  - first:
+      213: -9130647151252538240
+    second: chatacter_mop_ss_48
+  - first:
+      213: -8411592650378226513
+    second: chatacter_mop_ss_49
+  - first:
+      213: -7806232838674230718
+    second: chatacter_mop_ss_50
+  - first:
+      213: 2804257393206753761
+    second: chatacter_mop_ss_51
+  - first:
+      213: 5957648800234238477
+    second: chatacter_mop_ss_52
+  - first:
+      213: 5852217524024697797
+    second: chatacter_mop_ss_53
+  - first:
+      213: -7537671022697914331
+    second: chatacter_mop_ss_54
+  - first:
+      213: -6192607443026750122
+    second: chatacter_mop_ss_55
+  - first:
+      213: -1517172951019591167
+    second: chatacter_mop_ss_56
+  - first:
+      213: 1736346939127377273
+    second: chatacter_mop_ss_57
+  - first:
+      213: -690674289970909832
+    second: chatacter_mop_ss_58
+  - first:
+      213: 4944050278224112554
+    second: chatacter_mop_ss_59
+  - first:
+      213: -7951273798025108285
+    second: chatacter_mop_ss_60
+  - first:
+      213: 7407472156961174916
+    second: chatacter_mop_ss_61
+  - first:
+      213: -8174821943914565317
+    second: chatacter_mop_ss_62
+  - first:
+      213: -6729098149452440485
+    second: chatacter_mop_ss_63
+  - first:
+      213: 7517320239550862351
+    second: chatacter_mop_ss_64
+  - first:
+      213: -7896170870271643608
+    second: chatacter_mop_ss_65
+  - first:
+      213: -6809855181243463995
+    second: chatacter_mop_ss_66
+  - first:
+      213: -4971888018594894897
+    second: chatacter_mop_ss_67
+  - first:
+      213: 8584782063255271021
+    second: chatacter_mop_ss_68
+  - first:
+      213: 2063993984016597489
+    second: chatacter_mop_ss_69
+  - first:
+      213: 6389447089726687353
+    second: chatacter_mop_ss_70
+  - first:
+      213: -6491406851492293285
+    second: chatacter_mop_ss_71
+  - first:
+      213: -2906979991614288066
+    second: chatacter_mop_ss_72
+  - first:
+      213: -5285812948505447049
+    second: chatacter_mop_ss_73
+  - first:
+      213: -2548052365894638672
+    second: chatacter_mop_ss_74
+  - first:
+      213: 6864755594440498609
+    second: chatacter_mop_ss_75
+  - first:
+      213: -5510576667074081817
+    second: chatacter_mop_ss_76
+  - first:
+      213: 3597924906961087383
+    second: chatacter_mop_ss_77
+  - first:
+      213: 8414662049674005594
+    second: chatacter_mop_ss_78
+  - first:
+      213: -7904953465013046283
+    second: chatacter_mop_ss_79
+  - first:
+      213: -1866921553658531564
+    second: chatacter_mop_ss_80
+  - first:
+      213: 1979725770008742729
+    second: chatacter_mop_ss_81
+  - first:
+      213: -7206112797476258812
+    second: chatacter_mop_ss_82
+  - first:
+      213: -761055865808020431
+    second: chatacter_mop_ss_83
+  - first:
+      213: 8174176736173284595
+    second: chatacter_mop_ss_84
+  - first:
+      213: -2080874047052588853
+    second: chatacter_mop_ss_85
+  - first:
+      213: -8617129089579116361
+    second: chatacter_mop_ss_86
+  - first:
+      213: -3778970974364376971
+    second: chatacter_mop_ss_87
+  - first:
+      213: -8110641955493282422
+    second: chatacter_mop_ss_88
+  - first:
+      213: 4526803011811428065
+    second: chatacter_mop_ss_89
+  - first:
+      213: -4732083268434218639
+    second: chatacter_mop_ss_90
+  - first:
+      213: 668138642780929481
+    second: chatacter_mop_ss_91
+  - first:
+      213: -2612525302143641869
+    second: chatacter_mop_ss_92
+  - first:
+      213: -3181760659813785906
+    second: chatacter_mop_ss_93
+  - first:
+      213: 4572950400515565684
+    second: chatacter_mop_ss_94
+  - first:
+      213: -1086220956245868065
+    second: chatacter_mop_ss_95
+  - first:
+      213: 3205402247976999674
+    second: chatacter_mop_ss_96
+  - first:
+      213: 4239393555150596940
+    second: chatacter_mop_ss_97
+  - first:
+      213: 6689248220055164133
+    second: chatacter_mop_ss_98
+  - first:
+      213: 6422562219463053966
+    second: chatacter_mop_ss_99
+  - first:
+      213: 4892000222180776943
+    second: chatacter_mop_ss_100
+  - first:
+      213: -5233215025935180757
+    second: chatacter_mop_ss_101
+  - first:
+      213: 3467010948217941740
+    second: chatacter_mop_ss_102
+  - first:
+      213: -3682426156821220289
+    second: chatacter_mop_ss_103
+  - first:
+      213: 6883215814281645319
+    second: chatacter_mop_ss_104
+  - first:
+      213: -2561090771688982991
+    second: chatacter_mop_ss_105
+  - first:
+      213: -4595932525976258781
+    second: chatacter_mop_ss_106
+  - first:
+      213: -1191090474710506938
+    second: chatacter_mop_ss_107
+  - first:
+      213: -4387784648017541782
+    second: chatacter_mop_ss_108
+  - first:
+      213: 1681919840313329907
+    second: chatacter_mop_ss_109
+  - first:
+      213: 5000260326052660351
+    second: chatacter_mop_ss_110
+  - first:
+      213: 9013652139654858831
+    second: chatacter_mop_ss_111
+  - first:
+      213: -6114126087113524738
+    second: chatacter_mop_ss_112
+  - first:
+      213: -34614258998678615
+    second: chatacter_mop_ss_113
+  - first:
+      213: 392185192358818937
+    second: chatacter_mop_ss_114
+  - first:
+      213: 2920809882541231734
+    second: chatacter_mop_ss_115
+  - first:
+      213: -4211973312620276275
+    second: chatacter_mop_ss_116
+  - first:
+      213: 1082009665097540915
+    second: chatacter_mop_ss_117
+  - first:
+      213: 5909241080993551385
+    second: chatacter_mop_ss_118
+  - first:
+      213: 959465676187977795
+    second: chatacter_mop_ss_119
+  - first:
+      213: -5865314060552619649
+    second: chatacter_mop_ss_120
+  - first:
+      213: -5354971340340786322
+    second: chatacter_mop_ss_121
+  - first:
+      213: 622946393432424151
+    second: chatacter_mop_ss_122
+  - first:
+      213: -651643266689457630
+    second: chatacter_mop_ss_123
+  - first:
+      213: -6784927943942362666
+    second: chatacter_mop_ss_124
+  - first:
+      213: 7657852032010571917
+    second: chatacter_mop_ss_125
+  - first:
+      213: -6596302612408876753
+    second: chatacter_mop_ss_126
+  - first:
+      213: -2074018049838416237
+    second: chatacter_mop_ss_127
+  - first:
+      213: 8618715719479943852
+    second: chatacter_mop_ss_128
+  - first:
+      213: -1917479066119458433
+    second: chatacter_mop_ss_129
+  - first:
+      213: 7000431547839188302
+    second: chatacter_mop_ss_130
+  - first:
+      213: 1351056098371964169
+    second: chatacter_mop_ss_131
+  - first:
+      213: 1823797721261249190
+    second: chatacter_mop_ss_132
+  - first:
+      213: -5765023669160657298
+    second: chatacter_mop_ss_133
+  - first:
+      213: 7816894986821836622
+    second: chatacter_mop_ss_134
+  - first:
+      213: -7112429746299042562
+    second: chatacter_mop_ss_135
+  - first:
+      213: 6250516653800115014
+    second: chatacter_mop_ss_136
+  - first:
+      213: 2938965382339920361
+    second: chatacter_mop_ss_137
+  - first:
+      213: -5862650304147307526
+    second: chatacter_mop_ss_138
+  - first:
+      213: 543155741098044215
+    second: chatacter_mop_ss_139
+  - first:
+      213: 8514156155666976282
+    second: chatacter_mop_ss_140
+  - first:
+      213: 27139066432305185
+    second: chatacter_mop_ss_141
+  - first:
+      213: -4531797405217574856
+    second: chatacter_mop_ss_142
+  - first:
+      213: -2529221600240710760
+    second: chatacter_mop_ss_143
+  - first:
+      213: 4460583808734678817
+    second: chatacter_mop_ss_144
+  - first:
+      213: -7598921355806756057
+    second: chatacter_mop_ss_145
+  - first:
+      213: 5395449669955158976
+    second: chatacter_mop_ss_146
+  - first:
+      213: -244192222137105159
+    second: chatacter_mop_ss_147
+  - first:
+      213: -7283699135311033126
+    second: chatacter_mop_ss_148
+  - first:
+      213: -7790750682887549405
+    second: chatacter_mop_ss_149
+  - first:
+      213: 3310887152508430127
+    second: chatacter_mop_ss_150
+  - first:
+      213: -8713029668889709456
+    second: chatacter_mop_ss_151
+  - first:
+      213: 4168817928170778945
+    second: chatacter_mop_ss_152
+  - first:
+      213: 7201164623352365691
+    second: chatacter_mop_ss_153
+  - first:
+      213: 323600633225329267
+    second: chatacter_mop_ss_154
+  - first:
+      213: -7723354118330498121
+    second: chatacter_mop_ss_155
+  - first:
+      213: 3272841712308331557
+    second: chatacter_mop_ss_156
+  - first:
+      213: 8420024248635308965
+    second: chatacter_mop_ss_157
+  - first:
+      213: 4714406789905177135
+    second: chatacter_mop_ss_158
+  - first:
+      213: 5347908630031547339
+    second: chatacter_mop_ss_159
+  - first:
+      213: -5088501019734652179
+    second: chatacter_mop_ss_160
+  - first:
+      213: 7585370736502414921
+    second: chatacter_mop_ss_161
+  - first:
+      213: 5067159181206566016
+    second: chatacter_mop_ss_162
+  - first:
+      213: -7625463589383321530
+    second: chatacter_mop_ss_163
+  - first:
+      213: 8377188762047801609
+    second: chatacter_mop_ss_164
+  - first:
+      213: -3452339365675822207
+    second: chatacter_mop_ss_165
+  - first:
+      213: -7828119429776677398
+    second: chatacter_mop_ss_166
+  - first:
+      213: 7797142385525663381
+    second: chatacter_mop_ss_167
+  - first:
+      213: -6151039052427173821
+    second: chatacter_mop_ss_168
+  - first:
+      213: 4472203163016226075
+    second: chatacter_mop_ss_169
+  - first:
+      213: -2695460649820605400
+    second: chatacter_mop_ss_170
+  - first:
+      213: -6529161464880686106
+    second: chatacter_mop_ss_171
+  - first:
+      213: -460641470273382638
+    second: chatacter_mop_ss_172
+  - first:
+      213: -6318413603138400590
+    second: chatacter_mop_ss_173
+  - first:
+      213: 950217004347568470
+    second: chatacter_mop_ss_174
+  - first:
+      213: 4281662936146469353
+    second: chatacter_mop_ss_175
+  - first:
+      213: 4947897846703459368
+    second: chatacter_mop_ss_176
+  - first:
+      213: -857160348624340917
+    second: chatacter_mop_ss_177
+  - first:
+      213: 5312985829883185040
+    second: chatacter_mop_ss_178
+  - first:
+      213: -4974162559988665082
+    second: chatacter_mop_ss_179
+  - first:
+      213: 4160951672705077079
+    second: chatacter_mop_ss_180
+  - first:
+      213: 2455786065356304808
+    second: chatacter_mop_ss_181
+  - first:
+      213: 274906247056858467
+    second: chatacter_mop_ss_182
+  - first:
+      213: -9162039104510203634
+    second: chatacter_mop_ss_183
+  - first:
+      213: 8161031058613550579
+    second: chatacter_mop_ss_184
+  - first:
+      213: 1926963999870917590
+    second: chatacter_mop_ss_185
+  - first:
+      213: 8232875645339621389
+    second: chatacter_mop_ss_186
+  - first:
+      213: 5848333166490801187
+    second: chatacter_mop_ss_187
+  - first:
+      213: -3947326967824530440
+    second: chatacter_mop_ss_188
+  - first:
+      213: 7183918625516125972
+    second: chatacter_mop_ss_189
+  - first:
+      213: -51383647479373023
+    second: chatacter_mop_ss_190
+  - first:
+      213: 1244455989725110472
+    second: chatacter_mop_ss_191
+  - first:
+      213: 8024324263690765774
+    second: chatacter_mop_ss_192
+  - first:
+      213: -3237582260645635898
+    second: chatacter_mop_ss_193
+  - first:
+      213: 6646319229486076472
+    second: chatacter_mop_ss_194
+  - first:
+      213: -2164849122561933857
+    second: chatacter_mop_ss_195
+  - first:
+      213: -5102696218244826497
+    second: chatacter_mop_ss_196
+  - first:
+      213: 328520941937461318
+    second: chatacter_mop_ss_197
+  - first:
+      213: 2705161043259102818
+    second: chatacter_mop_ss_198
+  - first:
+      213: -3450691286356800617
+    second: chatacter_mop_ss_199
+  - first:
+      213: -2859618751600268188
+    second: chatacter_mop_ss_200
+  - first:
+      213: 6859238575144236867
+    second: chatacter_mop_ss_201
+  - first:
+      213: -5562425785412152562
+    second: chatacter_mop_ss_202
+  - first:
+      213: 934964778320946207
+    second: chatacter_mop_ss_203
+  - first:
+      213: 6134644724899366630
+    second: chatacter_mop_ss_204
+  - first:
+      213: -1058459203096088945
+    second: chatacter_mop_ss_205
+  - first:
+      213: 6603428249590975154
+    second: chatacter_mop_ss_206
+  - first:
+      213: -8008319236569109439
+    second: chatacter_mop_ss_207
+  - first:
+      213: -2913696834516528366
+    second: chatacter_mop_ss_208
+  - first:
+      213: 2002218698050339708
+    second: chatacter_mop_ss_209
+  - first:
+      213: -6458927837067988347
+    second: chatacter_mop_ss_210
+  - first:
+      213: 3007042903145141161
+    second: chatacter_mop_ss_211
+  - first:
+      213: 1323949397907854254
+    second: chatacter_mop_ss_212
+  - first:
+      213: 5365323934437247346
+    second: chatacter_mop_ss_213
+  - first:
+      213: 8548891780885761871
+    second: chatacter_mop_ss_214
+  - first:
+      213: -7173373083284529641
+    second: chatacter_mop_ss_215
+  - first:
+      213: 3883924126108360459
+    second: chatacter_mop_ss_216
+  - first:
+      213: 3017718337411859924
+    second: chatacter_mop_ss_217
+  - first:
+      213: -1218080835738990779
+    second: chatacter_mop_ss_218
+  - first:
+      213: -5779221396223443045
+    second: chatacter_mop_ss_219
+  - first:
+      213: -2385596044771948311
+    second: chatacter_mop_ss_220
+  - first:
+      213: -8860341571373577612
+    second: chatacter_mop_ss_221
+  - first:
+      213: -1916759963357349028
+    second: chatacter_mop_ss_222
+  - first:
+      213: 1921410529148462757
+    second: chatacter_mop_ss_223
+  - first:
+      213: 7240896154198945082
+    second: chatacter_mop_ss_224
+  - first:
+      213: 2588093838938340015
+    second: chatacter_mop_ss_225
+  - first:
+      213: 6647153726841030737
+    second: chatacter_mop_ss_226
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chatacter_mop_ss_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1048
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5955e82bc1a511c0800000000000000
+      internalID: -4533539555941983908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1048
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e4477bd44836d0800000000000000
+      internalID: -3010580641507646641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1048
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa050feddbbb212d0800000000000000
+      internalID: -3309376352000388950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1048
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3cf9c9afb9bd2b0800000000000000
+      internalID: -5558677814386900040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1048
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10984de3651d9db30800000000000000
+      internalID: 4312708286535469313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1048
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454c78209748a7ad0800000000000000
+      internalID: -2703702971014200236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1048
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce1fb44c1d5512e0800000000000000
+      internalID: -2155714470633070904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1048
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc77a598781c1c1d0800000000000000
+      internalID: -3332169461408303153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 994
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e45f3e6ebeb52680800000000000000
+      internalID: -8780402173386205982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 994
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9202f85632e2cdbd0800000000000000
+      internalID: -2604155754964377559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 994
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a6fd9ec76b90b60800000000000000
+      internalID: 7712896484464618098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 994
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5faea46bf65a0140800000000000000
+      internalID: 4686653999958372186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_12
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 994
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac2e2e3a559e24d0800000000000000
+      internalID: -3157422073917330259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 994
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79431adfe384d49b0800000000000000
+      internalID: -5094336168105790313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 994
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c776f5f94f9da40800000000000000
+      internalID: 5393610994090474574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 994
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252bcfbb23d8066e0800000000000000
+      internalID: -1846320598180122030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 940
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb86471ea4805b50800000000000000
+      internalID: 6579904938837969883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 940
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54878625ad17aeb0800000000000000
+      internalID: -4708762290239339429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 940
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eaf70a62baf95420800000000000000
+      internalID: 2619400302482684640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 940
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e06a45de997f22a0800000000000000
+      internalID: -6760050792569610009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 940
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dce06d16774e5e0800000000000000
+      internalID: -1881247482247197345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 940
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a33d49874f061a00800000000000000
+      internalID: 726785189787546535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_22
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 940
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feab23a21fa5f9240800000000000000
+      internalID: 4800655719641823983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_23
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 940
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fafc71cfeb8aba0800000000000000
+      internalID: -6077397707195961554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 940
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f56c31fc3d03da0800000000000000
+      internalID: -5967036619922448619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 884
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7532a83b3f5bd30800000000000000
+      internalID: 4446728159540500462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 885
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b370c5d85535b0d0800000000000000
+      internalID: -3407758887376358479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 883
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0e2b894f8bf9960800000000000000
+      internalID: 7611005255952818391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 883
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eba0555fbb64d290800000000000000
+      internalID: -7866544179595138071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 884
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b109e2225613850800000000000000
+      internalID: 6354971746680970129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 832
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2426153c3783617e0800000000000000
+      internalID: -1795185331611278782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 832
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9cc16b33fef1a90800000000000000
+      internalID: -7340885862212908552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 832
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6c72f554c2b4e60800000000000000
+      internalID: 7947494643886180040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_33
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 832
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8cdc5ea25b3e240800000000000000
+      internalID: 4819895222065285365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 832
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afe5dad7cb212260800000000000000
+      internalID: 7070981027318329248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 832
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1667c4263500e7eb0800000000000000
+      internalID: -4720335001306237343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_36
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 832
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bc4881fa6a314f0800000000000000
+      internalID: -859159832936789227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_37
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 832
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14abd2444ab1d5d0800000000000000
+      internalID: -3039443471156141025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 778
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13739483274b2f850800000000000000
+      internalID: 6409383622365230897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_39
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 778
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718a5db9e158b1380800000000000000
+      internalID: -8999453063859820521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_40
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 778
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42543f12d5a040890800000000000000
+      internalID: -7492852484919835356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_41
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 778
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1660b0ed79a1890800000000000000
+      internalID: -7486504450626526813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 778
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa86015dcd0b4080800000000000000
+      internalID: -9202246238122636636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_43
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 786
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5ec9a18e432a600800000000000000
+      internalID: 478002681938241019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_44
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 787
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded8c681d224ab3b0800000000000000
+      internalID: -5496007633801540115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_45
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 786
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003d10970045516c0800000000000000
+      internalID: -4173337118682000640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_46
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 778
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcab823040dccd340800000000000000
+      internalID: 4890008712534080207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_47
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 778
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f498c38a5ff6e2f10800000000000000
+      internalID: 2246856364984666447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_48
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 781
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cf82ccacc694180800000000000000
+      internalID: -9130647151252538240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_49
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 778
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa45bee0d05044b80800000000000000
+      internalID: -8411592650378226513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_50
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 778
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24255d8a790baa390800000000000000
+      internalID: -7806232838674230718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 723
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9f9d4dd39bae620800000000000000
+      internalID: 2804257393206753761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 724
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d027e72d402dda250800000000000000
+      internalID: 5957648800234238477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 724
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3eecbe4d0473150800000000000000
+      internalID: 5852217524024697797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_54
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 724
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520e5522420d46790800000000000000
+      internalID: -7537671022697914331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_55
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 724
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65553f427507f0aa0800000000000000
+      internalID: -6192607443026750122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_56
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 723
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a65a74d3be1fae0800000000000000
+      internalID: -1517172951019591167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_57
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 723
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d2681775eb81810800000000000000
+      internalID: 1736346939127377273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_58
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 723
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87de9c2846b3a66f0800000000000000
+      internalID: -690674289970909832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 670
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab2839888bcc9440800000000000000
+      internalID: 4944050278224112554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_60
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 670
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4a7dcbb9667a190800000000000000
+      internalID: -7951273798025108285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_61
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 670
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48574472ea0acc660800000000000000
+      internalID: 7407472156961174916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_62
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 672
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3177ea01c23d8e80800000000000000
+      internalID: -8174821943914565317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_63
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 670
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c1627a2e07d92a0800000000000000
+      internalID: -6729098149452440485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_64
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 670
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04984dede2e25860800000000000000
+      internalID: 7517320239550862351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_65
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 670
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820fbafdd6a2b6290800000000000000
+      internalID: -7896170870271643608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_66
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 672
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c64126fac88e71a0800000000000000
+      internalID: -6809855181243463995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 616
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb61a4703e400bb0800000000000000
+      internalID: -4971888018594894897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_68
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 616
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66b97a6dc5432770800000000000000
+      internalID: 8584782063255271021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_69
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 616
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f14adbc797c4ac10800000000000000
+      internalID: 2063993984016597489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_70
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 617
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978005e7640eba850800000000000000
+      internalID: 6389447089726687353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_71
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 619
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55d34c8cd3e9e5a0800000000000000
+      internalID: -6491406851492293285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_72
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 620
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f89a6791558a7d0800000000000000
+      internalID: -2906979991614288066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_73
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 618
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7753c27f02505a6b0800000000000000
+      internalID: -5285812948505447049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_74
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 616
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3a1c59fdf73acd0800000000000000
+      internalID: -2548052365894638672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_75
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 616
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd508497d2844f50800000000000000
+      internalID: 6864755594440498609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 562
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb4e73b7bf7683b0800000000000000
+      internalID: -5510576667074081817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_77
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 562
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b22f7e3a56ee130800000000000000
+      internalID: 3597924906961087383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_78
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 562
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c87c72d82e6c470800000000000000
+      internalID: 8414662049674005594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_79
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 562
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f377efa4b6fb4290800000000000000
+      internalID: -7904953465013046283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_80
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 562
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411b9a20dbc5716e0800000000000000
+      internalID: -1866921553658531564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_81
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 562
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bce0a4916697b10800000000000000
+      internalID: 1979725770008742729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_82
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 562
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cf70f179ebefb90800000000000000
+      internalID: -7206112797476258812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_83
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 562
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c1948e8bf2075f0800000000000000
+      internalID: -761055865808020431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_84
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 562
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcded2de62807170800000000000000
+      internalID: 8174176736173284595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_85
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 562
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8d91344104f13e0800000000000000
+      internalID: -2080874047052588853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_86
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 508
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b893ff9fbec96880800000000000000
+      internalID: -8617129089579116361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_87
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 508
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570ef70bbe56e8bc0800000000000000
+      internalID: -3778970974364376971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_88
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 508
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d717e0d16317f80800000000000000
+      internalID: -8110641955493282422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_89
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 508
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6403fea5f62de30800000000000000
+      internalID: 4526803011811428065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 508
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171b869c653445eb0800000000000000
+      internalID: -4732083268434218639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_91
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 508
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd3baf3e84b54900800000000000000
+      internalID: 668138642780929481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_92
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 508
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6120754127ebbd0800000000000000
+      internalID: -2612525302143641869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_93
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 508
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece9c7f998d18d3d0800000000000000
+      internalID: -3181760659813785906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_94
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 520
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478e5362922667f30800000000000000
+      internalID: 4572950400515565684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_95
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 508
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1416b9bc7fce0f0800000000000000
+      internalID: -1086220956245868065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_96
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 508
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa58e09c50eb7c20800000000000000
+      internalID: 3205402247976999674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_97
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 454
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4be4d52af955da30800000000000000
+      internalID: 4239393555150596940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 454
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e45dc2a0dbf4dc50800000000000000
+      internalID: 6689248220055164133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_99
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 454
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8290f67f46812950800000000000000
+      internalID: 6422562219463053966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_100
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 451
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb973c7840e3e340800000000000000
+      internalID: 4892000222180776943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_101
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 449
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c95e129a2ef57b0800000000000000
+      internalID: -5233215025935180757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_102
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 454
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeabe0a61c4d1030800000000000000
+      internalID: 3467010948217941740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_103
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 454
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f347013bbe465ecc0800000000000000
+      internalID: -3682426156821220289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_104
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 454
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dcb927058168f50800000000000000
+      internalID: 6883215814281645319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_105
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 466
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13672fb238d257cd0800000000000000
+      internalID: -2561090771688982991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_106
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 454
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3277589c7b7f730c0800000000000000
+      internalID: -4595932525976258781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_107
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 454
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642678f1685687fe0800000000000000
+      internalID: -1191090474710506938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_108
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 402
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6580003c157b13c0800000000000000
+      internalID: -4387784648017541782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_109
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 402
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8ce8efe21675710800000000000000
+      internalID: 1681919840313329907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_110
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 402
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7409d6264e746540800000000000000
+      internalID: 5000260326052660351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_111
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 402
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4841195ddce61d70800000000000000
+      internalID: 9013652139654858831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_112
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 402
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef936a1c7b2462ba0800000000000000
+      internalID: -6114126087113524738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_113
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 402
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab683cc386058ff0800000000000000
+      internalID: -34614258998678615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_114
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 402
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97437b4ca52517500800000000000000
+      internalID: 392185192358818937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_115
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 402
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e0251fc1dc88820800000000000000
+      internalID: 2920809882541231734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_116
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 402
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5d7d196901c85c0800000000000000
+      internalID: -4211973312620276275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_117
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 402
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335ada3ce02140f00800000000000000
+      internalID: 1082009665097540915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_118
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 402
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91414c46477d10250800000000000000
+      internalID: 5909241080993551385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_119
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 402
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484d53f2f4b05d00800000000000000
+      internalID: 959465676187977795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_120
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 346
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7938ac00f73a9ea0800000000000000
+      internalID: -5865314060552619649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_121
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 346
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b079410f15fa5b0800000000000000
+      internalID: -5354971340340786322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_122
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 346
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de76aeb17625a800800000000000000
+      internalID: 622946393432424151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_123
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 346
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22223b8c6e5e4f6f0800000000000000
+      internalID: -651643266689457630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_124
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 346
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9a1baabf717d1a0800000000000000
+      internalID: -6784927943942362666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_125
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 346
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d805e7e99d7264a60800000000000000
+      internalID: 7657852032010571917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_126
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 346
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21436409b93574a0800000000000000
+      internalID: -6596302612408876753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_127
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 346
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ef1a1829b9733e0800000000000000
+      internalID: -2074018049838416237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_128
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 346
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca26daf6844db9770800000000000000
+      internalID: 8618715719479943852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_129
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 346
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71b3b7d2feb365e0800000000000000
+      internalID: -1917479066119458433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_130
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 346
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d84632767862160800000000000000
+      internalID: 7000431547839188302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_131
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 346
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d061ffc5aefb210800000000000000
+      internalID: 1351056098371964169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_132
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 346
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a291f55d5e6f4910800000000000000
+      internalID: 1823797721261249190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_133
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 346
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eb5fd64858effa0800000000000000
+      internalID: -5765023669160657298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_134
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 346
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f1c0823903b7c60800000000000000
+      internalID: 7816894986821836622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_135
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 346
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef48ce934d29b4d90800000000000000
+      internalID: -7112429746299042562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_136
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 346
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b4b6ca7cb4eb650800000000000000
+      internalID: 6250516653800115014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_137
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 365
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e18a85a17d49c820800000000000000
+      internalID: 2938965382339920361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_138
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 346
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3c6fa2c9ea3aea0800000000000000
+      internalID: -5862650304147307526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_139
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 367
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73becddc44da98700800000000000000
+      internalID: 543155741098044215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_140
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 345
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e4cb4e9eb582670800000000000000
+      internalID: 8514156155666976282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_141
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 346
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128bb3e46da606000800000000000000
+      internalID: 27139066432305185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_142
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 345
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83038fb3542db11c0800000000000000
+      internalID: -4531797405217574856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_143
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 346
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b486fda5666ecd0800000000000000
+      internalID: -2529221600240710760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_144
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 358
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f4d72475d27ed30800000000000000
+      internalID: 4460583808734678817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_145
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 346
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7233207a9453b8690800000000000000
+      internalID: -7598921355806756057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_146
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 346
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c30d2573ec70ea40800000000000000
+      internalID: 5395449669955158976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_147
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 346
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4ca9eb7747c9cf0800000000000000
+      internalID: -244192222137105159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_148
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 357
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc47f42a3a1bea90800000000000000
+      internalID: -7283699135311033126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_149
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 346
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e0bd4f781b1e390800000000000000
+      internalID: -7790750682887549405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_150
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 346
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f276ba8c252a2fd20800000000000000
+      internalID: 3310887152508430127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_151
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 346
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074b3640ea9151780800000000000000
+      internalID: -8713029668889709456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_152
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14136ed71dd9ad930800000000000000
+      internalID: 4168817928170778945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_153
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 346
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b720700521dafe360800000000000000
+      internalID: 7201164623352365691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_154
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 292
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37abc78bf09ad7400800000000000000
+      internalID: 323600633225329267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 292
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b34c56795221d490800000000000000
+      internalID: -7723354118330498121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_156
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 292
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524283472387b6d20800000000000000
+      internalID: 3272841712308331557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_157
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 292
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab3514617fe9d470800000000000000
+      internalID: 8420024248635308965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_158
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 292
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2adcf65fffec6140800000000000000
+      internalID: 4714406789905177135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_159
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 291
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbb6488096973a40800000000000000
+      internalID: 5347908630031547339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_160
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 291
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deac08758430269b0800000000000000
+      internalID: -5088501019734652179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_161
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 304
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e9edeee76a44960800000000000000
+      internalID: 7585370736502414921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_162
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 291
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0843d28ad6a225640800000000000000
+      internalID: 5067159181206566016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_163
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 292
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648c1235449ec2690800000000000000
+      internalID: -7625463589383321530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_164
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 292
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909e04a7bc0c14470800000000000000
+      internalID: 8377188762047801609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_165
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 236
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839bc063a3d610d0800000000000000
+      internalID: -3452339365675822207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_166
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 237
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5e3d09adeec5390800000000000000
+      internalID: -7828119429776677398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_167
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 237
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596266840b3053c60800000000000000
+      internalID: 7797142385525663381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_168
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 238
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340e588429e13aaa0800000000000000
+      internalID: -6151039052427173821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_169
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 238
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15e5fef415701e30800000000000000
+      internalID: 4472203163016226075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_170
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 238
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8243665f1dcc79ad0800000000000000
+      internalID: -2695460649820605400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_171
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 238
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb1e9c9d32c365a0800000000000000
+      internalID: -6529161464880686106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_172
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 236
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2179a8bf5097b99f0800000000000000
+      internalID: -460641470273382638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_173
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 230
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be80f8ed4c7058a0800000000000000
+      internalID: -6318413603138400590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_174
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6513cabb459df2d00800000000000000
+      internalID: 950217004347568470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_175
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 216
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e167f451c58b6b30800000000000000
+      internalID: 4281662936146469353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_176
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 216
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c0ea160e67aa440800000000000000
+      internalID: 4947897846703459368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_177
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 215
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4832b05431ca14f0800000000000000
+      internalID: -857160348624340917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_178
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 215
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0970fde76748bb940800000000000000
+      internalID: 5312985829883185040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_179
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 216
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605f3d4818938fab0800000000000000
+      internalID: -4974162559988665082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_180
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 162
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f472b208baeb930800000000000000
+      internalID: 4160951672705077079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_181
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 162
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1bae54a64b41220800000000000000
+      internalID: 2455786065356304808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_182
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d1c5276c9a0d300800000000000000
+      internalID: 274906247056858467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_183
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 162
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e096e6d1af5e9d080800000000000000
+      internalID: -9162039104510203634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_184
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 162
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd3791428ec14170800000000000000
+      internalID: 8161031058613550579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_185
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 162
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db95436c83fdba10800000000000000
+      internalID: 1926963999870917590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_186
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 162
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08de60a7cc014270800000000000000
+      internalID: 8232875645339621389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_187
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 162
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324d1d47704792150800000000000000
+      internalID: 5848333166490801187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_188
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 162
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3cf7e59074839c0800000000000000
+      internalID: -3947326967824530440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_189
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 108
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f73398de762b360800000000000000
+      internalID: 7183918625516125972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_190
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 108
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1236ab848d2794ff0800000000000000
+      internalID: -51383647479373023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_191
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c02c261122354110800000000000000
+      internalID: 1244455989725110472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_192
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 108
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec506d337602c5f60800000000000000
+      internalID: 8024324263690765774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_193
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 108
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c85c1f561cc113d0800000000000000
+      internalID: -3237582260645635898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_194
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 108
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8329d5120287c3c50800000000000000
+      internalID: 6646319229486076472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_195
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 108
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd31616139e4f1e0800000000000000
+      internalID: -2164849122561933857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_196
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 108
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ab9c223d49f29b0800000000000000
+      internalID: -5102696218244826497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_197
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 108
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648857d5e042f8400800000000000000
+      internalID: 328520941937461318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_198
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 108
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2661fa3e2a9aa8520800000000000000
+      internalID: 2705161043259102818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_199
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 108
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bca2fbe8eac10d0800000000000000
+      internalID: -3450691286356800617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_200
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 108
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ce1d575e79058d0800000000000000
+      internalID: -2859618751600268188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_201
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 108
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347f02d6429e03f50800000000000000
+      internalID: 6859238575144236867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_202
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 54
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03190b183b4ec2b0800000000000000
+      internalID: -5562425785412152562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_203
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1462512389a9fc00800000000000000
+      internalID: 934964778320946207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_204
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6c9d2efd2a22550800000000000000
+      internalID: 6134644724899366630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_205
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 54
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ee63676f89f41f0800000000000000
+      internalID: -1058459203096088945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_206
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 72
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba46aca10714ab50800000000000000
+      internalID: 6603428249590975154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_207
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 55
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cee50951cbcd090800000000000000
+      internalID: -8008319236569109439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_208
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 76
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213567b9a287097d0800000000000000
+      internalID: -2913696834516528366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_209
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 21
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c738fe33c4f49cb10800000000000000
+      internalID: 2002218698050339708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_210
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 76
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5823ea16a574d56a0800000000000000
+      internalID: -6458927837067988347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_211
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 57
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a35352a6992bb920800000000000000
+      internalID: 3007042903145141161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_212
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 56
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3d3ea76fc9f5210800000000000000
+      internalID: 1323949397907854254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_213
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 22
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279880111b5757a40800000000000000
+      internalID: 5365323934437247346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_214
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 75
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fc3fed7c3c3a670800000000000000
+      internalID: 8548891780885761871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_215
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 22
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e1a79df2f037c90800000000000000
+      internalID: -7173373083284529641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_216
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 22
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f124f2a6876e530800000000000000
+      internalID: 3883924126108360459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_217
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 21
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5cd9dd6d611e920800000000000000
+      internalID: 3017718337411859924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_218
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 21
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547011efee1881fe0800000000000000
+      internalID: -1218080835738990779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_219
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 21
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fb3cf72c41ccfa0800000000000000
+      internalID: -5779221396223443045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_220
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 21
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e88ac56909a4eed0800000000000000
+      internalID: -2385596044771948311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_221
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 22
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ac6a1f84eb90580800000000000000
+      internalID: -8860341571373577612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_222
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 22
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bf46008fc4665e0800000000000000
+      internalID: -1916759963357349028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_223
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6e69932b83aaa10800000000000000
+      internalID: 1921410529148462757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_224
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 22
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d258630b4dc7460800000000000000
+      internalID: 7240896154198945082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_225
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 22
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faafb4b52a1cae320800000000000000
+      internalID: 2588093838938340015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chatacter_mop_ss_226
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 22
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15806cfa81f6f3c50800000000000000
+      internalID: 6647153726841030737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chatacter_mop_ss_0: -4533539555941983908
+      chatacter_mop_ss_1: -3010580641507646641
+      chatacter_mop_ss_10: 7712896484464618098
+      chatacter_mop_ss_100: 4892000222180776943
+      chatacter_mop_ss_101: -5233215025935180757
+      chatacter_mop_ss_102: 3467010948217941740
+      chatacter_mop_ss_103: -3682426156821220289
+      chatacter_mop_ss_104: 6883215814281645319
+      chatacter_mop_ss_105: -2561090771688982991
+      chatacter_mop_ss_106: -4595932525976258781
+      chatacter_mop_ss_107: -1191090474710506938
+      chatacter_mop_ss_108: -4387784648017541782
+      chatacter_mop_ss_109: 1681919840313329907
+      chatacter_mop_ss_11: 4686653999958372186
+      chatacter_mop_ss_110: 5000260326052660351
+      chatacter_mop_ss_111: 9013652139654858831
+      chatacter_mop_ss_112: -6114126087113524738
+      chatacter_mop_ss_113: -34614258998678615
+      chatacter_mop_ss_114: 392185192358818937
+      chatacter_mop_ss_115: 2920809882541231734
+      chatacter_mop_ss_116: -4211973312620276275
+      chatacter_mop_ss_117: 1082009665097540915
+      chatacter_mop_ss_118: 5909241080993551385
+      chatacter_mop_ss_119: 959465676187977795
+      chatacter_mop_ss_12: -3157422073917330259
+      chatacter_mop_ss_120: -5865314060552619649
+      chatacter_mop_ss_121: -5354971340340786322
+      chatacter_mop_ss_122: 622946393432424151
+      chatacter_mop_ss_123: -651643266689457630
+      chatacter_mop_ss_124: -6784927943942362666
+      chatacter_mop_ss_125: 7657852032010571917
+      chatacter_mop_ss_126: -6596302612408876753
+      chatacter_mop_ss_127: -2074018049838416237
+      chatacter_mop_ss_128: 8618715719479943852
+      chatacter_mop_ss_129: -1917479066119458433
+      chatacter_mop_ss_13: -5094336168105790313
+      chatacter_mop_ss_130: 7000431547839188302
+      chatacter_mop_ss_131: 1351056098371964169
+      chatacter_mop_ss_132: 1823797721261249190
+      chatacter_mop_ss_133: -5765023669160657298
+      chatacter_mop_ss_134: 7816894986821836622
+      chatacter_mop_ss_135: -7112429746299042562
+      chatacter_mop_ss_136: 6250516653800115014
+      chatacter_mop_ss_137: 2938965382339920361
+      chatacter_mop_ss_138: -5862650304147307526
+      chatacter_mop_ss_139: 543155741098044215
+      chatacter_mop_ss_14: 5393610994090474574
+      chatacter_mop_ss_140: 8514156155666976282
+      chatacter_mop_ss_141: 27139066432305185
+      chatacter_mop_ss_142: -4531797405217574856
+      chatacter_mop_ss_143: -2529221600240710760
+      chatacter_mop_ss_144: 4460583808734678817
+      chatacter_mop_ss_145: -7598921355806756057
+      chatacter_mop_ss_146: 5395449669955158976
+      chatacter_mop_ss_147: -244192222137105159
+      chatacter_mop_ss_148: -7283699135311033126
+      chatacter_mop_ss_149: -7790750682887549405
+      chatacter_mop_ss_15: -1846320598180122030
+      chatacter_mop_ss_150: 3310887152508430127
+      chatacter_mop_ss_151: -8713029668889709456
+      chatacter_mop_ss_152: 4168817928170778945
+      chatacter_mop_ss_153: 7201164623352365691
+      chatacter_mop_ss_154: 323600633225329267
+      chatacter_mop_ss_155: -7723354118330498121
+      chatacter_mop_ss_156: 3272841712308331557
+      chatacter_mop_ss_157: 8420024248635308965
+      chatacter_mop_ss_158: 4714406789905177135
+      chatacter_mop_ss_159: 5347908630031547339
+      chatacter_mop_ss_16: 6579904938837969883
+      chatacter_mop_ss_160: -5088501019734652179
+      chatacter_mop_ss_161: 7585370736502414921
+      chatacter_mop_ss_162: 5067159181206566016
+      chatacter_mop_ss_163: -7625463589383321530
+      chatacter_mop_ss_164: 8377188762047801609
+      chatacter_mop_ss_165: -3452339365675822207
+      chatacter_mop_ss_166: -7828119429776677398
+      chatacter_mop_ss_167: 7797142385525663381
+      chatacter_mop_ss_168: -6151039052427173821
+      chatacter_mop_ss_169: 4472203163016226075
+      chatacter_mop_ss_17: -4708762290239339429
+      chatacter_mop_ss_170: -2695460649820605400
+      chatacter_mop_ss_171: -6529161464880686106
+      chatacter_mop_ss_172: -460641470273382638
+      chatacter_mop_ss_173: -6318413603138400590
+      chatacter_mop_ss_174: 950217004347568470
+      chatacter_mop_ss_175: 4281662936146469353
+      chatacter_mop_ss_176: 4947897846703459368
+      chatacter_mop_ss_177: -857160348624340917
+      chatacter_mop_ss_178: 5312985829883185040
+      chatacter_mop_ss_179: -4974162559988665082
+      chatacter_mop_ss_18: 2619400302482684640
+      chatacter_mop_ss_180: 4160951672705077079
+      chatacter_mop_ss_181: 2455786065356304808
+      chatacter_mop_ss_182: 274906247056858467
+      chatacter_mop_ss_183: -9162039104510203634
+      chatacter_mop_ss_184: 8161031058613550579
+      chatacter_mop_ss_185: 1926963999870917590
+      chatacter_mop_ss_186: 8232875645339621389
+      chatacter_mop_ss_187: 5848333166490801187
+      chatacter_mop_ss_188: -3947326967824530440
+      chatacter_mop_ss_189: 7183918625516125972
+      chatacter_mop_ss_19: -6760050792569610009
+      chatacter_mop_ss_190: -51383647479373023
+      chatacter_mop_ss_191: 1244455989725110472
+      chatacter_mop_ss_192: 8024324263690765774
+      chatacter_mop_ss_193: -3237582260645635898
+      chatacter_mop_ss_194: 6646319229486076472
+      chatacter_mop_ss_195: -2164849122561933857
+      chatacter_mop_ss_196: -5102696218244826497
+      chatacter_mop_ss_197: 328520941937461318
+      chatacter_mop_ss_198: 2705161043259102818
+      chatacter_mop_ss_199: -3450691286356800617
+      chatacter_mop_ss_2: -3309376352000388950
+      chatacter_mop_ss_20: -1881247482247197345
+      chatacter_mop_ss_200: -2859618751600268188
+      chatacter_mop_ss_201: 6859238575144236867
+      chatacter_mop_ss_202: -5562425785412152562
+      chatacter_mop_ss_203: 934964778320946207
+      chatacter_mop_ss_204: 6134644724899366630
+      chatacter_mop_ss_205: -1058459203096088945
+      chatacter_mop_ss_206: 6603428249590975154
+      chatacter_mop_ss_207: -8008319236569109439
+      chatacter_mop_ss_208: -2913696834516528366
+      chatacter_mop_ss_209: 2002218698050339708
+      chatacter_mop_ss_21: 726785189787546535
+      chatacter_mop_ss_210: -6458927837067988347
+      chatacter_mop_ss_211: 3007042903145141161
+      chatacter_mop_ss_212: 1323949397907854254
+      chatacter_mop_ss_213: 5365323934437247346
+      chatacter_mop_ss_214: 8548891780885761871
+      chatacter_mop_ss_215: -7173373083284529641
+      chatacter_mop_ss_216: 3883924126108360459
+      chatacter_mop_ss_217: 3017718337411859924
+      chatacter_mop_ss_218: -1218080835738990779
+      chatacter_mop_ss_219: -5779221396223443045
+      chatacter_mop_ss_22: 4800655719641823983
+      chatacter_mop_ss_220: -2385596044771948311
+      chatacter_mop_ss_221: -8860341571373577612
+      chatacter_mop_ss_222: -1916759963357349028
+      chatacter_mop_ss_223: 1921410529148462757
+      chatacter_mop_ss_224: 7240896154198945082
+      chatacter_mop_ss_225: 2588093838938340015
+      chatacter_mop_ss_226: 6647153726841030737
+      chatacter_mop_ss_23: -6077397707195961554
+      chatacter_mop_ss_24: -5967036619922448619
+      chatacter_mop_ss_25: 4446728159540500462
+      chatacter_mop_ss_26: -3407758887376358479
+      chatacter_mop_ss_27: 7611005255952818391
+      chatacter_mop_ss_28: -7866544179595138071
+      chatacter_mop_ss_29: 6354971746680970129
+      chatacter_mop_ss_3: -5558677814386900040
+      chatacter_mop_ss_30: -1795185331611278782
+      chatacter_mop_ss_31: -7340885862212908552
+      chatacter_mop_ss_32: 7947494643886180040
+      chatacter_mop_ss_33: 4819895222065285365
+      chatacter_mop_ss_34: 7070981027318329248
+      chatacter_mop_ss_35: -4720335001306237343
+      chatacter_mop_ss_36: -859159832936789227
+      chatacter_mop_ss_37: -3039443471156141025
+      chatacter_mop_ss_38: 6409383622365230897
+      chatacter_mop_ss_39: -8999453063859820521
+      chatacter_mop_ss_4: 4312708286535469313
+      chatacter_mop_ss_40: -7492852484919835356
+      chatacter_mop_ss_41: -7486504450626526813
+      chatacter_mop_ss_42: -9202246238122636636
+      chatacter_mop_ss_43: 478002681938241019
+      chatacter_mop_ss_44: -5496007633801540115
+      chatacter_mop_ss_45: -4173337118682000640
+      chatacter_mop_ss_46: 4890008712534080207
+      chatacter_mop_ss_47: 2246856364984666447
+      chatacter_mop_ss_48: -9130647151252538240
+      chatacter_mop_ss_49: -8411592650378226513
+      chatacter_mop_ss_5: -2703702971014200236
+      chatacter_mop_ss_50: -7806232838674230718
+      chatacter_mop_ss_51: 2804257393206753761
+      chatacter_mop_ss_52: 5957648800234238477
+      chatacter_mop_ss_53: 5852217524024697797
+      chatacter_mop_ss_54: -7537671022697914331
+      chatacter_mop_ss_55: -6192607443026750122
+      chatacter_mop_ss_56: -1517172951019591167
+      chatacter_mop_ss_57: 1736346939127377273
+      chatacter_mop_ss_58: -690674289970909832
+      chatacter_mop_ss_59: 4944050278224112554
+      chatacter_mop_ss_6: -2155714470633070904
+      chatacter_mop_ss_60: -7951273798025108285
+      chatacter_mop_ss_61: 7407472156961174916
+      chatacter_mop_ss_62: -8174821943914565317
+      chatacter_mop_ss_63: -6729098149452440485
+      chatacter_mop_ss_64: 7517320239550862351
+      chatacter_mop_ss_65: -7896170870271643608
+      chatacter_mop_ss_66: -6809855181243463995
+      chatacter_mop_ss_67: -4971888018594894897
+      chatacter_mop_ss_68: 8584782063255271021
+      chatacter_mop_ss_69: 2063993984016597489
+      chatacter_mop_ss_7: -3332169461408303153
+      chatacter_mop_ss_70: 6389447089726687353
+      chatacter_mop_ss_71: -6491406851492293285
+      chatacter_mop_ss_72: -2906979991614288066
+      chatacter_mop_ss_73: -5285812948505447049
+      chatacter_mop_ss_74: -2548052365894638672
+      chatacter_mop_ss_75: 6864755594440498609
+      chatacter_mop_ss_76: -5510576667074081817
+      chatacter_mop_ss_77: 3597924906961087383
+      chatacter_mop_ss_78: 8414662049674005594
+      chatacter_mop_ss_79: -7904953465013046283
+      chatacter_mop_ss_8: -8780402173386205982
+      chatacter_mop_ss_80: -1866921553658531564
+      chatacter_mop_ss_81: 1979725770008742729
+      chatacter_mop_ss_82: -7206112797476258812
+      chatacter_mop_ss_83: -761055865808020431
+      chatacter_mop_ss_84: 8174176736173284595
+      chatacter_mop_ss_85: -2080874047052588853
+      chatacter_mop_ss_86: -8617129089579116361
+      chatacter_mop_ss_87: -3778970974364376971
+      chatacter_mop_ss_88: -8110641955493282422
+      chatacter_mop_ss_89: 4526803011811428065
+      chatacter_mop_ss_9: -2604155754964377559
+      chatacter_mop_ss_90: -4732083268434218639
+      chatacter_mop_ss_91: 668138642780929481
+      chatacter_mop_ss_92: -2612525302143641869
+      chatacter_mop_ss_93: -3181760659813785906
+      chatacter_mop_ss_94: 4572950400515565684
+      chatacter_mop_ss_95: -1086220956245868065
+      chatacter_mop_ss_96: 3205402247976999674
+      chatacter_mop_ss_97: 4239393555150596940
+      chatacter_mop_ss_98: 6689248220055164133
+      chatacter_mop_ss_99: 6422562219463053966
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
