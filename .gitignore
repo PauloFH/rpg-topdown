@@ -1,7 +1,8 @@
 # OS
 Thumbs.db
 .DS_Store
-
+.plastic/*
+plastic.**
 # GIT
 .gitconfig
 
